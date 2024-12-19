@@ -13,9 +13,9 @@ Thank you for your interest in contributing to Engineering Leadership Resources!
      Brief description of the resource and its value
      ```
 
-2. **Organizing Resources**
+2. **Organising Resources**
    - Use the following categories:
-     - **🧠 Organizational Health**
+     - **🧠 Organisational Health**
      - **⚙️ Technical Health**
      - **🚀 Delivery & Execution**
 

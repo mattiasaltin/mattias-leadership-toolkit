@@ -41,6 +41,6 @@ This article from Harvard Business Review urges leaders to embrace humility, ack
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
-- [👥 Organizational Health](../README.md)
+- [👥 Organisational Health](../README.md)
 - [⬅️ Previous: General Leadership](general-leadership.md)
-- [➡�� Next: Inspiring Your Team](inspiring-your-team.md)
+- [➡️ Next: Inspiring Your Team](inspiring-your-team.md)

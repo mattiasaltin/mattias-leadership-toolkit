@@ -30,13 +30,13 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 
 | Area | Description |
 |------|-------------|
-| 👥 [Organizational Health](org-health/) | Building and nurturing high-performing teams |
+| 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams |
 | ⚙️ [Technical Health](tech-health/) | Ensuring sustainable technical excellence |
-| 🚀 [Delivery & Execution](delivery-execution/) | Optimizing for value delivery |
+| 🚀 [Delivery & Execution](delivery-execution/) | Optimising for value delivery |
 
 ## 🗺️ Quick Navigation
 
-### 👥 Organizational Health
+### 🧠 Organisational Health
 
 - 📚 [General Leadership](org-health/general-leadership.md)
 - 🛡️ [Psychological Safety](org-health/psychological-safety.md)
