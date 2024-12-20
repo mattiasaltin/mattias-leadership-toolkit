@@ -13,6 +13,13 @@ Thank you for your interest in contributing to Engineering Leadership Resources!
      Brief description of the resource and its value
      ```
 
+   - Help the reader by using a matching icon, e.g:
+      - 📘 Book  
+      - 🎥 Video/Talk  
+      - 📄 Article/Blog Post  
+      - 🎧 Podcast  
+      - 📊 Research Paper/Whitepaper
+
 2. **Organising Resources**
    - Use the following categories:
      - **🧠 Organisational Health**
