@@ -26,7 +26,7 @@ Guidelines for creating inclusive job descriptions that attract diverse candidat
 🔗 [Structured Interviewing](https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/) by Google  
 Google's guide to implementing structured interviews, including question design, evaluation criteria, and reducing bias in the hiring process.
 
-## Navigation
+## 🧭 Navigation
 
-- [Back to Organizational Health](README.md)
-- Previous: [DEI (Diversity, Equity, and Inclusion)](dei.md)
+- [🧠 Back to Organisational Health](README.md)
+- [⬅️ Previous: DEI (Diversity, Equity, and Inclusion)](dei.md)
