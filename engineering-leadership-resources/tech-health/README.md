@@ -4,21 +4,16 @@ Technical health is fundamental to sustainable engineering organizations. This s
 
 ## 📑 Sections
 
-| Section | Description |
-|---------|-------------|
-| 🏗️ [Architecture](architecture.md) | Patterns and practices for scalable systems |
-| 📊 [KPIs](kpis.md) | Measuring technical performance |
-| 💸 [Technical Debt](technical-debt.md) | Managing and addressing tech debt |
-| ✅ [Testing](testing.md) | Testing strategies and practices |
-| 🔧 [Infrastructure](infrastructure.md) | Cloud and platform management |
-| 🔒 [Security](security.md) | Security principles and practices |
+- 🏗️ [Architecture](architecture.md) | Patterns and practices for scalable systems
+- 📊 [KPIs](kpis.md) | Measuring technical performance
+- 💸 [Technical Debt](technical-debt.md) | Managing and addressing tech debt
+- ✅ [Testing](testing.md) | Testing strategies and practices
+- 🔧 [Infrastructure](infrastructure.md) | Cloud and platform management
+- 🔒 [Security](security.md) | Security principles and practices
 
 ## 🧭 Navigation
 
-📍 You are here: **Engineering Leadership** > **Technical Health**
-
-### Quick Links
-
-- 🏠 [Home](../README.md)
-- 👥 [Organizational Health](../org-health/README.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../org-health/README.md)
 - 🚀 [Delivery & Execution](../delivery-execution/README.md)
+- 📦 [Other](../other/README.md)
