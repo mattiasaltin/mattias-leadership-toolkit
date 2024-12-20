@@ -46,6 +46,7 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 - 🎯 [Coaching & Mentoring](org-health/coaching-and-mentoring.md)
 - 🌈 [DEI](org-health/dei.md)
 - 🧲 [Recruiting](org-health/recruiting.md)
+- 🇸🇪 [Swedish Employment Law](org-health/swedish-employment-law.md)
 
 ### [⚙️ Technical Health](tech-health/)
 

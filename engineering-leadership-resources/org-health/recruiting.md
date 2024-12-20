@@ -31,3 +31,4 @@ Google's guide to implementing structured interviews, including question design,
 - [🏠 Home](../../README.md)
 - [🧠 Organisational Health](../README.md)
 - [⬅️ Previous: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)
+- [➡️ Next: 🇸🇪 Swedish Employment Law](swedish-employment-law.md)

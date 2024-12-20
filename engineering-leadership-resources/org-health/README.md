@@ -12,6 +12,7 @@ Engineering leadership starts with people. Organisational health is about creati
 - 🎯 [Coaching & Mentoring](coaching-and-mentoring.md)
 - 🌈 [DEI (Diversity, Equity, and Inclusion)](dei.md)
 - 🎯 [Recruiting](recruiting.md)
+- 🇸🇪 [Swedish Employment Law](swedish-employment-law.md)
 
 ## 🧭 Navigation
 
