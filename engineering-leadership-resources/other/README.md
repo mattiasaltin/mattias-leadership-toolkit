@@ -9,5 +9,6 @@ TBC
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../org-health/README.md)
 - [⚙️ Technical Health](../tech-health/README.md)
 - 🚀 [Delivery & Execution](../delivery-execution/README.md)
