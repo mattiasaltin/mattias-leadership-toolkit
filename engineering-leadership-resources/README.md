@@ -36,7 +36,7 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 
 ## 🗺️ Quick Navigation
 
-### 🧠 Organisational Health
+### [🧠 Organisational Health](org-health/README.md)
 
 - 📚 [General Leadership](org-health/general-leadership.md)
 - 🛡️ [Psychological Safety](org-health/psychological-safety.md)
@@ -47,7 +47,7 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 - 🌈 [DEI](org-health/dei.md)
 - 🧲 [Recruiting](org-health/recruiting.md)
 
-### ⚙️ Technical Health
+### [⚙️ Technical Health](tech-health/README.md)
 
 - 🏗️ [Architecture](tech-health/architecture.md)
 - 📊 [KPIs](tech-health/kpis.md)
@@ -56,7 +56,7 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 - 🔧 [Infrastructure](tech-health/infrastructure.md)
 - 🔒 [Security](tech-health/security.md)
 
-### 🚀 Delivery & Execution
+### [🚀 Delivery & Execution](delivery-execution/README.md)
 
 - 📋 [Product Operating Model](delivery-execution/product-operating-model.md)
 - 📈 [Metrics and Measurement](delivery-execution/metrics-and-measurement.md)
