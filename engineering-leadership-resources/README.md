@@ -24,15 +24,13 @@ While [I personally love diving into books](https://www.goodreads.com/review/lis
 - 🎧 Podcast  
 - 📊 Research Paper/Whitepaper
 
-I hope you find this collection helpful and that it sparks new ideas or perspectives in your own leadership journey. If you have any favourites I’ve missed or other recommendations, I’d genuinely love to hear from you - there’s always more to learn!
+I hope you find this collection helpful and that it sparks new ideas or perspectives in your own leadership journey. If you have any favourites I’ve missed or other recommendations, I’d genuinely [love to hear from you](CONTRIBUTING.md) - there’s always more to learn!
 
 ## 📚 Core Areas
 
-| Area | Description |
-|------|-------------|
-| 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams |
-| ⚙️ [Technical Health](tech-health/) | Ensuring sustainable technical excellence |
-| 🚀 [Delivery & Execution](delivery-execution/) | Optimising for value delivery |
+- 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams
+- ⚙️ [Technical Health](tech-health/) | Ensuring sustainable technical excellence
+- 🚀 [Delivery & Execution](delivery-execution/) | Optimising for value delivery
 
 ## 🗺️ Quick Navigation
 
