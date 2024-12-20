@@ -4,7 +4,8 @@ This section contains a variety of resources that are valuable for engineering l
 
 ---
 
-TBC
+- 📄 [EU Data Act - A Summary and Overview](https://docs.google.com/document/d/12XbgFG9LSrs8djXEgRd-4-1FcloDqe4gZnmOSpyzUns/edit?usp=sharing) by Mattias Altin  
+A brief document providing an overview summary and analysis of the EU Data Act, outlining its key provisions, implications, and impact on data sharing within the European Union.
 
 ## 🧭 Navigation
 
