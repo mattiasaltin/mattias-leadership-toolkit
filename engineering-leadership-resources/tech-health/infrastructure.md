@@ -1,4 +1,4 @@
-# Infrastructure
+# 📦 Infrastructure
 
 Modern software requires robust, scalable infrastructure. This section covers cloud platforms, DevOps practices, and infrastructure management approaches.
 
@@ -20,8 +20,9 @@ Morris explores patterns for effectively managing infrastructure using code, bas
 📄 [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)  
 AWS's comprehensive guide to building secure, high-performing, resilient, and efficient infrastructure.
 
-## Navigation
+## 🧭 Navigation
 
-- [Back to Technical Health](README.md)
-- Previous: [Testing](testing.md)
-- Next: [Security](security.md)
+- [🏠 Home](../../README.md)
+- [⚙️ Technical Health](../README.md)
+- [⬅️ Previous: 🧪 Testing](testing.md)
+- [➡️ Next: 🔒 Security](security.md)

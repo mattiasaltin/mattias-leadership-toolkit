@@ -1,24 +1,19 @@
-# Balancing Delivery vs Discovery
+# ⚖️ Balancing Delivery vs Discovery
 
-Finding the right balance between delivering features and discovering what customers need is crucial. This section explores frameworks and practices for managing this balance effectively.
+Balancing delivery and discovery is crucial for building the right products effectively. This section explores strategies for achieving this balance.
 
-📘 [Continuous Discovery Habits](https://www.goodreads.com/book/show/58046715-continuous-discovery-habits) by Teresa Torres  
-Torres provides practical techniques for continuous discovery while maintaining delivery momentum.
+📘 [Inspired: How To Create Products Customers Love](https://www.goodreads.com/book/show/35293024-inspired) by Marty Cagan  
+A guide to product management and balancing delivery with discovery to create products that customers love.
 
-📘 [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
-Cagan explains how to balance product discovery with delivery, emphasizing the importance of both aspects in successful product development.
+🎞 [Balancing Discovery and Delivery](https://www.youtube.com/watch?v=3QFf1C1x0uY) by Teresa Torres  
+Torres discusses techniques for integrating discovery and delivery processes to maximize product success.
 
-🎞 [Product Discovery vs Delivery](https://www.youtube.com/watch?v=l7-5x0ra2tc) by Jeff Patton  
-Patton discusses how to maintain a healthy balance between discovery and delivery activities.
+📄 [The Dual Track Agile Model](https://www.agilealliance.org/resources/experience-reports/the-dual-track-agile-model/) by Agile Alliance  
+An exploration of the dual track agile model and how it supports balancing delivery and discovery.
 
-📄 [Dual Track Development](https://www.jpattonassociates.com/dual-track-development/) by Jeff Patton  
-An explanation of how to run discovery and delivery tracks in parallel effectively.
+## 🧭 Navigation
 
-🎞 [Discovery & Delivery Agility](https://www.youtube.com/watch?v=B1YQ7Q9kq8w) by Dave Farley  
-Farley explores how to maintain agility in both discovery and delivery processes.
-
-## Navigation
-
-- [Back to Delivery & Execution](README.md)
-- Previous: [Continuous Integration and Delivery](continuous-integration-and-delivery.md)
-- Next: [Flow Efficiency](flow-efficiency.md)
+- [🏠 Home](../../README.md)
+- [🚀 Delivery & Execution](../README.md)
+- [⬅️ Previous: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)
+- [➡️ Next: 🤖 AI Assistance](ai-assistance.md)

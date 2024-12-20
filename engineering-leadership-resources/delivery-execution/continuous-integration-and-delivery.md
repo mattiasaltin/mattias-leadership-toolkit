@@ -1,24 +1,19 @@
-# Continuous Integration and Delivery
+# 🔄 Continuous Integration and Delivery
 
-CI/CD practices enable teams to deliver software reliably and frequently. This section covers principles and practices for effective continuous integration and delivery.
+Continuous integration and delivery (CI/CD) are practices that enable teams to deliver software changes quickly and reliably. This section covers CI/CD principles and tools.
 
-📘 [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble and David Farley  
-The definitive guide to building, deploying, and maintaining software systems effectively using continuous delivery practices.
+📘 [Continuous Integration: Improving Software Quality and Reducing Risk](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Paul M. Duvall, Steve Matyas, and Andrew Glover  
+A guide to implementing continuous integration practices to improve software quality and reduce risk.
 
-📘 [The DevOps Handbook](https://www.goodreads.com/book/show/26083308-the-devops-handbook) by Gene Kim, Jez Humble, Patrick Debois, and John Willis  
-A comprehensive guide to implementing DevOps practices, including continuous integration and delivery.
+🎞 [The CI/CD Pipeline](https://www.youtube.com/watch?v=1hHMwLxN6EM) by Dave Farley  
+Farley explains the components of a CI/CD pipeline and how they work together to enable rapid delivery.
 
-🎞 [Continuous Delivery Sounds Great, But It Won't Work Here](https://www.youtube.com/watch?v=837Z_oehhRg) by Jez Humble  
-Humble addresses common objections to continuous delivery and shows how to overcome them.
+📄 [CI/CD Best Practices](https://aws.amazon.com/devops/continuous-integration/) by AWS  
+AWS's guide to best practices for implementing CI/CD pipelines.
 
-📄 [Trunk Based Development](https://trunkbaseddevelopment.com/)  
-A source-control branching model that supports continuous integration and delivery.
+## 🧭 Navigation
 
-🎞 [CI/CD Best Practices](https://www.youtube.com/watch?v=LNLKZ4Rvk8w) by Dave Farley  
-Farley shares practical advice for implementing effective CI/CD pipelines.
-
-## Navigation
-
-- [Back to Delivery & Execution](README.md)
-- Previous: [Metrics and Measurement](metrics-and-measurement.md)
-- Next: [Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
+- [🏠 Home](../../README.md)
+- [🚀 Delivery & Execution](../README.md)
+- [⬅️ Previous: 🔄 Flow Efficiency](flow-efficiency.md)
+- [➡️ Next: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)

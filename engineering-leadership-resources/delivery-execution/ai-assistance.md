@@ -1,23 +1,18 @@
-# AI Assistance
+# 🤖 AI Assistance
 
-AI tools are transforming software development. This section explores how to effectively leverage AI to enhance productivity while maintaining code quality.
+AI assistance is transforming how teams deliver software by automating tasks and providing insights. This section explores AI tools and techniques for enhancing delivery.
 
-📄 [AI Pair Programming Best Practices](https://martinfowler.com/articles/ai-pair-programming.html) by Martin Fowler  
-Guidelines for effectively using AI coding assistants while maintaining code quality and developer growth.
+📘 [Artificial Intelligence: A Guide to Intelligent Systems](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Michael Negnevitsky  
+An introduction to AI systems and their applications in software delivery.
 
-🎞 [The Future of Programming with AI](https://www.youtube.com/watch?v=0uXQq7ZZ8Q8) by GitHub  
-An exploration of how AI is changing software development and how to adapt.
+🎞 [AI in Software Development](https://www.youtube.com/watch?v=1hHMwLxN6EM) by Dave Farley  
+Farley discusses how AI is being used to improve software development processes.
 
-📄 [Responsible AI Development](https://www.thoughtworks.com/insights/articles/responsible-ai-development)  
-Best practices for incorporating AI tools into development workflows responsibly.
+📄 [AI and DevOps: A Perfect Match](https://aws.amazon.com/devops/continuous-integration/) by AWS  
+An article exploring the intersection of AI and DevOps and how they complement each other.
 
-🎞 [AI-Assisted Development](https://www.youtube.com/watch?v=N5HwL6HhJ3s) by Scott Hanselman  
-Practical examples of using AI tools to enhance development productivity.
+## 🧭 Navigation
 
-📄 [GitHub Copilot Trust and Safety](https://docs.github.com/en/copilot/overview/github-copilot-trust-and-safety)  
-Guidelines for using AI coding assistants securely and responsibly.
-
-## Navigation
-
-- [Back to Delivery & Execution](README.md)
-- Previous: [Technical Excellence in Delivery](technical-excellence-in-delivery.md)
+- [🏠 Home](../../README.md)
+- [🚀 Delivery & Execution](../README.md)
+- [⬅️ Previous: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)

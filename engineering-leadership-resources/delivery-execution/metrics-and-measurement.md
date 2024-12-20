@@ -1,24 +1,19 @@
-# Metrics and Measurement
+# 📈 Metrics and Measurement
 
-Effective measurement helps teams understand and improve their delivery performance. This section covers key metrics and approaches to measuring software delivery.
+Metrics and measurement are essential for understanding and improving software delivery performance. This section covers key metrics and how to use them effectively.
 
-📘 [Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters) by John Doerr  
-Doerr introduces OKRs (Objectives and Key Results) and how to use them effectively for measuring progress and driving outcomes.
+📘 [Accelerate: The Science of Lean Software and DevOps](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, and Gene Kim  
+Research-based insights into the metrics that drive high performance in software delivery.
 
-📄 [Measuring Continuous Delivery](https://www.thoughtworks.com/insights/blog/measuring-continuous-delivery) by ThoughtWorks  
-A practical guide to measuring continuous delivery performance using metrics that matter.
+🎞 [Measuring What Matters](https://www.youtube.com/watch?v=QHnLmvDxGTY) by Nicole Forsgren  
+Forsgren discusses the importance of measuring the right metrics to drive improvement and achieve business goals.
 
-🎞 [The Art of Measurement](https://www.youtube.com/watch?v=Gp6KKKuDgP0) by Martin Fowler  
-Fowler discusses how to approach measurement in software development effectively and avoid common pitfalls.
+📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by ThoughtWorks  
+An overview of the four key metrics from Accelerate: deployment frequency, lead time for changes, mean time to recover, and change failure rate.
 
-📄 [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) by Google Cloud  
-An explanation of the four key metrics for measuring software delivery performance.
+## 🧭 Navigation
 
-📘 [Lean Analytics](https://www.goodreads.com/book/show/16033602-lean-analytics) by Alistair Croll and Benjamin Yoskovitz  
-A comprehensive guide to using analytics to build better products faster.
-
-## Navigation
-
-- [Back to Delivery & Execution](README.md)
-- Previous: [Product Operating Model](product-operating-model.md)
-- Next: [Continuous Integration and Delivery](continuous-integration-and-delivery.md)
+- [🏠 Home](../../README.md)
+- [🚀 Delivery & Execution](../README.md)
+- [⬅️ Previous: None]
+- [➡️ Next: 🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md)

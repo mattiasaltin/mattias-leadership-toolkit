@@ -1,24 +1,19 @@
-# Flow Efficiency
+# 🔄 Flow Efficiency
 
-Optimizing flow helps teams deliver value more effectively. This section covers principles and practices for improving flow efficiency in software delivery.
+Flow efficiency is about optimizing the flow of work through a system to maximize value delivery. This section explores techniques for improving flow efficiency.
 
-📘 [Project to Product](https://www.goodreads.com/book/show/40679042-project-to-product) by Mik Kersten  
-Kersten introduces the Flow Framework™ for measuring and improving value stream flow in software delivery.
+📘 [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278308-the-principles-of-product-development-flow) by Donald G. Reinertsen  
+A deep dive into the principles of flow efficiency and how they apply to product development.
 
-🎞 [The Principles of Flow](https://www.youtube.com/watch?v=KeFxXXUgMvs) by Dan North  
-North explains core principles of flow and how to apply them in software development.
+🎞 [Improving Flow Efficiency](https://www.youtube.com/watch?v=3QFf1C1x0uY) by Dominica DeGrandis  
+DeGrandis discusses strategies for identifying and eliminating bottlenecks to improve flow efficiency.
 
-📄 [Optimizing Flow](https://www.thoughtworks.com/insights/blog/optimizing-flow-why-user-stories-are-not-enough) by ThoughtWorks  
-A practical guide to identifying and removing bottlenecks in your delivery process.
+📄 [Flow Efficiency: The Key to Unlocking Value](https://www.infoq.com/articles/flow-efficiency-key-unlocking-value/) by InfoQ  
+An article exploring the concept of flow efficiency and its impact on value delivery.
 
-📘 [Making Work Visible](https://www.goodreads.com/book/show/36458712-making-work-visible) by Dominica DeGrandis  
-DeGrandis shows how to expose time theft and optimize flow in knowledge work.
+## 🧭 Navigation
 
-🎞 [The Flow System](https://www.youtube.com/watch?v=ZGPQGt1vB0w) by John Willis  
-Willis discusses how to create and maintain smooth flow in software delivery.
-
-## Navigation
-
-- [Back to Delivery & Execution](README.md)
-- Previous: [Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
-- Next: [Technical Excellence in Delivery](technical-excellence-in-delivery.md)
+- [🏠 Home](../../README.md)
+- [🚀 Delivery & Execution](../README.md)
+- [⬅️ Previous: 🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md)
+- [➡️ Next: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)

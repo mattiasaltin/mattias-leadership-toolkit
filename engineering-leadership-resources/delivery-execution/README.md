@@ -1,13 +1,13 @@
 # 🚀 Delivery & Execution
 
-Effective delivery and execution are crucial for creating value through software. This section focuses on practices, frameworks, and approaches that help teams deliver high-quality software efficiently and sustainably.
+This section focuses on the practices and principles that drive effective software delivery and execution. It covers a range of topics from metrics and measurement to AI assistance.
 
-## Sections
+## 🧭 Navigation
 
-- [Product Operating Model](product-operating-model.md)
-- [Metrics and Measurement](metrics-and-measurement.md)
-- [Continuous Integration and Delivery](continuous-integration-and-delivery.md)
-- [Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
-- [Flow Efficiency](flow-efficiency.md)
-- [Technical Excellence in Delivery](technical-excellence-in-delivery.md)
-- [AI Assistance](ai-assistance.md)
+- [🏠 Home](../../README.md)
+- [📈 Metrics and Measurement](metrics-and-measurement.md)
+- [🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md)
+- [🔄 Flow Efficiency](flow-efficiency.md)
+- [🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)
+- [⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
+- [🤖 AI Assistance](ai-assistance.md)
