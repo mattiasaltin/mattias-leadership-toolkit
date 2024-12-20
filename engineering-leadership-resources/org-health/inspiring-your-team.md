@@ -44,6 +44,6 @@ Bailey explores how passion and authenticity inspire teams to innovate and take 
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
-- [👥 Organizational Health](../README.md)
-- [⬅️ Previous: Psychological Safety](psychological-safety.md)
-- [➡️ Next: Empowerment](empowerment.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: 🛡️ Psychological Safety](psychological-safety.md)
+- [➡️ Next: 🔑 Empowerment](empowerment.md)

@@ -1,4 +1,4 @@
-# DEI (Diversity, Equity, and Inclusion)
+# 🌈 DEI (Diversity, Equity, and Inclusion)
 
 Diversity, equity, and inclusion are essential for creating workplaces where everyone feels valued and empowered to contribute. This section provides resources to foster belonging, address bias, and build more inclusive cultures.
 
@@ -34,6 +34,7 @@ This practical guide provides a step-by-step framework for becoming an inclusive
 
 ## 🧭 Navigation
 
-- [🧠 Back to Organisational Health](README.md)
-- [⬅️ Previous: Coaching & Mentoring](coaching-and-mentoring.md)
-- [➡️ Next: Recruiting](recruiting.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: 🎯 Coaching & Mentoring](coaching-and-mentoring.md)
+- [➡️ Next: 🧲 Recruiting](recruiting.md)

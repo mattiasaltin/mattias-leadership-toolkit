@@ -1,4 +1,4 @@
-# Coaching & Mentoring
+# 🎯 Coaching & Mentoring
 
 Coaching and mentoring are powerful tools for developing talent and fostering growth. This section explores techniques and models for guiding individuals and teams toward their full potential.
 
@@ -17,7 +17,7 @@ This video introduces the GROW model (Goal, Reality, Options, and Way forward), 
 🎞 [The GROW Coaching Model EXPLAINED!](https://www.youtube.com/watch?v=Fjw7vEUdIDE) by MTD Training  
 A practical breakdown of how to use the GROW coaching model to guide teams toward achieving their goals while fostering ownership and accountability.
 
-��� [The GROW Model in Action](https://www.youtube.com/watch?v=6f3X2PEsV-Q) by South West Coaching Ltd  
+🎞 [The GROW Model in Action](https://www.youtube.com/watch?v=6f3X2PEsV-Q) by South West Coaching Ltd  
 A demonstration of the GROW coaching model applied to real-life scenarios, illustrating how leaders can use this framework to navigate coaching conversations.
 
 📘 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach) by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle  
@@ -41,8 +41,9 @@ This book introduces seven essential coaching questions that help leaders have m
 📘 [70:20:10 Framework Explained: Creating High-Performance Cultures](https://books.google.se/books/about/70_20_10_Framework_Explained.html?id=e7IumAEACAAJ&redir_esc=y) by Charles Jennings  
 The book explains the 70:20:10 learning model, highlighting how leaders can leverage coaching (20%) and on-the-job experiences (70%) to foster team growth.
 
-## Navigation
+## 🧭 Navigation
 
-- [Back to Organizational Health](README.md)
-- Previous: [Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
-- Next: [DEI (Diversity, Equity, and Inclusion)](dei.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: 🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
+- [➡️ Next: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)

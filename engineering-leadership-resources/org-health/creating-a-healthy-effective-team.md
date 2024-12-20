@@ -1,4 +1,4 @@
-# Creating a Healthy/Effective Team
+# 🤝 Creating a Healthy/Effective Team
 
 High-performing teams are built on trust, alignment, and shared goals. This section provides frameworks and strategies to nurture effective team dynamics and guide groups from forming to excelling.
 
@@ -32,8 +32,9 @@ North reveals the secrets behind the world's most effective teams, including ado
 🎞 [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)  
 A deep dive into Google's Project Aristotle, highlighting the attributes that drive team success, including clarity of purpose and psychological safety.
 
-## Navigation
+## 🧭 Navigation
 
-- [Back to Organizational Health](README.md)
-- Previous: [Empowerment](empowerment.md)
-- Next: [Coaching & Mentoring](coaching-and-mentoring.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: 🔑 Empowerment](empowerment.md)
+- [➡️ Next: 🎯 Coaching & Mentoring](coaching-and-mentoring.md)

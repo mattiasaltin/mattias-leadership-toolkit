@@ -45,7 +45,7 @@ I hope you find this collection helpful and that it sparks new ideas or perspect
 - 🤝 [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md)
 - 🎯 [Coaching & Mentoring](org-health/coaching-and-mentoring.md)
 - 🌈 [DEI](org-health/dei.md)
-- 🎯 [Recruiting](org-health/recruiting.md)
+- 🧲 [Recruiting](org-health/recruiting.md)
 
 ### ⚙️ Technical Health
 

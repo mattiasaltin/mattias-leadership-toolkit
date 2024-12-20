@@ -1,4 +1,4 @@
-# Empowerment
+# 🔑 Empowerment
 
 Empowerment enables individuals to take ownership and thrive. This section focuses on fostering autonomy, building competence, and providing clarity, ensuring teams have the tools and confidence to succeed.
 
@@ -35,8 +35,9 @@ This article highlights how adopting and encouraging a growth mindset within tea
 🎞 [How to Take Great Engineers & Make Them Great Technical Leaders](https://www.youtube.com/watch?v=RtMmxqkPVug) by Courtney Hemphill  
 Hemphill shares strategies for empowering technical staff to transition into leadership roles while retaining their individual strengths.
 
-## Navigation
+## 🧭 Navigation
 
-- [Back to Organizational Health](README.md)
-- Previous: [Inspiring Your Team](inspiring-your-team.md)
-- Next: [Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: ⭐ Inspiring Your Team](inspiring-your-team.md)
+- [➡️ Next: 🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)

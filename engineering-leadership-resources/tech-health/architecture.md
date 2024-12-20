@@ -1,6 +1,6 @@
 # 🏗️ Architecture
 
-Good architecture enables teams to build and maintain systems effectively. This section covers architectural patterns, principles, and practices that help create scalable, maintainable software systems.
+Architecture is the backbone of any software system, providing the structure and guidelines for building scalable, maintainable, and efficient solutions. This section explores architectural principles, patterns, and best practices.
 
 📘 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert C. Martin  
 This book presents universal rules of software architecture that help you create software that's easier to understand, maintain, and modify.
@@ -28,14 +28,6 @@ Brown explores the relationship between architecture and code, showing how archi
 
 ## 🧭 Navigation
 
-📍 You are here: **Engineering Leadership** > **Technical Health** > **Architecture**
-
-### Quick Links
-
-- 🏠 [Home](../../README.md)
-- ⚙️ [Technical Health](../README.md)
-
-### Section Navigation
-
-- ⬅️ Previous: None
-- ➡️ Next: [KPIs](kpis.md)
+- [🏠 Home](../../README.md)
+- [⚙️ Technical Health](../README.md)
+- [➡️ Next: 📊 KPIs](kpis.md)

@@ -55,6 +55,6 @@ A curated list of engineering management learning materials, including books, ar
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [👥 Organizational Health](../README.md)
-- [➡️ Next: Psychological Safety](psychological-safety.md)
+- [🧠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [➡️ Next: 🛡️ Psychological Safety](psychological-safety.md)

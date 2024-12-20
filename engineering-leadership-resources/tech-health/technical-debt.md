@@ -1,6 +1,6 @@
-# 💸 Technical Debt
+# 💸️ Technical Debt
 
-Technical debt represents the implied cost of additional rework caused by choosing quick solutions now instead of better approaches that would take longer. This section covers strategies for managing and addressing technical debt effectively.
+Technical debt refers to the cost of maintaining and improving software systems due to shortcuts taken during development. This section explores strategies for managing and reducing technical debt.
 
 📘 [Managing Technical Debt](https://www.goodreads.com/book/show/43544676-managing-technical-debt) by Philippe Kruchten, Robert Nord, and Ipek Ozkaya  
 A comprehensive guide to identifying, measuring, and managing technical debt in software systems.
@@ -21,5 +21,5 @@ Uncle Bob explains the difference between messy code and strategic technical deb
 
 - [🏠 Home](../../README.md)
 - [⚙️ Technical Health](../README.md)
-- [⬅️ Previous: KPIs](kpis.md)
-- [➡️ Next: Testing](testing.md)
+- [⬅️ Previous: 🔒 Security](security.md)
+- [➡️ Next: 🧪 Testing](testing.md)

@@ -1,4 +1,4 @@
-# Recruiting
+# 🧲 Recruiting
 
 Effective recruiting is crucial for building strong teams. This section covers strategies for attracting, evaluating, and hiring talented individuals while maintaining high standards and promoting diversity.
 
@@ -28,5 +28,6 @@ Google's guide to implementing structured interviews, including question design,
 
 ## 🧭 Navigation
 
-- [🧠 Back to Organisational Health](README.md)
-- [⬅️ Previous: DEI (Diversity, Equity, and Inclusion)](dei.md)
+- [🏠 Home](../../README.md)
+- [🧠 Organisational Health](../README.md)
+- [⬅️ Previous: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)
