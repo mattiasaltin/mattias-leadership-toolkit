@@ -18,6 +18,7 @@ Thank you for your interest in contributing to Engineering Leadership Resources!
      - **🧠 Organisational Health**
      - **⚙️ Technical Health**
      - **🚀 Delivery & Execution**
+     - **📦 Other**
 
 3. **General Guidelines**
    - Provide clear, concise descriptions
