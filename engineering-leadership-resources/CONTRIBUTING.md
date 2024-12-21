@@ -41,6 +41,3 @@ Thank you for your interest in contributing to the Engineering Leadership Resour
 - We welcome diverse perspectives and encourage open, friendly discussions.
 
 Thank you for helping us build a valuable resource for the engineering leadership community. Your contributions make a difference!
-
-Warm regards,  
-The Engineering Leadership Resources Team
