@@ -2,8 +2,6 @@
 
 Psychological safety is the cornerstone of high-performing teams. This section offers insights and strategies for creating environments where individuals feel safe to voice ideas, take risks, and learn from failure.
 
-Apologies for the earlier confusion. Here’s the resource link in the specified format:
-
 📄 [How to Silence Your Change Agents in 3 Simple Steps](https://substack.com/@mattias/149703729-how-to-silence-your-change-agents-in-3-simple-steps) by Mattias Altin
 An article discussing the unintentional ways organizations suppress new ideas and perspectives, leading to a loss of innovation.
 
