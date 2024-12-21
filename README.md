@@ -10,6 +10,9 @@ With over 25 years of experience, I've had the privilege of working on innovativ
 
 Thank you for visiting, and I hope you find these resources as valuable as I have!
 
+Warm regards,  
+Mattias Altin  
+
 ## Table of Contents
 
 - [Purpose](#purpose)
@@ -36,7 +39,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please see our [Contributing Guidelines](engineering-leadership-resources/CONTRIBUTING.md) for details on how to submit suggestions and improvements.
-
-Warm regards,  
-Mattias Altin  
-P.S. This document is constantly evolving, so don’t be alarmed if it’s changed between visits!
