@@ -10,6 +10,13 @@ With over 25 years of experience, I've had the privilege of working on innovativ
 
 Thank you for visiting, and I hope you find these resources as valuable as I have!
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Structure](#structure)
+- [License](#license)
+- [Contributing](#contributing)
+
 ## Purpose
 
 This repository serves as a resource for leaders, offering insights, best practices, and tools to enhance leadership capabilities across various domains.

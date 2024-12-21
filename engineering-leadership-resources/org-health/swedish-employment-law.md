@@ -1,6 +1,7 @@
 # 🇸🇪 Swedish Employment Law
 
 Understanding Swedish employment law is crucial for managing teams effectively in Sweden. This section provides resources and insights into the legal framework governing employment in Sweden.
+
 🔗 [Employment Protection Act (LAS)](https://www.government.se/legal-documents/2009/02/employment-protection-act-1982-80/) by the Swedish Government  
 The core legislation governing employment contracts, termination, and notice periods. Essential for understanding the rights and obligations of employers and employees.
 
@@ -35,10 +36,10 @@ A comprehensive guide outlining policies and best practices for remote work in S
 Frequently asked questions addressing legal and practical aspects of cross-border remote work involving Sweden, providing insights into compliance and taxation.
 
 📄 [Vad innebär arbetstagarens lojalitetsplikt?](https://lawline.se/answers/vad-innebar-arbetstagarens-lojalitetsplikt) by Lawline  
-An article explaining that all employees are bound by a duty of loyalty to their employer during and, in some cases, after employment. This duty is often an implicit part of the employment contract and requires employees to prioritize the employer's interests over their own. [oai_citation_attribution:4‡Lawline](https://lawline.se/answers/vad-innebar-arbetstagarens-lojalitetsplikt?utm_source=chatgpt.com)
+An article explaining that all employees are bound by a duty of loyalty to their employer during and, in some cases, after employment. This duty is often an implicit part of the employment contract and requires employees to prioritise the employer's interests over their own. [oai_citation_attribution:4‡Lawline](https://lawline.se/answers/vad-innebar-arbetstagarens-lojalitetsplikt?utm_source=chatgpt.com)
 
 📄 [Om lojalitetsplikt och lagen om företagshemligheter](https://www.unionen.se/rad-och-stod/om-lojalitetsplikt-och-lagen-om-foretagshemligheter) by Unionen  
-This resource discusses the implications of the duty of loyalty and the Act on Trade Secrets, emphasizing that breaching this duty can lead to dismissal due to personal reasons or even immediate termination. [oai_citation_attribution:3‡Unionen](https://www.unionen.se/rad-och-stod/om-lojalitetsplikt-och-lagen-om-foretagshemligheter?utm_source=chatgpt.com)
+This resource discusses the implications of the duty of loyalty and the Act on Trade Secrets, emphasising that breaching this duty can lead to dismissal due to personal reasons or even immediate termination. [oai_citation_attribution:3‡Unionen](https://www.unionen.se/rad-och-stod/om-lojalitetsplikt-och-lagen-om-foretagshemligheter?utm_source=chatgpt.com)
 
 📄 [Lojalitetsplikt](https://sv.wikipedia.org/wiki/Lojalitetsplikt) by Wikipedia  
 An overview of the duty of loyalty, describing it as a natural part of the employment contract, which the Swedish Labour Court has established as inherent, regardless of whether it is explicitly mentioned in the contract. [oai_citation_attribution:2‡Wikipedia](https://sv.wikipedia.org/wiki/Lojalitetsplikt?utm_source=chatgpt.com)
