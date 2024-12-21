@@ -21,7 +21,7 @@ Thank you for your interest in contributing to the Engineering Leadership Resour
       - 📊 Research Paper/Whitepaper
 
 2. **Organising Resources**
-   - We’ve organized our resources into the following categories to make them easy to find:
+   - We’ve organised our resources into the following categories to make them easy to find:
      - **🧠 Organisational Health**
      - **⚙️ Technical Health**
      - **🚀 Delivery & Execution**
