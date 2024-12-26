@@ -2,7 +2,7 @@
 
 Understanding Swedish employment law is crucial for managing teams effectively in Sweden. This section provides resources and insights into the legal framework governing employment in Sweden.
 
-🔗 [Employment Protection Act (LAS)](https://www.government.se/legal-documents/2009/02/employment-protection-act-1982-80/) by the Swedish Government  
+🔗 [Employment Protection Act (LAS)](https://en.wikipedia.org/wiki/Employment_Protection_Act_(of_Sweden)) by Wikipedia  
 The core legislation governing employment contracts, termination, and notice periods. Essential for understanding the rights and obligations of employers and employees.
 
 🔗 [Swedish Work Environment Authority](https://www.av.se/en/)  
