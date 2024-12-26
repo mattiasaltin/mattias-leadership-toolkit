@@ -5,7 +5,7 @@ Metrics and measurement are essential for understanding and improving software d
 📘 [Accelerate: The Science of Lean Software and DevOps](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, and Gene Kim  
 Research-based insights into the metrics that drive high performance in software delivery.
 
-🎞 [Measuring What Matters](https://www.youtube.com/watch?v=QHnLmvDxGTY) by Nicole Forsgren  
+🎞 [The SPACE Framework Explained by Nicole Forsgren | Measure Developer Productivity](https://youtu.be/O2rbekHpG4Q?si=wI8rOHu-zMI1Ym1O) by Nicole Forsgren  
 Forsgren discusses the importance of measuring the right metrics to drive improvement and achieve business goals.
 
 📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by ThoughtWorks  

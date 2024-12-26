@@ -8,9 +8,6 @@ A comprehensive guide to implementing continuous delivery practices, ensuring re
 🎞 [The Art of Technical Leadership](https://www.youtube.com/watch?v=F2xV6GgJm0k) by Pat Kua  
 Kua discusses the role of technical leaders in fostering excellence and driving successful delivery outcomes.
 
-📄 [The Technical Excellence Manifesto](https://martinfowler.com/articles/technical-excellence.html) by Martin Fowler  
-An exploration of the principles and practices that underpin technical excellence in software development.
-
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)

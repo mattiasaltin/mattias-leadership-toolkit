@@ -14,7 +14,7 @@ An overview of recent updates to the Employment Protection Act, including change
 🔗 [Guide to Swedish Employment Law](https://leglobal.law/countries/sweden/employment-law/employment-law-overview-sweden/) by L&E Global  
 A user-friendly guide summarising essential aspects of Swedish employment law, including working hours, leave, and collective bargaining agreements.
 
-🔗 [Collective Bargaining Agreements in Sweden](https://www.svensktnaringsliv.se/english/collective-agreements-and-the-labour-market-in-sweden_1047698.html) by the Confederation of Swedish Enterprise  
+🔗 [Collective Bargaining Agreements in Sweden](https://en.wikipedia.org/wiki/Collective_agreement_coverage) by Wikipedia
 An explanation of the role of collective agreements in the Swedish labour market and how they interact with statutory regulations.
 
 📄 [Workplace Discrimination and the Discrimination Act](https://www.do.se/other-languages/english/) by the Equality Ombudsman (DO)  

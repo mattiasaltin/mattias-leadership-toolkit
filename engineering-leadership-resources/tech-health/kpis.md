@@ -5,9 +5,6 @@ Key Performance Indicators (KPIs) are essential for measuring the success of eng
 📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by ThoughtWorks  
 An overview of the four key metrics from Accelerate: deployment frequency, lead time for changes, mean time to recover, and change failure rate.
 
-🎞 [Engineering Metrics at Slack](https://www.youtube.com/watch?v=kvO_nHnvPtQ) by Julia Grace  
-Grace shares how Slack measures engineering effectiveness and uses data to drive improvements.
-
 📄 [Metrics That Matter](https://martinfowler.com/articles/useOfMetrics.html) by Martin Fowler  
 Fowler discusses which metrics are useful for improving software development and which ones can be harmful.
 

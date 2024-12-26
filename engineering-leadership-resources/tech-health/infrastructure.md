@@ -8,13 +8,10 @@ A comprehensive guide to managing infrastructure using code, covering principles
 📘 [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by Google  
 Google's approach to running production systems at scale, including practical advice on automation, monitoring, and incident response.
 
-🎞 [The Art of Platform Thinking](https://www.youtube.com/watch?v=S6GQiXHOtbk) by Evan Bottcher  
-Bottcher discusses how to build and evolve technical platforms that enable teams to deliver value efficiently.
-
 📄 [The Cloud Native Landscape](https://landscape.cncf.io/)  
 CNCF's guide to the cloud native ecosystem, helping teams navigate available tools and technologies.
 
-🎞 [Infrastructure as Code, Patterns and Practices](https://www.youtube.com/watch?v=x94oVx0xgxE) by Kief Morris  
+🎞 [Infrastructure as Code, Patterns and Practices](https://youtu.be/K843Ukiw3d8?si=lUhekOrdy-f4U-WT) by Kief Morris  
 Morris explores patterns for effectively managing infrastructure using code, based on real-world experiences.
 
 📄 [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)  
