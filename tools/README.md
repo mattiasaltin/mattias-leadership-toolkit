@@ -62,6 +62,7 @@ streamlit run URLChecker.py
 The repository uses a `.gitignore` file to exclude virtual environments and other unnecessary files. Virtual environments should be created locally and not committed to the repository.
 
 `.gitignore` includes:
+
 - `.venv/`
 
 ---
