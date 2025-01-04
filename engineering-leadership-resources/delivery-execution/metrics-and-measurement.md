@@ -11,6 +11,9 @@ Forsgren discusses the importance of measuring the right metrics to drive improv
 📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by ThoughtWorks  
 An overview of the four key metrics from Accelerate: deployment frequency, lead time for changes, mean time to recover, and change failure rate.
 
+🎞 [My Response To The Nonsense McKinsey Article On Developer Productivity • Dave Farley • GOTO 2025](https://youtu.be/5VpBRmmWqg0?si=Eu1TPZeyxMzhi-qS) by Dave Farley  
+The brilliant Dave Farley disects the McKinsey article on developer productivity, and explains why it's wrong.
+
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
