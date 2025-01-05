@@ -27,6 +27,10 @@ While [I personally love diving into books](https://www.goodreads.com/review/lis
 
 I hope you find this collection helpful and that it sparks new ideas or perspectives in your own leadership journey. If you have any favourites I’ve missed or other recommendations, I’d genuinely [love to hear from you](CONTRIBUTING.md) - there’s always more to learn!
 
+Warm regards,  
+Mattias Altin  
+P.S. This document is constantly evolving, so don’t be alarmed if it’s changed between visits!
+
 ## 📚 Core Areas
 
 - 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams
@@ -76,7 +80,3 @@ See our [Contributing Guidelines](CONTRIBUTING.md) for details on how to help im
 ## 📝 License
 
 This project is licensed under the [MIT License](../LICENSE).
-
-Warm regards,  
-Mattias Altin  
-P.S. This document is constantly evolving, so don’t be alarmed if it’s changed between visits!
