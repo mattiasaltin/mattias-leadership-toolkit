@@ -40,8 +40,8 @@ The `Makefile` in this repository automates common tasks such as setting up the 
 - **Set up the environment**: `make setup`
   - Sets up the virtual environment and installs dependencies.
 
-- **Run the URLChecker script**: `make run`
-  - Runs the `URLChecker.py` script using Streamlit.
+- **Run the url_checker.py script**: `make run`
+  - Runs the `url_checker.py` script using Streamlit.
 
 - **Update dependencies**: `make freeze`
   - Updates `requirements.txt` with the current dependencies.

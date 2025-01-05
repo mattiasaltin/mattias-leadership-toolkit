@@ -18,7 +18,7 @@ $(VENV_DIR)/bin/activate: requirements.txt
 	$(PIP) install -r requirements.txt
 	touch $(VENV_DIR)/bin/activate
 
-# Run the URLChecker script using Streamlit
+# Run the URL Checker script using Streamlit
 .PHONY: run
 run: $(VENV_DIR)/bin/activate
 	$(STREAMLIT) run tools/url_checker.py
@@ -31,6 +31,9 @@ freeze: $(VENV_DIR)/bin/activate
 # Clean up the virtual environment
 .PHONY: clean
 clean:
+	if [ -f "$(VENV_DIR)/bin/activate" ]; then \
+		. $(VENV_DIR)/bin/activate && deactivate; \
+	fi
 	rm -rf $(VENV_DIR)
 
 # Help target to display available commands

@@ -68,3 +68,5 @@ The repository uses a `.gitignore` file to exclude virtual environments and othe
 ---
 
 This setup ensures that the `url_checker.py` script is easy to use and maintain, providing a consistent environment for development and execution with Streamlit. Let me know if you need further adjustments or additional information!
+
+The URL checker tool (`url_checker.py`) helps validate URLs in markdown files.
