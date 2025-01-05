@@ -5,6 +5,10 @@
 node_modules/
 npm-debug.log*
 
+# Python virtual environments
+.venv/
+venv/
+
 # Logs
 logs
 *.log
