@@ -1,6 +1,6 @@
 # URL Checker
 
-This directory contains the `URLChecker.py` script, designed to verify the accessibility and status of URLs. This tool is useful for ensuring that links within your projects are valid and responsive, and it is run using Streamlit for an interactive user interface.
+This directory contains the `url_checker.py` script, designed to verify the accessibility and status of URLs. This tool is useful for ensuring that links within your projects are valid and responsive, and it is run using Streamlit for an interactive user interface.
 
 ## Setup
 
@@ -31,7 +31,7 @@ This directory contains the `URLChecker.py` script, designed to verify the acces
 
 ### Running the URL Checker
 
-To run the `URLChecker.py` script using Streamlit, ensure your virtual environment is activated:
+To run the `url_checker.py` script using Streamlit, ensure your virtual environment is activated:
 
 ```bash
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
@@ -40,7 +40,7 @@ source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 Then execute the script with Streamlit:
 
 ```bash
-streamlit run URLChecker.py
+streamlit run tools/url_checker.py
 ```
 
 ### Development Notes
@@ -67,4 +67,4 @@ The repository uses a `.gitignore` file to exclude virtual environments and othe
 
 ---
 
-This setup ensures that the `URLChecker.py` script is easy to use and maintain, providing a consistent environment for development and execution with Streamlit. Let me know if you need further adjustments or additional information!
+This setup ensures that the `url_checker.py` script is easy to use and maintain, providing a consistent environment for development and execution with Streamlit. Let me know if you need further adjustments or additional information!

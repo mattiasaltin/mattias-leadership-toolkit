@@ -17,6 +17,7 @@ Mattias Altin
 
 - [Purpose](#purpose)
 - [Structure](#structure)
+- [Using the Makefile](#using-the-makefile)
 - [License](#license)
 - [Contributing](#contributing)
 
@@ -31,6 +32,25 @@ This repository is organised into several key areas, each containing valuable re
 - **[🌱 Engineering Leadership Resources](engineering-leadership-resources/)**: A curated collection focused on organisational health, technical health, delivery execution, and other relevant topics.
 
 *Additional sections will be added in the future to expand the scope of this toolkit.*
+
+## Using the Makefile
+
+The `Makefile` in this repository automates common tasks such as setting up the environment, running scripts, and managing dependencies. Here are the available commands:
+
+- **Set up the environment**: `make setup`
+  - Sets up the virtual environment and installs dependencies.
+
+- **Run the URLChecker script**: `make run`
+  - Runs the `URLChecker.py` script using Streamlit.
+
+- **Update dependencies**: `make freeze`
+  - Updates `requirements.txt` with the current dependencies.
+
+- **Clean up the environment**: `make clean`
+  - Removes the virtual environment.
+
+- **Display help**: `make help`
+  - Displays available commands.
 
 ## License
 
