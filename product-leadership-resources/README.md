@@ -21,7 +21,7 @@ Mattias Altin
 
 ## 📚 Overview
 
-Product leadership consists of two fundamental aspects: leadership responsibilities that focus on product direction and strategy, and management responsibilities that focus on people and execution. 
+Product leadership consists of two fundamental aspects: leadership accountabilities that focus on product direction and strategy, and management accountabilities that focus on people and execution.
 
 The structure of the resources has been based on the excellent book EMPOWERED by Marty Cagan, and covers both the leadership and manager accountabilities of a product leader.
 
