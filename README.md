@@ -30,8 +30,17 @@ This repository serves as a resource for leaders, offering insights, best practi
 This repository is organised into several key areas, each containing valuable resources and insights:
 
 - **[🌱 Engineering Leadership Resources](engineering-leadership-resources/)**: A curated collection focused on organisational health, technical health, delivery execution, and other relevant topics.
+- **[🌱 Product Leadership Resources](product-leadership-resources/)**: A curated collection focused on product vision, strategy, principle, staffing your team, coahing, setting objectives, and other relevant topics.
 
 *Additional sections will be added in the future to expand the scope of this toolkit.*
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributing
+
+Contributions are welcome! Please see our [Contributing Guidelines](engineering-leadership-resources/CONTRIBUTING.md) for details on how to submit suggestions and improvements.
 
 ## Using the Makefile
 
@@ -51,11 +60,4 @@ The `Makefile` in this repository automates common tasks such as setting up the 
 
 - **Display help**: `make help`
   - Displays available commands.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please see our [Contributing Guidelines](engineering-leadership-resources/CONTRIBUTING.md) for details on how to submit suggestions and improvements.
+  
