@@ -5,8 +5,8 @@ Technical debt refers to the cost of maintaining and improving software systems 
 📘 [Managing Technical Debt](https://www.goodreads.com/book/show/42778944-managing-technical-debt) by Philippe Kruchten, Robert Nord, and Ipek Ozkaya  
 A comprehensive guide to identifying, measuring, and managing technical debt in software systems.
 
-🎞 [The Economics of Technical Debt](https://www.youtube.com/watch?v=TdBELZG0UMY) by Henrik Kniberg  
-Kniberg explains how to think about technical debt from a business perspective and make informed decisions about when to take it on or pay it off.
+🎞 [Types Of Technical Debt And How To Manage Them](https://youtu.be/1MBpK_PxEnU?si=i269phbhN-dQROM-) by Dave Farley  
+Dave explains how to think about technical debt from a business perspective and make informed decisions about when to take it on or pay it off.
 
 📄 [Technical Debt: From Metaphor to Theory and Practice](https://insights.sei.cmu.edu/library/technical-debt-from-metaphor-to-theory-and-practice/) by SEI  
 A detailed exploration of technical debt, including its origins, impact, and management strategies.
