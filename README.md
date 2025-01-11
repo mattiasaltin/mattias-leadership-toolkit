@@ -17,9 +17,9 @@ Mattias Altin
 
 - [Purpose](#purpose)
 - [Structure](#structure)
-- [Using the Makefile](#using-the-makefile)
 - [License](#license)
 - [Contributing](#contributing)
+- [Using the Makefile](#using-the-makefile)
 
 ## Purpose
 
