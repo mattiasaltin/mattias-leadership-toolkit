@@ -30,7 +30,7 @@ This repository serves as a resource for leaders, offering insights, best practi
 This repository is organised into several key areas, each containing valuable resources and insights:
 
 - **[🌱 Engineering Leadership Resources](engineering-leadership-resources/)**: A curated collection focused on organisational health, technical health, delivery execution, and other relevant topics.
-- **[🌱 Product Leadership Resources](product-leadership-resources/)**: A curated collection focused on product vision, strategy, principle, staffing your team, coahing, setting objectives, and other relevant topics.
+- **[🌟 Product Leadership Resources](product-leadership-resources/)**: A curated collection focused on product vision, strategy, principle, staffing your team, coahing, setting objectives, and other relevant topics.
 
 *Additional sections will be added in the future to expand the scope of this toolkit.*
 
