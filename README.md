@@ -4,7 +4,7 @@ Welcome to the Mattias Leadership Toolkit. This repository is a comprehensive co
 
 ## 👋 Introduction
 
-Hello, I’m [Mattias](https://www.linkedin.com/in/mattiasaltin/)\!
+Hello, I’m [Mattias](https://www.linkedin.com/in/mattiasaltin/)!
 
 With over 25 years of experience, I've had the privilege of working on innovative products that touch millions of lives. My passion is empowering teams to achieve their full potential by fostering an environment where creativity and operational excellence thrive. This toolkit reflects my journey and the resources that have inspired me along the way.
 
