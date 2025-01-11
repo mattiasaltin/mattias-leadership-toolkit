@@ -1,4 +1,4 @@
-# Mattias Leadership Toolkit
+# 🧰 Mattias Leadership Toolkit
 
 Welcome to the Mattias Leadership Toolkit. This repository is a comprehensive collection of resources designed to support leaders across various domains, including product and engineering. It aims to help you build and maintain high-performing teams, ensure technical excellence, and optimise delivery processes.
 
