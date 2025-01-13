@@ -2,9 +2,6 @@
 
 Leadership is about setting direction, inspiring teams, and fostering an environment of trust and accountability. This section provides foundational resources for leaders at all levels to build their skills and lead with purpose.
 
-📘 [High Output Management](https://www.goodreads.com/book/show/77558.High_Output_Management) by Andrew S. Grove  
-Written by Intel's former CEO, this book explains how to optimise team productivity, measure outcomes effectively, and scale operations. It offers actionable advice for leaders in fast-paced or technical environments.
-
 📘 [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/50937.First_Break_All_the_Rules) by Marcus Buckingham and Curt Coffman  
 Based on Gallup's extensive research, this book highlights unconventional approaches that great managers use to engage and lead teams effectively.
 
