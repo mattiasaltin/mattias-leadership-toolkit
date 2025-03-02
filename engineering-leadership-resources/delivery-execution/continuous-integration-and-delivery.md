@@ -15,5 +15,5 @@ AWS's guide to best practices for implementing CI/CD pipelines.
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
-- [⬅️ Previous: ⚡ Flow Efficiency](flow-efficiency.md)
+- [⬅️ Previous: 🌊 Flow Efficiency](flow-efficiency.md)
 - [➡️ Next: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)

@@ -13,4 +13,4 @@ Kua discusses the role of technical leaders in fostering excellence and driving 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
 - [⬅️ Previous: 📈 Metrics and Measurement](metrics-and-measurement.md)
-- [➡️ Next: 🔄 Flow Efficiency](flow-efficiency.md)
+- [➡️ Next: 🌊 Flow Efficiency](flow-efficiency.md)
