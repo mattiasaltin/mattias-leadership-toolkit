@@ -16,3 +16,4 @@ An article exploring the intersection of AI and DevOps and how they complement e
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
 - [⬅️ Previous: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
+- [➡️ Next: 🤸 Agile Practices](agile-practices.md)

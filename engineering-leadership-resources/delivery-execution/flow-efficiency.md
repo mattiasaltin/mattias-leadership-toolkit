@@ -1,4 +1,4 @@
-# 🔄 Flow Efficiency
+# ⚡ Flow Efficiency
 
 Flow efficiency is about optimizing the flow of work through a system to maximize value delivery. This section explores techniques for improving flow efficiency.
 
