@@ -15,6 +15,9 @@ Most of the resources here are suited for engineering leaders at all levels, fro
 - **🧠 Organisational Health:** Building and nurturing high-performing teams and culture  
 - **⚙️ Technical Health:** Ensuring sustainable technical excellence  
 - **🚀 Delivery & Execution:** Optimising for value delivery
+
+For practical reasons we also have a forth catch-all area:
+
 - **📦 Other:** Anything else that could be useful
 
 While [I personally love diving into books](https://www.goodreads.com/review/list/67804807-mattias-altin?utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&utf8=%E2%9C%93&title=mattias-altin&per_page=infinite), I know everyone has their own preferred way of learning, so I’ve made an effort to include a mix of formats. You’ll see icons next to each resource to help you find what works best for you:
