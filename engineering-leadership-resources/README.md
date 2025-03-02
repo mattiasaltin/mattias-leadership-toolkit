@@ -16,7 +16,7 @@ Most of the resources here are suited for engineering leaders at all levels, fro
 - **⚙️ Technical Health:** Ensuring sustainable technical excellence  
 - **🚀 Delivery & Execution:** Optimising for value delivery
 
-For practical reasons we also have a forth catch-all area:
+For practical reasons we also have a fourth catch-all area:
 
 - **📦 Other:** Anything else that could be useful
 
