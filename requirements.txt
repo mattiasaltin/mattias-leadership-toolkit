@@ -34,7 +34,7 @@ GitPython==3.1.43
 google-auth==2.37.0
 googleapis-common-protos==1.66.0
 grpcio==1.68.1
-h11==0.14.0
+h11==0.16.0
 httpcore==1.0.7
 httptools==0.6.4
 httpx==0.27.2
@@ -44,7 +44,7 @@ humanfriendly==10.0
 idna==3.10
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
-Jinja2==3.1.5
+Jinja2==3.1.6
 joblib==1.4.2
 jsonpatch==1.33
 jsonpointer==3.0.0
@@ -109,7 +109,7 @@ PyYAML==6.0.2
 rapidfuzz==3.10.1
 referencing==0.35.1
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 rich==13.9.4
@@ -133,12 +133,12 @@ threadpoolctl==3.5.0
 tokenizers==0.20.3
 toml==0.10.2
 tomli==2.2.1
-torch==2.5.1
+torch==2.7.1
 torchaudio==2.5.1
 torchvision==0.20.1
-tornado==6.4.2
+tornado==6.5.1
 tqdm==4.67.1
-transformers==4.46.3
+transformers==4.50.0
 typer==0.15.1
 typing-inspect==0.9.0
 typing_extensions==4.12.2
