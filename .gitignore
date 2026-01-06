@@ -26,4 +26,7 @@ out/
 # IDE files
 .idea/
 .vscode/
-*.sublime-workspace 
+*.sublime-workspace
+
+# Temporary files and reports
+tmp/ 
