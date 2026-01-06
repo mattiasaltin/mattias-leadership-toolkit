@@ -46,7 +46,8 @@ by Yassmin Abdel-Magied
 Abdel-Magied discusses her experiences with unconscious bias and challenges stereotypes, urging
 us to embrace diversity and question our assumptions.
 
-📘 [How to Be an Inclusive Leader](https://www.goodreads.com/book/show/41802816-how-to-be-an-inclusive-leader) by Jennifer Brown  
+📘 [How to Be an Inclusive Leader](https://www.goodreads.com/book/show/41802816-how-to-be-an-inclusive-leader)
+by Jennifer Brown  
 This practical guide provides a step-by-step framework for becoming an inclusive leader,
 fostering belonging, and driving meaningful change in teams and organisations.
 

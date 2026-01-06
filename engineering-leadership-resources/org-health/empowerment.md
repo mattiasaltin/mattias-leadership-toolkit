@@ -41,11 +41,13 @@ individuals align their actions with shared goals and mutual accountability.
 Cleese highlights the role of empowerment in fostering creativity. He explains how leaders can
 create the right conditions—space, time, and confidence—for teams to excel.
 
-📄 [Great Developers Are Raised, Not Hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/) by Eduards Sizovs  
+📄 [Great Developers Are Raised, Not Hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
+by Eduards Sizovs  
 This article explains how leaders can empower their teams by fostering continuous growth and
 development rather than relying solely on hiring external talent.
 
-📄 [What Having a Growth Mindset Actually Means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means) by Carol Dweck  
+📄 [What Having a Growth Mindset Actually Means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+by Carol Dweck  
 This article highlights how adopting and encouraging a growth mindset within teams can lead to
 greater empowerment and resilience.
 

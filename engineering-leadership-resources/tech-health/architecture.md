@@ -1,18 +1,26 @@
 # 🏗️ Architecture
 
-Architecture is the backbone of any software system, providing the structure and guidelines for building scalable, maintainable, and efficient solutions. This section explores architectural principles, patterns, and best practices.
+Architecture is the backbone of any software system, providing the structure and guidelines for
+building scalable, maintainable, and efficient solutions. This section explores architectural
+principles, patterns, and best practices.
 
-📘 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert C. Martin  
-This book presents universal rules of software architecture that help you create software that's easier to understand, maintain, and modify.
+📘 [Clean Architecture: A Craftsman's Guide to Software Structure and
+Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert C. Martin  
+This book presents universal rules of software architecture that help you create software that's
+easier to understand, maintain, and modify.
 
-📘 [Building Evolutionary Architectures](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures) by Neal Ford, Rebecca Parsons, and Patrick Kua  
-The authors explore how to build systems that can evolve with changing requirements while maintaining structural integrity.
+📘 [Building Evolutionary Architectures](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
+by Neal Ford, Rebecca Parsons, and Patrick Kua  
+The authors explore how to build systems that can evolve with changing requirements while
+maintaining structural integrity.
 
-📘 [Software Architecture: The Hard Parts](https://www.goodreads.com/book/show/58153482-software-architecture) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani  
+📘 [Software Architecture: The Hard Parts](https://www.goodreads.com/book/show/58153482-software-architecture)
+by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani  
 This book tackles the difficult decisions architects face, offering practical advice for handling complex architectural challenges.
 
 🎞 [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) by Martin Fowler  
-Fowler explains different approaches to event-driven architecture, helping architects choose the right patterns for their needs.
+Fowler explains different approaches to event-driven architecture, helping architects choose the
+right patterns for their needs.
 
 🎞 [GOTO 2019 • What Is Software Architecture?](https://www.youtube.com/watch?v=U6rfJjd8714) by Simon Brown  
 Brown provides a practical definition of software architecture and explains its importance in modern software development.

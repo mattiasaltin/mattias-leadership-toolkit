@@ -1,6 +1,8 @@
 # 🔒 Security
 
-Security is a critical aspect of software development, ensuring that systems are protected against threats and vulnerabilities. This section covers best practices, tools, and strategies for building secure applications.
+Security is a critical aspect of software development, ensuring that systems are protected
+against threats and vulnerabilities. This section covers best practices, tools, and strategies
+for building secure applications.
 
 📘 [Security Engineering](https://www.goodreads.com/book/show/3268675-security-engineering) by Ross Anderson  
 A comprehensive guide to building secure systems, covering both technical and human aspects of security.

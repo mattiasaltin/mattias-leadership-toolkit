@@ -1,12 +1,15 @@
 # 📦 Infrastructure
 
-Modern software requires robust, scalable infrastructure. This section covers cloud platforms, DevOps practices, and infrastructure management approaches.
+Modern software requires robust, scalable infrastructure. This section covers cloud platforms,
+DevOps practices, and infrastructure management approaches.
 
 📘 [Infrastructure as Code](https://www.goodreads.com/book/show/26544394-infrastructure-as-code) by Kief Morris  
-A comprehensive guide to managing infrastructure using code, covering principles, practices, and tools for modern infrastructure management.
+A comprehensive guide to managing infrastructure using code, covering principles, practices, and
+tools for modern infrastructure management.
 
 📘 [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by Google  
-Google's approach to running production systems at scale, including practical advice on automation, monitoring, and incident response.
+Google's approach to running production systems at scale, including practical advice on
+automation, monitoring, and incident response.
 
 📄 [The Cloud Native Landscape](https://landscape.cncf.io/)  
 CNCF's guide to the cloud native ecosystem, helping teams navigate available tools and technologies.
