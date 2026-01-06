@@ -54,7 +54,7 @@ kubernetes==31.0.0
 langchain==0.3.11
 langchain-community==0.3.11
 langchain-core==0.3.25
-langchain-text-splitters==0.3.2
+langchain-text-splitters==1.1.0
 langsmith==0.2.3
 Levenshtein==0.26.1
 markdown-it-py==3.0.0
