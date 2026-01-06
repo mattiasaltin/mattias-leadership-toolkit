@@ -9,7 +9,8 @@ We release patches for security vulnerabilities in the following versions:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please report it to us by sending an email to [security@example.com]. We will respond to your report within 5 business days.
+If you discover a security vulnerability within this project, please report it to us by sending
+an email to [security@example.com]. We will respond to your report within 5 business days.
 
 Please include the following details with your report:
 
@@ -21,7 +22,9 @@ We appreciate your efforts to responsibly disclose your findings and will make e
 
 ## Security Updates
 
-We will notify the community about security updates through our [project's release notes](https://github.com/your-repo/releases) and [security advisories](https://github.com/your-repo/security/advisories).
+We will notify the community about security updates through our [project's release
+notes](https://github.com/your-repo/releases) and [security
+advisories](https://github.com/your-repo/security/advisories).
 
 ## Further Information
 

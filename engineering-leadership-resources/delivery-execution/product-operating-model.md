@@ -1,6 +1,8 @@
 # 📋 Product Operating Model
 
-A product operating model defines how a company delivers value through its products. This section explores frameworks and strategies for aligning teams, processes, and technology to optimize product delivery.
+A product operating model defines how a company delivers value through its products. This
+section explores frameworks and strategies for aligning teams, processes, and technology to
+optimize product delivery.
 
 📘 [Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies) by Matthew Skelton and Manuel Pais  
 A practical guide to organizing teams for effective software delivery, including patterns for team interaction and evolution.

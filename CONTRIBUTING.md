@@ -1,6 +1,7 @@
 # Contributing to [Project Name]
 
-Thank you for considering contributing to [Project Name]! We welcome contributions from the community and are excited to see what you'll bring to the project.
+Thank you for considering contributing to [Project Name]! We welcome contributions from the
+community and are excited to see what you'll bring to the project.
 
 ## How to Contribute
 
@@ -20,8 +21,10 @@ Thank you for considering contributing to [Project Name]! We welcome contributio
 
 ## Code of Conduct
 
-Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By
+participating, you are expected to uphold this code.
 
 ## Reporting Issues
 
-If you encounter any issues, please report them using the issue tracker on GitHub. Provide as much detail as possible to help us resolve the issue quickly.
+If you encounter any issues, please report them using the issue tracker on GitHub. Provide as
+much detail as possible to help us resolve the issue quickly.

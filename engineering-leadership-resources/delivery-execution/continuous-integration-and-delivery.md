@@ -1,8 +1,11 @@
 # 🔄 Continuous Integration and Delivery
 
-Continuous integration and delivery (CI/CD) are practices that enable teams to deliver software changes quickly and reliably. This section covers CI/CD principles and tools.
+Continuous integration and delivery (CI/CD) are practices that enable teams to deliver software
+changes quickly and reliably. This section covers CI/CD principles and tools.
 
-📘 [Continuous Integration: Improving Software Quality and Reducing Risk](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Paul M. Duvall, Steve Matyas, and Andrew Glover  
+📘 [Continuous Integration: Improving Software Quality and Reducing
+Risk](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Paul M. Duvall,
+Steve Matyas, and Andrew Glover  
 A guide to implementing continuous integration practices to improve software quality and reduce risk.
 
 🎞 [The CI/CD Pipeline](https://www.youtube.com/watch?v=1hHMwLxN6EM) by Dave Farley  

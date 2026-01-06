@@ -1,6 +1,7 @@
 # 🚀 Delivery & Execution
 
-This section focuses on the practices and principles that drive effective software delivery and execution. It covers a range of topics from metrics and measurement to AI assistance.
+This section focuses on the practices and principles that drive effective software delivery and
+execution. It covers a range of topics from metrics and measurement to AI assistance.
 
 ## 📑 Sections
 

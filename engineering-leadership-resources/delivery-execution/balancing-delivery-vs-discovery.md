@@ -1,8 +1,10 @@
 # ⚖️ Balancing Delivery vs Discovery
 
-Balancing delivery and discovery is crucial for building the right products effectively. This section explores strategies for achieving this balance.
+Balancing delivery and discovery is crucial for building the right products effectively. This
+section explores strategies for achieving this balance.
 
-📘 [Inspired: How To Create Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
+📘 [Inspired: How To Create Products Customers
+Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
 A guide to product management and balancing delivery with discovery to create products that customers love.
 
 ## 🧭 Navigation

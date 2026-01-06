@@ -1,8 +1,11 @@
 # 🤖 AI Assistance
 
-AI assistance is transforming how teams deliver software by automating tasks and providing insights. This section explores AI tools and techniques for enhancing delivery.
+AI assistance is transforming how teams deliver software by automating tasks and providing
+insights. This section explores AI tools and techniques for enhancing delivery.
 
-📘 [Artificial Intelligence: A Guide to Intelligent Systems](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Michael Negnevitsky  
+📘 [Artificial Intelligence: A Guide to Intelligent
+Systems](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Michael
+Negnevitsky  
 An introduction to AI systems and their applications in software delivery.
 
 🎞 [AI in Software Development](https://www.youtube.com/watch?v=1hHMwLxN6EM) by Dave Farley  
