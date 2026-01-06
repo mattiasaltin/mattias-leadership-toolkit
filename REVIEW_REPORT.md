@@ -797,7 +797,8 @@ Accountabilities" and "Management Accountabilities" without reading the book.
 - `engineering-leadership-resources/org-health/coaching-and-mentoring.md` (multiple times)
 - `product-leadership-resources/coaching.md` (multiple times)
 
-**Issue:** Referenced extensively but never defined. Multiple resources explain it, but toolkit doesn't provide definition.
+**Issue:** Referenced extensively but never defined. Multiple resources explain it, but toolkit
+doesn't provide definition.
 
 **Impact:** Readers must watch videos to understand what GROW means.
 
@@ -819,7 +820,8 @@ Accountabilities" and "Management Accountabilities" without reading the book.
 
 **Action:**
 
-- Add definition: Four Key Metrics = Deployment Frequency, Lead Time for Changes, Mean Time to Recovery, Change Failure Rate
+- Add definition: Four Key Metrics = Deployment Frequency, Lead Time for Changes, Mean Time to
+  Recovery, Change Failure Rate
 - Cross-reference between the two files
 
 ### Navigation Pattern Inconsistencies
@@ -1095,7 +1097,8 @@ though it lacks definitions and connections.
 - `objectives.md` - 0 resources
 - `product-vision.md` - 1 resource
 
-**Why It Matters:** Product leaders can't effectively use half the toolkit. The structure promises content that doesn't exist.
+**Why It Matters:** Product leaders can't effectively use half the toolkit. The structure
+promises content that doesn't exist.
 
 **What to Add:**
 

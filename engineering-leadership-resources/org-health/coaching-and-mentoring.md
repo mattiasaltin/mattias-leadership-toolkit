@@ -45,13 +45,16 @@ high-performing teams.
 Sinek explores why listening is a fundamental skill for leaders and how it underpins effective coaching and mentoring.
 
 🎞 [Active Listening Skills](https://www.youtube.com/watch?v=7wUCyjiyXdg) by Alex Lyon  
-This video provides practical tips for honing active listening skills, an essential component of effective coaching and mentoring.
+This video provides practical tips for honing active listening skills, an essential component
+of effective coaching and mentoring.
 
 🎞 [How to Really Listen to People](https://www.youtube.com/watch?v=oBoAATtxrw8) by Jordan Peterson  
-Peterson discusses how listening deeply and without bias can lead to stronger relationships and better outcomes in coaching.
+Peterson discusses how listening deeply and without bias can lead to stronger relationships and
+better outcomes in coaching.
 
 🎞 [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c) by LeeAnn Renninger  
-Renninger explains how to deliver constructive feedback effectively, making it a valuable resource for both coaches and mentors.
+Renninger explains how to deliver constructive feedback effectively, making it a valuable
+resource for both coaches and mentors.
 
 📘 [The Coaching Habit: Say Less, Ask More, & Change the Way You Lead
 Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay
