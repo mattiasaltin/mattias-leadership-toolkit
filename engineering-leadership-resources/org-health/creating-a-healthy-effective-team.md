@@ -15,7 +15,7 @@ and teamwork. Marquet demonstrates how small actions can empower teams to think 
 effectively.
 
 📘 [Forming, Storming, Norming, and Performing: Tuckman's Model for Nurturing a Team to High
-Performance](https://www.mindtools.com/pages/article/newLDR_86.htm) by Mind Tools  
+Performance](https://members.mindtools.com/abyj5fi/forming-storming-norming-and-performing) by Mind Tools  
 An accessible explanation of Tuckman's team development model. It provides practical tips for
 leaders to guide teams through the various stages of growth.
 
