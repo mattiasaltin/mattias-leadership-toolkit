@@ -36,7 +36,8 @@ by W. Chan Kim and Renée Mauborgne
 This book provides a framework for creating new market space by making competition irrelevant,
 helping product leaders think beyond existing market boundaries.
 
-📘 [Jobs to Be Done: Theory to Practice](https://www.goodreads.com/book/show/31579659-jobs-to-be-done) by Anthony Ulwick  
+📘 [Jobs to Be Done: Theory to Practice](https://www.goodreads.com/book/show/31579659-jobs-to-be-done)
+by Anthony Ulwick  
 Ulwick explains how to understand customer needs through the Jobs-to-be-Done framework, helping
 product leaders identify what customers are really trying to accomplish.
 

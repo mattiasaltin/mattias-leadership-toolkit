@@ -33,7 +33,6 @@ Kua discusses the role of technical leaders in fostering excellence and driving 
 A talk on the technical practices that enable excellence, from TDD to refactoring to continuous
 integration.
 
-
 ## Related Topics
 
 - [🧪 Testing](../tech-health/testing.md) - Testing is a core practice of technical excellence

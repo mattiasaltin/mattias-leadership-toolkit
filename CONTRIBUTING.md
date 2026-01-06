@@ -16,8 +16,12 @@ community and are excited to see what you'll bring to this resource collection.
 
 This toolkit is organized into two main domains:
 
-- **Engineering Leadership Resources**: See [engineering-leadership-resources/CONTRIBUTING.md](engineering-leadership-resources/CONTRIBUTING.md) for domain-specific guidelines.
-- **Product Leadership Resources**: See [product-leadership-resources/CONTRIBUTING.md](product-leadership-resources/CONTRIBUTING.md) for domain-specific guidelines.
+- **Engineering Leadership Resources**: See
+  [engineering-leadership-resources/CONTRIBUTING.md](engineering-leadership-resources/CONTRIBUTING.md)
+  for domain-specific guidelines.
+- **Product Leadership Resources**: See
+  [product-leadership-resources/CONTRIBUTING.md](product-leadership-resources/CONTRIBUTING.md)
+  for domain-specific guidelines.
 
 ## Guidelines
 

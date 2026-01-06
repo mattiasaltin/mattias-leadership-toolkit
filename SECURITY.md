@@ -9,8 +9,10 @@ We release patches for security vulnerabilities in the following versions:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please report it to us by creating
-a [security advisory](https://github.com/mattiasaltin/mattias-leadership-toolkit/security/advisories/new) on GitHub. We will respond to your report within 5 business days.
+If you discover a security vulnerability within this project, please report it to us by
+creating a
+[security advisory](https://github.com/mattiasaltin/mattias-leadership-toolkit/security/advisories/new)
+on GitHub. We will respond to your report within 5 business days.
 
 Please include the following details with your report:
 

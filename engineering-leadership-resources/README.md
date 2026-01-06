@@ -71,6 +71,7 @@ If you're new to engineering management, here's a recommended path through these
    - [Agile Practices](delivery-execution/agile-practices.md) - Delivery methodologies
 
 **How to Use These Resources:**
+
 - Read sequentially for comprehensive learning, or
 - Jump to specific topics as you face challenges
 - Revisit resources as you gain experience - they often reveal new insights

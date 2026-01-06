@@ -34,7 +34,8 @@ Effort. Helps teams make data-driven prioritization decisions.
 Cagan explains how to prioritize a product roadmap based on customer value and business impact,
 avoiding common pitfalls in prioritization.
 
-📄 [The Kano Model: Understanding Customer Satisfaction](https://www.productplan.com/glossary/kano-model/ by ProductPlan
+📄 [The Kano Model: Understanding Customer Satisfaction](https://www.productplan.com/glossary/kano-model/)
+by ProductPlan
 A framework for understanding different types of customer needs and how they affect satisfaction,
 helping prioritize features that create delight.
 

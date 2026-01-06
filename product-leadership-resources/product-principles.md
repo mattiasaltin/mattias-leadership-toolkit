@@ -30,10 +30,6 @@ by Google
 An example of how a technology company articulates its product principles to guide product
 development and decision-making.
 
-📄 [Microsoft Design Principles](https://www.microsoft.com/design/design-principles/) by Microsoft  
-Microsoft's design principles demonstrate how principles can guide both product design and
-engineering decisions.
-
 🎥 [Product Principles: The Foundation of Great Products](https://www.youtube.com/watch?v=example) by Product School  
 A talk on how product principles serve as the foundation for building great products and making
 consistent decisions.

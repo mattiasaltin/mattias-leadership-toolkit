@@ -53,7 +53,8 @@ optimal performance.
 
 - [🗺️ Product Strategy](../../product-leadership-resources/product-strategy.md) - Strategy informs operating model design
 - [📈 Metrics and Measurement](metrics-and-measurement.md) - Metrics help measure operating model effectiveness
-- [🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence supports operating model goals
+- [🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical
+  excellence supports operating model goals
 
 ## 🧭 Navigation
 

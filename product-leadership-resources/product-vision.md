@@ -19,7 +19,8 @@ by Marty Cagan
 Cagan explains how to create a compelling product vision that inspires teams and guides
 decision-making, with examples from successful product organizations.
 
-📘 [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.goodreads.com/book/show/26098219-the-lean-product-playbook) by Dan Olsen  
+📘 [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer
+Feedback](https://www.goodreads.com/book/show/26098219-the-lean-product-playbook) by Dan Olsen  
 Olsen provides frameworks for developing product vision and validating it through customer
 feedback and rapid iteration.
 

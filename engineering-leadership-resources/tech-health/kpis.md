@@ -30,7 +30,7 @@ by Nicole Forsgren, Jez Humble, and Gene Kim
 The research behind the four key metrics, showing how these metrics correlate with organizational
 performance and providing guidance on improving them.
 
-📄 [KPI Selection: Choosing Metrics That Matter](https://www.thoughtworks.com/insights/blog/kpi-selection) 
+📄 [KPI Selection: Choosing Metrics That Matter](https://www.thoughtworks.com/insights/blog/kpi-selection)
 by ThoughtWorks  
 A guide to selecting KPIs that align with business goals and drive the right behaviors in
 engineering teams.
@@ -50,8 +50,10 @@ their performance.
 
 ## Related Topics
 
-- [📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) - KPIs are part of broader metrics and measurement
-- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) - KPIs help measure technical excellence
+- [📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) - KPIs are
+  part of broader metrics and measurement
+- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
+  KPIs help measure technical excellence
 
 ## 🧭 Navigation
 

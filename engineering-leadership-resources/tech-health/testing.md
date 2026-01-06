@@ -43,7 +43,6 @@ ensures tests align with business requirements.
 Majors discusses the benefits and challenges of testing in production environments, offering
 practical advice for implementing this approach.
 
-
 📄 [Testing Legacy Code: Strategies and Techniques](https://www.thoughtworks.com/insights/blog/testing-legacy-code)
 by ThoughtWorks  
 Practical advice on testing legacy code, including techniques for adding tests to existing
@@ -60,7 +59,8 @@ integral part of development.
 
 ## Related Topics
 
-- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) - Testing is a core practice of technical excellence
+- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
+  Testing is a core practice of technical excellence
 - [💸 Technical Debt](technical-debt.md) - Comprehensive testing helps prevent technical debt
 
 ## 🧭 Navigation

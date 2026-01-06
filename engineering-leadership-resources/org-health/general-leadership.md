@@ -26,7 +26,8 @@ shares actionable advice to overcome challenges encountered at different stages 
 🎥 [What Engineering Managers Should Do (And Why We Don't)](https://youtu.be/Q_bJVokYLRI) by Lena Reinhard  
 This talk introduces the BICEPS model and contextualises it for engineering managers. It
 focuses on understanding team needs, creating psychological safety, and fostering better
-communication. For more information about the BICEPS model, see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
+communication. For more information about the BICEPS model, see the
+[Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
 🎥 [Challenges of a New Engineering Manager](https://youtu.be/BJBtLwCkMuY) by Thomas Bartel  
 This talk provides practical advice for first-time engineering managers, covering common

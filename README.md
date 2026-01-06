@@ -27,31 +27,44 @@ This toolkit is designed to support leaders at different stages of their journey
 
 If you're new to engineering management, start with:
 
-1. **[Engineering Leadership Resources](engineering-leadership-resources/)** - Begin with the [README](engineering-leadership-resources/README.md) for an overview
+1. **[Engineering Leadership Resources](engineering-leadership-resources/)** - Begin with the
+   [README](engineering-leadership-resources/README.md) for an overview
 2. **Essential Topics:**
    - [General Leadership](engineering-leadership-resources/org-health/general-leadership.md) - Foundational leadership skills
    - [Psychological Safety](engineering-leadership-resources/org-health/psychological-safety.md) - Creating safe environments
    - [Coaching & Mentoring](engineering-leadership-resources/org-health/coaching-and-mentoring.md) - Developing your team
-3. **Recommended Reading Order:** Start with organizational health topics, then explore technical health and delivery execution as you gain experience
+3. **Recommended Reading Order:** Start with organizational health topics, then explore
+   technical health and delivery execution as you gain experience
 
 ### I'm a New Product Leader
 
 If you're new to product leadership, start with:
 
-1. **[Product Leadership Resources](product-leadership-resources/)** - Begin with the [README](product-leadership-resources/README.md) for an overview
+1. **[Product Leadership Resources](product-leadership-resources/)** - Begin with the
+   [README](product-leadership-resources/README.md) for an overview
 2. **Essential Topics:**
    - [Product Vision](product-leadership-resources/product-vision.md) - Understanding your North Star
    - [Product Strategy](product-leadership-resources/product-strategy.md) - Making strategic choices
    - [Coaching](product-leadership-resources/coaching.md) - Developing product talent
-3. **Recommended Reading Order:** Start with leadership accountabilities (vision, strategy, principles), then explore management accountabilities (staffing, coaching, objectives)
+3. **Recommended Reading Order:** Start with leadership accountabilities (vision, strategy,
+   principles), then explore management accountabilities (staffing, coaching, objectives)
 
 ### I'm Experienced, Looking for Advanced Topics
 
 For experienced leaders seeking advanced insights:
 
-- **Engineering:** Explore [Technical Excellence](engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md), [Flow Efficiency](engineering-leadership-resources/delivery-execution/flow-efficiency.md), and [Metrics & Measurement](engineering-leadership-resources/delivery-execution/metrics-and-measurement.md)
-- **Product:** Deep dive into [Product Strategy](product-leadership-resources/product-strategy.md), [Product Principles](product-leadership-resources/product-principles.md), and [Product Evangelism](product-leadership-resources/product-evangelism.md)
-- **Cross-Domain:** See [How Engineering and Product Leadership Connect](#how-engineering-and-product-leadership-connect) below
+- **Engineering:** Explore
+  [Technical Excellence](engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md),
+  [Flow Efficiency](engineering-leadership-resources/delivery-execution/flow-efficiency.md),
+  and
+  [Metrics & Measurement](engineering-leadership-resources/delivery-execution/metrics-and-measurement.md)
+- **Product:** Deep dive into
+  [Product Strategy](product-leadership-resources/product-strategy.md),
+  [Product Principles](product-leadership-resources/product-principles.md), and
+  [Product Evangelism](product-leadership-resources/product-evangelism.md)
+- **Cross-Domain:** See
+  [How Engineering and Product Leadership Connect](#how-engineering-and-product-leadership-connect)
+  below
 
 ### How to Use This Toolkit
 
@@ -93,7 +106,8 @@ This repository is organised into several key areas, each containing valuable re
 
 ## Key Frameworks Referenced
 
-This toolkit references several frameworks that are foundational to modern leadership practice. Here's a quick reference:
+This toolkit references several frameworks that are foundational to modern leadership
+practice. Here's a quick reference:
 
 ### EMPOWERED (Marty Cagan)
 
@@ -102,7 +116,8 @@ The EMPOWERED framework distinguishes between two types of accountabilities for 
 - **Leadership Accountabilities**: Focus on product direction and strategy (vision, strategy, principles, priorities, evangelism)
 - **Management Accountabilities**: Focus on people and execution (staffing, coaching, objectives)
 
-This framework helps product leaders understand the dual nature of their role and balance strategic thinking with operational excellence.
+This framework helps product leaders understand the dual nature of their role and balance
+strategic thinking with operational excellence.
 
 ### GROW Model
 

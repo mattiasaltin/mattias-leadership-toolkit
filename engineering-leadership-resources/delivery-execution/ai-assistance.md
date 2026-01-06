@@ -3,7 +3,7 @@
 AI assistance is transforming how teams deliver software by automating tasks and providing
 insights. This section explores AI tools and techniques for enhancing delivery.
 
-📘 [The Age of AI: And Our Human Future](https://www.goodreads.com/book/show/58521336-the-age-of-ai) 
+📘 [The Age of AI: And Our Human Future](https://www.goodreads.com/book/show/58521336-the-age-of-ai)
 by Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher  
 A comprehensive exploration of how AI is reshaping society and work,
 including implications for software development and delivery.

@@ -37,16 +37,12 @@ information about the EMPOWERED framework, see the [Key Frameworks Referenced](.
 If you're new to product leadership, here's a recommended path through these resources:
 
 1. **Foundation (Start Here):**
-
-- [Product Vision](product-vision.md) - Understanding your North Star and why it matters
-- [Product Strategy](product-strategy.md) - Making strategic choices about what to build
-- [Product Principles](product-principles.md) - Establishing decision-making frameworks
-
+   - [Product Vision](product-vision.md) - Understanding your North Star and why it matters
+   - [Product Strategy](product-strategy.md) - Making strategic choices about what to build
+   - [Product Principles](product-principles.md) - Establishing decision-making frameworks
 2. **Leadership Accountabilities:**
-
-- [Product Priorities](product-priorities.md) - Focusing teams on outcomes
-- [Product Evangelism](product-evangelism.md) - Building product culture and alignment
-
+   - [Product Priorities](product-priorities.md) - Focusing teams on outcomes
+   - [Product Evangelism](product-evangelism.md) - Building product culture and alignment
 3. **Management Accountabilities:**
 
 - [Staffing](staffing.md) - Building great product teams
