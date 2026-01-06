@@ -63,31 +63,26 @@ by Lawline
 An article explaining that all employees are bound by a duty of loyalty to their employer during
 and, in some cases, after employment. This duty is often an implicit part of the employment
 contract and requires employees to prioritise the employer's interests over their own.
-[oai_citation_attribution:4‡Lawline](https://lawline.se/answers/vad-innebar-arbetstagarens-lojalitetsplikt?utm_source=chatgpt.com)
 
 📄 [Om lojalitetsplikt och lagen om företagshemligheter](https://www.unionen.se/rad-och-stod/om-lojalitetsplikt-och-lagen-om-foretagshemligheter)
 by Unionen  
 This resource discusses the implications of the duty of loyalty and the Act on Trade Secrets,
 emphasising that breaching this duty can lead to dismissal due to personal reasons or even
 immediate termination.
-[oai_citation_attribution:3‡Unionen](https://www.unionen.se/rad-och-stod/om-lojalitetsplikt-och-lagen-om-foretagshemligheter?utm_source=chatgpt.com)
 
 📄 [Lojalitetsplikt](https://sv.wikipedia.org/wiki/Lojalitetsplikt) by Wikipedia  
 An overview of the duty of loyalty, describing it as a natural part of the employment contract,
 which the Swedish Labour Court has established as inherent, regardless of whether it is
 explicitly mentioned in the contract.
-[oai_citation_attribution:2‡Wikipedia](https://sv.wikipedia.org/wiki/Lojalitetsplikt?utm_source=chatgpt.com)
 
 📄 [Lojalitetsplikten](https://lawbox.se/arbetsratt/lojalitetsplikten/) by Lawbox  
 An article detailing the expectations on employees to handle the employer's property with care
 and the responsibility to avoid causing harm, which is part of the duty of loyalty.
-[oai_citation_attribution:1‡Lawbox](https://lawbox.se/arbetsratt/lojalitetsplikten/?utm_source=chatgpt.com)
 
 📄 [Lojalitetsplikt och konkurrensklausuler i anställningsavtal](https://foretagande.se/foretagsjuridik/lojalitetsplikt-och-konkurrensklausuler-i-anstallningsavtal)
 by Företagande.se  
 An article discussing how the employment contract regulates the relationship between employer and
 employee, and the importance of including loyalty and non-compete clauses.
-[oai_citation_attribution:0‡Foretagande](https://foretagande.se/foretagsjuridik/lojalitetsplikt-och-konkurrensklausuler-i-anstallningsavtal?utm_source=chatgpt.com)
 
 ## 🧭 Navigation
 

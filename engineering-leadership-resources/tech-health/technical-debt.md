@@ -1,4 +1,4 @@
-# 💸️ Technical Debt
+# 💸 Technical Debt
 
 Technical debt refers to the cost of maintaining and improving software systems due to
 shortcuts taken during development. This section explores strategies for managing and reducing
@@ -23,5 +23,5 @@ Tornhill discusses how to identify and prioritize technical debt using data-driv
 
 - [🏠 Home](../../README.md)
 - [⚙️ Technical Health](../README.md)
-- [⬅️ Previous: 🔒 Security](security.md)
+- [⬅️ Previous: 🧪 Testing](testing.md)
 - [➡️ Next: 🧪 Testing](testing.md)

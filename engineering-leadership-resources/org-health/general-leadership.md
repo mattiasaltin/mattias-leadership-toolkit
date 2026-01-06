@@ -10,7 +10,7 @@ Buckingham and Curt Coffman
 Based on Gallup's extensive research, this book highlights unconventional approaches that great
 managers use to engage and lead teams effectively.
 
-📘[An Elegant Puzzle: Systems of Engineering
+📘 [An Elegant Puzzle: Systems of Engineering
 Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle) by Will Larson  
 This book addresses the challenges of engineering management, such as team sizing, handling
 technical debt, and succession planning. Drawing from his experiences at Digg, Uber, and Stripe,
@@ -26,7 +26,7 @@ shares actionable advice to overcome challenges encountered at different stages 
 🎥 [What Engineering Managers Should Do (And Why We Don't)](https://youtu.be/Q_bJVokYLRI) by Lena Reinhard  
 This talk introduces the BICEPS model and contextualises it for engineering managers. It
 focuses on understanding team needs, creating psychological safety, and fostering better
-communication.
+communication. For more information about the BICEPS model, see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
 🎥 [Challenges of a New Engineering Manager](https://youtu.be/BJBtLwCkMuY) by Thomas Bartel  
 This talk provides practical advice for first-time engineering managers, covering common

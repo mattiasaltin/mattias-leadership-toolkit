@@ -1,7 +1,5 @@
 # 🌱 Engineering Leadership Resources
 
-## A mixed bag of resources that helps us grow as leaders
-
 ## 👋 Introduction
 
 Hello, I'm [Mattias](https://www.linkedin.com/in/mattiasaltin/)\!
@@ -47,6 +45,35 @@ genuinely [love to hear from you](CONTRIBUTING.md) - there's always more to lear
 Warm regards,  
 Mattias Altin  
 P.S. This document is constantly evolving, so don't be alarmed if it's changed between visits!
+
+## 🚀 Start Here for New Engineering Managers
+
+If you're new to engineering management, here's a recommended path through these resources:
+
+1. **Foundation (Start Here):**
+   - [General Leadership](org-health/general-leadership.md) - Essential leadership skills and mindset
+   - [Psychological Safety](org-health/psychological-safety.md) - Creating safe environments for your team
+   - [Coaching & Mentoring](org-health/coaching-and-mentoring.md) - Developing your team members
+
+2. **Building Your Team:**
+   - [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md) - Team formation and dynamics
+   - [Recruiting](org-health/recruiting.md) - Hiring great engineers
+   - [Empowerment](org-health/empowerment.md) - Empowering your team
+
+3. **Technical Leadership:**
+   - [Technical Excellence](delivery-execution/technical-excellence-in-delivery.md) - Practices for quality delivery
+   - [Testing](tech-health/testing.md) - Building quality into your process
+   - [Architecture](tech-health/architecture.md) - Technical decision-making
+
+4. **Delivery & Execution:**
+   - [Flow Efficiency](delivery-execution/flow-efficiency.md) - Optimizing work flow
+   - [Metrics and Measurement](delivery-execution/metrics-and-measurement.md) - Understanding performance
+   - [Agile Practices](delivery-execution/agile-practices.md) - Delivery methodologies
+
+**How to Use These Resources:**
+- Read sequentially for comprehensive learning, or
+- Jump to specific topics as you face challenges
+- Revisit resources as you gain experience - they often reveal new insights
 
 ## 📚 Core Areas
 

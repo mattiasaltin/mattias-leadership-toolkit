@@ -31,7 +31,8 @@ A concise talk that introduces the formula for empowering teams: [Control] = [Co
 Products](https://svpg.com/empowered-ordinary-people-extraordinary-products/) by Marty Cagan  
 This book focuses on how leaders can empower product teams to deliver impactful outcomes. Cagan
 emphasises hiring and coaching while creating an environment where teams can operate
-autonomously.
+autonomously. For more information about the EMPOWERED framework,
+see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
 🎞 [Autonomy Doesn't Mean "Do Whatever"](https://www.youtube.com/watch?v=RiKN7x1ppRE) by Jimmy Janlén  
 This talk explores what autonomy means in practice. Janlén explains how empowerment works when

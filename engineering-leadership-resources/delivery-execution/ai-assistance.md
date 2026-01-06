@@ -3,16 +3,20 @@
 AI assistance is transforming how teams deliver software by automating tasks and providing
 insights. This section explores AI tools and techniques for enhancing delivery.
 
-📘 [Artificial Intelligence: A Guide to Intelligent
-Systems](https://www.goodreads.com/book/show/2323294.Continuous_Integration) by Michael
-Negnevitsky  
-An introduction to AI systems and their applications in software delivery.
+📘 [The Age of AI: And Our Human Future](https://www.goodreads.com/book/show/58521336-the-age-of-ai) 
+by Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher  
+A comprehensive exploration of how AI is reshaping society and work,
+including implications for software development and delivery.
 
-🎞 [AI in Software Development](https://www.youtube.com/watch?v=1hHMwLxN6EM) by Dave Farley  
-Farley discusses how AI is being used to improve software development processes.
+🎥 [AI-Assisted Development: The Future of Software Engineering](https://www.youtube.com/watch?v=0uQqMxXoNvI) by GitHub
+An overview of how AI tools like GitHub Copilot are changing the software development workflow.
 
-📄 [AI and DevOps: A Perfect Match](https://aws.amazon.com/devops/continuous-integration/) by AWS  
-An article exploring the intersection of AI and DevOps and how they complement each other.
+🎥 [The Future of Coding: AI-Assisted Development](https://www.youtube.com/watch?v=3qHkcs3kG44) by Fireship  
+A concise overview of AI coding assistants and their role in modern software development.
+
+🎥 [Building with AI: Practical Applications in Software Delivery](https://www.youtube.com/watch?v=zBp3d9y6ln4)
+by Google Cloud  
+A discussion of practical AI applications in CI/CD pipelines, testing, and deployment automation.
 
 ## 🧭 Navigation
 

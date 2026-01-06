@@ -11,7 +11,7 @@ valuable insights and guidance.
 
 Thank you for exploring these resources, and I hope they inspire and support you in your leadership journey!
 
-I've tried to collect a diverse set of content in diffrent formats:
+I've tried to collect a diverse set of content in different formats:
 
 - 📘 Book  
 - 🎥 Video/Talk  
@@ -29,7 +29,36 @@ on product direction and strategy, and management accountabilities that focus on
 execution.
 
 The structure of the resources has been based on the excellent book EMPOWERED by Marty Cagan,
-and covers both the leadership and manager accountabilities of a product leader.
+and covers both the leadership and manager accountabilities of a product leader. For more
+information about the EMPOWERED framework, see the [Key Frameworks Referenced](../README.md#key-frameworks-referenced) section.
+
+## 🚀 Start Here for New Product Leaders
+
+If you're new to product leadership, here's a recommended path through these resources:
+
+1. **Foundation (Start Here):**
+
+- [Product Vision](product-vision.md) - Understanding your North Star and why it matters
+- [Product Strategy](product-strategy.md) - Making strategic choices about what to build
+- [Product Principles](product-principles.md) - Establishing decision-making frameworks
+
+2. **Leadership Accountabilities:**
+
+- [Product Priorities](product-priorities.md) - Focusing teams on outcomes
+- [Product Evangelism](product-evangelism.md) - Building product culture and alignment
+
+3. **Management Accountabilities:**
+
+- [Staffing](staffing.md) - Building great product teams
+- [Coaching](coaching.md) - Developing product talent
+- [Objectives](objectives.md) - Setting and aligning team goals
+
+**How to Use These Resources:**
+
+- Start with leadership accountabilities to understand strategic direction
+- Then explore management accountabilities for execution and team development
+- Use as a reference guide when facing specific challenges
+- Revisit as you gain experience - deeper understanding comes with practice
 
 ## 🗺️ Quick Navigation
 

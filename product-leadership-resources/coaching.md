@@ -26,7 +26,8 @@ provides actionable insights for fostering growth and accountability.
 
 🎞 [Coaching with the GROW Model](https://www.youtube.com/watch?v=XbkXpdiyNs0) by ProjectManager  
 This video introduces the GROW model (Goal, Reality, Options, and Way forward), a structured
-framework for effective coaching conversations.
+framework for effective coaching conversations. For more information about the GROW model,
+see the [Key Frameworks Referenced](../README.md#key-frameworks-referenced) section.
 
 🎞 [The GROW Coaching Model EXPLAINED!](https://www.youtube.com/watch?v=Fjw7vEUdIDE) by MTD Training  
 A practical breakdown of how to use the GROW coaching model to guide teams toward achieving
@@ -49,13 +50,15 @@ Sinek explores why listening is a fundamental skill for leaders and how it under
 coaching and mentoring.
 
 🎞 [Active Listening Skills](https://www.youtube.com/watch?v=7wUCyjiyXdg) by Alex Lyon  
-This video provides practical tips for honing active listening skills, an essential component of effective coaching and mentoring.
+This video provides practical tips for honing active listening skills,
+an essential component of effective coaching and mentoring.
 
 🎞 [How to Really Listen to People](https://www.youtube.com/watch?v=oBoAATtxrw8) by Jordan Peterson  
 Peterson discusses how listening deeply and without bias can lead to stronger relationships and better outcomes in coaching.
 
 🎞 [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c) by LeeAnn Renninger  
-Renninger explains how to deliver constructive feedback effectively, making it a valuable resource for both coaches and mentors.
+Renninger explains how to deliver constructive feedback effectively,
+making it a valuable resource for both coaches and mentors.
 
 📘 [The Coaching Habit: Say Less, Ask More, & Change the Way You Lead
 Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay

@@ -17,7 +17,7 @@ success. Sinek illustrates the importance of a "circle of safety," fostering col
 resilience in challenging environments.
 
 📘 [The Power of Vulnerability: Teachings of Authenticity, Connection, and
-Courage](https://www.amazon.com/dp/B00D1Z9RFU) by Brené Brown  
+Courage](https://www.goodreads.com/book/show/23500254-the-power-of-vulnerability) by Brené Brown  
 This companion book to her talks dives deeper into how leaders can use vulnerability to
 strengthen relationships and build more cohesive teams.
 
@@ -56,12 +56,6 @@ and challenger safety) and how leaders can foster each within their teams.
 by Charles Duhigg  
 An engaging exploration of how psychological safety can transform team dynamics during meetings,
 with lessons drawn from Google's practices.
-
-📄 [15 Ways To Promote Psychological Safety At
-Work](https://www.forbes.com/councils/forbesbusinesscouncil/2020/12/07/15-ways-to-promote-psychological-safety-at-work/)
-by Forbes HR Council  
-A short, actionable article outlining the role of trust in fostering psychological safety and
-offering practical tips for leaders.
 
 🔗 [Leaders, Stop Trying to Be Heroes](https://hbr.org/2021/10/leaders-stop-trying-to-be-heroes)
 by Hortense le Gentil  

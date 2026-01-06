@@ -21,4 +21,4 @@ Common security architecture mistakes and how to avoid them.
 - [🏠 Home](../../README.md)
 - [⚙️ Technical Health](../README.md)
 - [⬅️ Previous: 🧪 Testing](testing.md)
-- [➡️ Next: 🛠️ Technical Debt](technical-debt.md)
+- [➡️ Next: 💸 Technical Debt](technical-debt.md)

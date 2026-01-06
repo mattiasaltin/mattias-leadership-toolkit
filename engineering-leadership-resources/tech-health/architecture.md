@@ -16,13 +16,14 @@ maintaining structural integrity.
 
 📘 [Software Architecture: The Hard Parts](https://www.goodreads.com/book/show/58153482-software-architecture)
 by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani  
-This book tackles the difficult decisions architects face, offering practical advice for handling complex architectural challenges.
+This book tackles the difficult decisions architects face,
+offering practical advice for handling complex architectural challenges.
 
-🎞 [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) by Martin Fowler  
+🎥 [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) by Martin Fowler  
 Fowler explains different approaches to event-driven architecture, helping architects choose the
 right patterns for their needs.
 
-🎞 [GOTO 2019 • What Is Software Architecture?](https://www.youtube.com/watch?v=U6rfJjd8714) by Simon Brown  
+🎥 [GOTO 2019 • What Is Software Architecture?](https://www.youtube.com/watch?v=U6rfJjd8714) by Simon Brown  
 Brown provides a practical definition of software architecture and explains its importance in modern software development.
 
 🔗 [The C4 model for visualising software architecture](https://c4model.com/) by Simon Brown  
@@ -31,7 +32,7 @@ A lightweight approach to diagramming software architecture at different levels 
 📄 [Microservices Guide](https://martinfowler.com/microservices/) by Martin Fowler  
 A comprehensive guide to microservices architecture, including when to use it and how to implement it effectively.
 
-🎞 [Software Architecture vs. Code](https://www.youtube.com/watch?v=GAFZcYlO5S0) by Simon Brown  
+🎥 [Software Architecture vs. Code](https://www.youtube.com/watch?v=GAFZcYlO5S0) by Simon Brown  
 Brown explores the relationship between architecture and code, showing how architectural decisions manifest in implementation.
 
 ## 🧭 Navigation

@@ -14,10 +14,16 @@ This talk explores how behavioural shifts, not just thought changes, drive impac
 and teamwork. Marquet demonstrates how small actions can empower teams to think and act more
 effectively.
 
-📘 [Forming, Storming, Norming, and Performing: Tuckman's Model for Nurturing a Team to High
-Performance](https://members.mindtools.com/abyj5fi/forming-storming-norming-and-performing) by Mind Tools  
-An accessible explanation of Tuckman's team development model. It provides practical tips for
-leaders to guide teams through the various stages of growth.
+📘 [Forming, Storming, Norming, and Performing: Understanding the Stages of Team Formation](https://members.mindtools.com/abyj5fi/forming-storming-norming-and-performing)
+by Mind Tools  
+An accessible explanation of Tuckman's team development model. Tuckman's model describes four stages of team development:
+
+- **Forming** (initial orientation)
+- **Storming** (conflict and competition)
+- **Norming** (cohesion and cooperation)
+- **Performing** (high productivity)
+
+It provides practical tips for leaders to guide teams through the various stages of growth.
 
 🔗 [Chunking Up vs Chunking Down vs Chunking
 Across](https://excellenceassured.com/nlp-training/nlp-training-courses-online/how-can-nlp-help-me/chunking-chunking-chunking-across)
@@ -34,12 +40,20 @@ psychological safety and clear goals emerging as key drivers.
 team](https://www.youtube.com/watch?v=Nz46Ulp3tq0) by Organisation och Ledarskap Astrakan
 (Swedish)  
 A detailed exploration of Wheelan's Integrative Model of Group Development (IMGD), presented
-for Swedish-speaking audiences.
+for Swedish-speaking audiences. The IMGD model describes five stages:
+
+- **Dependency and Inclusion** (Stage 1)
+- **Counterdependency and Fight** (Stage 2)
+- **Trust and Structure** (Stage 3)
+- **Work** (Stage 4)
+- **Termination** (Stage 5).
 
 🎞 [Integrative Model of Group Development (IMGD)
 eng](https://www.youtube.com/watch?v=m442VHaJsL0) by Teamr Sweden  
 A breakdown of how teams evolve through distinct phases, with actionable advice on supporting
 team progression.
+The IMGD model provides a framework for understanding team development beyond Tuckman's model,
+focusing on the psychological and structural aspects of group formation.
 
 📘[The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 by Patrick Lencioni  

@@ -22,7 +22,8 @@ provides actionable insights for fostering growth and accountability.
 
 🎞 [Coaching with the GROW Model](https://www.youtube.com/watch?v=XbkXpdiyNs0) by ProjectManager  
 This video introduces the GROW model (Goal, Reality, Options, and Way forward), a structured
-framework for effective coaching conversations.
+framework for effective coaching conversations. For more information about the GROW model,
+see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
 🎞 [The GROW Coaching Model EXPLAINED!](https://www.youtube.com/watch?v=Fjw7vEUdIDE) by MTD Training  
 A practical breakdown of how to use the GROW coaching model to guide teams toward achieving
