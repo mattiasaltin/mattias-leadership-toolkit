@@ -112,7 +112,7 @@ pre-commit run
 ## Quick Reference
 
 | Task | Command |
-|------|---------|
+| --- | --- |
 | Lint all markdown | `npx --yes markdownlint-cli "**/*.md" --ignore node_modules` |
 | Fix linting issues | `npx --yes markdownlint-cli "**/*.md" --ignore node_modules --fix` |
 | Check all links | `find . -name "*.md" -not -path "./node_modules/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;` |

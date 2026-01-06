@@ -11,7 +11,8 @@ An article explaining how unfair distribution of work impacts career advancement
 minorities. It provides practical tips for managers to create equitable opportunities.
 
 🔗 [Bias Interrupters: Tools for Individuals](https://biasinterrupters.org/toolkits/individualtools/)  
-A collection of practical tools and strategies to identify and mitigate bias in the workplace, aimed at individuals and organisations.
+A collection of practical tools and strategies to identify and mitigate bias in the workplace,
+aimed at individuals and organisations.
 
 🔗 [Stop Telling Women They Have Imposter
 Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by Ruchika
