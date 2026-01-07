@@ -19,6 +19,12 @@
       "headers": {
         "User-Agent": "Mozilla/5.0"
       }
+    },
+    {
+      "urls": ["https://www.productplan.com"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)"
+      }
     }
   ],
   "timeout": "20s",
