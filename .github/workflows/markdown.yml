@@ -16,7 +16,7 @@ jobs:
 
       - name: Run markdownlint
         run: |
-          npx --yes markdownlint-cli "**/*.md" --ignore node_modules
+          npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp
 
   link-check:
     name: Link Validation
@@ -33,3 +33,5 @@ jobs:
           folder-path: '.'
           file-extension: '.md'
           check-modified-files-only: 'no'
+          base-url: 'https://github.com/mattiasaltin/mattias-leadership-toolkit'
+          ignore-files: 'tmp/**/*.md'
