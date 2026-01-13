@@ -148,7 +148,7 @@ uvicorn==0.33.0
 uvloop==0.21.0
 watchdog==6.0.0
 watchfiles==1.0.3
-websocket-client==1.8.0
+websocket-client==1.9.0
 websockets==14.1
 wrapt==1.17.0
 yarl==1.18.3
