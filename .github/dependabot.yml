@@ -4,6 +4,12 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    allow:
+      - dependency-name: "beautifulsoup4"
+      - dependency-name: "rapidfuzz"
+      - dependency-name: "requests"
+      - dependency-name: "streamlit"
+      - dependency-name: "mkdocs-material"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
