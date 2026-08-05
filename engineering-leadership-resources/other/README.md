@@ -7,7 +7,7 @@ leadership journey.
 
 ---
 
-- 📄 [How Aspiring Change Agents Can Thrive](https://open.substack.com/pub/mattiasaltin/p/how-aspiring-change-agents-can-thrive?r=dy49w&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+- 📄 [How Aspiring Change Agents Can Thrive](https://mattiasaltin.substack.com/p/how-aspiring-change-agents-can-thrive)
 by Mattias Altin  
 An article offering strategies and advice for new change agents looking to make a meaningful
 impact within their organisations.
