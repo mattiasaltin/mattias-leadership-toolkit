@@ -16,15 +16,15 @@ Marquet explores how language can either inhibit or promote creative problem-sol
 provides practical strategies for using communication to empower teams, reduce stress, and foster
 collaboration.
 
-🎞 [Leadership Is Language](https://www.youtube.com/watch?v=AUTYxGKbp5w) by David Marquet  
+🎥 [Leadership Is Language](https://www.youtube.com/watch?v=AUTYxGKbp5w) by David Marquet  
 This talk complements the book, focusing on how leaders can empower teams by shifting from
 command-and-control language to intent-based, collaborative communication.
 
-🎞 [Lead with Intent](https://www.youtube.com/watch?v=Nb_rmIomQHs) by David Marquet  
+🎥 [Lead with Intent](https://www.youtube.com/watch?v=Nb_rmIomQHs) by David Marquet  
 Marquet explains how leaders can transform teams by aligning intent with clarity and competence,
 creating an environment where team members take ownership of their roles.
 
-🎞 [Leaders Tune Control to Competence and Clarity](https://www.youtube.com/watch?v=J5jQsrMousE) by David Marquet  
+🎥 [Leaders Tune Control to Competence and Clarity](https://www.youtube.com/watch?v=J5jQsrMousE) by David Marquet  
 A concise talk that introduces the formula for empowering teams: [Control] = [Competence] + [Clarity].
 
 📘 [EMPOWERED: Ordinary People, Extraordinary
@@ -34,11 +34,11 @@ emphasises hiring and coaching while creating an environment where teams can ope
 autonomously. For more information about the EMPOWERED framework,
 see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
-🎞 [Autonomy Doesn't Mean "Do Whatever"](https://www.youtube.com/watch?v=RiKN7x1ppRE) by Jimmy Janlén  
+🎥 [Autonomy Doesn't Mean "Do Whatever"](https://www.youtube.com/watch?v=RiKN7x1ppRE) by Jimmy Janlén  
 This talk explores what autonomy means in practice. Janlén explains how empowerment works when
 individuals align their actions with shared goals and mutual accountability.
 
-🎞 [Creativity in Management](https://www.youtube.com/watch?v=Pb5oIIPO62g) by John Cleese  
+🎥 [Creativity in Management](https://www.youtube.com/watch?v=Pb5oIIPO62g) by John Cleese  
 Cleese highlights the role of empowerment in fostering creativity. He explains how leaders can
 create the right conditions—space, time, and confidence—for teams to excel.
 
@@ -52,10 +52,18 @@ by Carol Dweck
 This article highlights how adopting and encouraging a growth mindset within teams can lead to
 greater empowerment and resilience.
 
-🎞 [How to Take Great Engineers & Make Them Great Technical
+🎥 [How to Take Great Engineers & Make Them Great Technical
 Leaders](https://www.youtube.com/watch?v=RtMmxqkPVug) by Courtney Hemphill  
 Hemphill shares strategies for empowering technical staff to transition into leadership roles
 while retaining their individual strengths.
+
+## Related Topics
+
+- [⭐ Inspiring Your Team](inspiring-your-team.md) - Purpose and autonomy work together
+- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Coaching builds the competence empowerment
+  needs
+- [📋 Product Operating Model](../delivery-execution/product-operating-model.md) - Operating models
+  enable or block empowerment
 
 ## 🧭 Navigation
 

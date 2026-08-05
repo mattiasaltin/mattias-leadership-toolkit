@@ -87,8 +87,15 @@ dynamics, and career growth.
 A curated list of engineering management learning materials, including books, articles, and tools
 to support leadership and team-building efforts.
 
+## Related Topics
+
+- [🛡️ Psychological Safety](psychological-safety.md) - Safety is a foundation for leadership
+  effectiveness
+- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Coaching is a core leadership practice
+- [⭐ Inspiring Your Team](inspiring-your-team.md) - Inspiration complements day-to-day leadership
+
 ## 🧭 Navigation
 
-- [🧠 Home](../../README.md)
+- [🏠 Home](../../README.md)
 - [🧠 Organisational Health](../README.md)
 - [➡️ Next: 🛡️ Psychological Safety](psychological-safety.md)

@@ -42,12 +42,16 @@ A comprehensive talk on discovery techniques and how to integrate them into prod
 
 ## Related Topics
 
-- [🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence enables faster delivery
-- [📈 Metrics and Measurement](metrics-and-measurement.md) - Metrics help balance discovery and delivery
+- [💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence
+  enables faster delivery
+- [📈 Metrics and Measurement](metrics-and-measurement.md) - Metrics help balance discovery and
+  delivery
+- [🗺️ Product Strategy](../../product-leadership-resources/product-strategy.md) - Strategy sets
+  what discovery and delivery should serve
 
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
 - [⬅️ Previous: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)
-- [➡️ Next: 🤖 AI Assistance](ai-assistance.md)
+- [➡️ Next: 🌊 Flow Efficiency](flow-efficiency.md)

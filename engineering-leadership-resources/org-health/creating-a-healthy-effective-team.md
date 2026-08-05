@@ -9,7 +9,7 @@ Leaders](https://www.goodreads.com/book/show/1342288.Creating_Effective_Teams) b
 A must-read book offering frameworks and insights into forming and leading high-performing teams.
 Wheelan provides step-by-step guidance to help teams move from forming to performing.
 
-🎞 [Act Your Way to New Thinking](https://www.youtube.com/watch?v=4R3dgtORjjQ) by David Marquet  
+🎥 [Act Your Way to New Thinking](https://www.youtube.com/watch?v=4R3dgtORjjQ) by David Marquet  
 This talk explores how behavioural shifts, not just thought changes, drive impactful leadership
 and teamwork. Marquet demonstrates how small actions can empower teams to think and act more
 effectively.
@@ -25,18 +25,18 @@ An accessible explanation of Tuckman's team development model. Tuckman's model d
 
 It provides practical tips for leaders to guide teams through the various stages of growth.
 
-🔗 [Chunking Up vs Chunking Down vs Chunking
+📄 [Chunking Up vs Chunking Down vs Chunking
 Across](https://excellenceassured.com/nlp-training/nlp-training-courses-online/how-can-nlp-help-me/chunking-chunking-chunking-across)
 by Excellence Assured  
 An article discussing how breaking down or scaling up tasks and communication helps teams align
 better and work more cohesively.
 
-🎞 [Secrets of Successful Teamwork: Insights From
+🎥 [Secrets of Successful Teamwork: Insights From
 Google](https://www.youtube.com/watch?v=hHIikHJV9fI) by Coding Tech  
 A talk discussing Google's research into the factors that make teams successful, with
 psychological safety and clear goals emerging as key drivers.
 
-🎞 [IMDG faser i grupputveckling, Wheelan och effektiva
+🎥 [IMDG faser i grupputveckling, Wheelan och effektiva
 team](https://www.youtube.com/watch?v=Nz46Ulp3tq0) by Organisation och Ledarskap Astrakan
 (Swedish)  
 A detailed exploration of Wheelan's Integrative Model of Group Development (IMGD), presented
@@ -48,7 +48,7 @@ for Swedish-speaking audiences. The IMGD model describes five stages:
 - **Work** (Stage 4)
 - **Termination** (Stage 5).
 
-🎞 [Integrative Model of Group Development (IMGD)
+🎥 [Integrative Model of Group Development (IMGD)
 eng](https://www.youtube.com/watch?v=m442VHaJsL0) by Teamr Sweden  
 A breakdown of how teams evolve through distinct phases, with actionable advice on supporting
 team progression.
@@ -60,13 +60,20 @@ by Patrick Lencioni
 A leadership classic exploring common barriers to team success and offering strategies to build
 trust, manage conflict, and achieve collective results.
 
-🎞 [Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) by Dan North  
+🎥 [Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) by Dan North  
 North reveals the secrets behind the world's most effective teams, including adopting smart
 practices, fostering strong team dynamics, and delivering rapid outcomes.
 
-🎞 [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)  
+🎥 [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)  
 A deep dive into Google's Project Aristotle, highlighting the attributes that drive team success,
 including clarity of purpose and psychological safety.
+
+## Related Topics
+
+- [🛡️ Psychological Safety](psychological-safety.md) - Safety is a precondition for team
+  effectiveness
+- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Coaching develops individuals and teams
+- [🧲 Recruiting](recruiting.md) - Team composition starts with hiring
 
 ## 🧭 Navigation
 

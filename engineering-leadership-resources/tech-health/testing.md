@@ -59,7 +59,7 @@ integral part of development.
 
 ## Related Topics
 
-- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
+- [💫 Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
   Testing is a core practice of technical excellence
 - [💸 Technical Debt](technical-debt.md) - Comprehensive testing helps prevent technical debt
 
@@ -67,5 +67,5 @@ integral part of development.
 
 - [🏠 Home](../../README.md)
 - [⚙️ Technical Health](../README.md)
-- [⬅️ Previous: 📊 KPIs](kpis.md)
-- [➡️ Next: 🔒 Security](security.md)
+- [⬅️ Previous: 💸 Technical Debt](technical-debt.md)
+- [➡️ Next: 🔧 Infrastructure](infrastructure.md)

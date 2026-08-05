@@ -36,6 +36,9 @@ shared goals.
 
 - [🔢 Product Priorities](product-priorities.md) - Priorities guide objective setting
 - [🗺️ Product Strategy](product-strategy.md) - Strategy informs objectives
+- [🎓 Coaching](coaching.md) - Objectives are often the substrate of coaching conversations
+- [📈 Metrics and Measurement](../engineering-leadership-resources/delivery-execution/metrics-and-measurement.md) -
+  Delivery metrics should support product objectives
 
 ## 🧭 Navigation
 

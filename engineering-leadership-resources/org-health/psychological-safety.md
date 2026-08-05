@@ -21,46 +21,53 @@ Courage](https://www.goodreads.com/book/show/23500254-the-power-of-vulnerability
 This companion book to her talks dives deeper into how leaders can use vulnerability to
 strengthen relationships and build more cohesive teams.
 
-🎞 [Creating Psychological Safety at Work in a Knowledge
+🎥 [Creating Psychological Safety at Work in a Knowledge
 Economy](https://youtu.be/KUo1QwVcCv0) by Amy Edmondson  
 Amy Edmondson explains how psychological safety is a critical driver for innovation and
 performance in modern organisations. She provides actionable steps leaders can take to create
 environments where people feel free to speak up and take risks.
 
-🎞 [Why Good Leaders Make You Feel Safe](https://youtu.be/lmyZMtPVodo) by Simon Sinek  
+🎥 [Why Good Leaders Make You Feel Safe](https://youtu.be/lmyZMtPVodo) by Simon Sinek  
 In this talk, Sinek highlights the importance of fostering environments where team members feel
 secure, which allows them to perform at their best and focus on collective goals.
 
-🎞 [Trusting Teams](https://youtu.be/W5qQJhe7sLE) by Simon Sinek  
+🎥 [Trusting Teams](https://youtu.be/W5qQJhe7sLE) by Simon Sinek  
 Explores how leaders can build trust among team members, a cornerstone of effective collaboration and high performance.
 
-🎞 [The Power of Vulnerability](https://youtu.be/iCvmsMzlF7o) by Brené Brown  
+🎥 [The Power of Vulnerability](https://youtu.be/iCvmsMzlF7o) by Brené Brown  
 Brown discusses the link between vulnerability and authentic leadership, highlighting how
 embracing uncertainty and imperfection fosters deeper trust and connections within teams.
 
-🎞 [Understanding Empathy](https://youtu.be/pi86Nr9Mdms) by Simon Sinek  
+🎥 [Understanding Empathy](https://youtu.be/pi86Nr9Mdms) by Simon Sinek  
 Sinek explores the critical role of empathy in leadership, providing practical advice on
 understanding and addressing the needs of team members.
 
-🎞 [How Psychological Safety Has Been the Bedrock of Key Innovation Programs at
+🎥 [How Psychological Safety Has Been the Bedrock of Key Innovation Programs at
 Google](https://www.youtube.com/watch?v=-zrLI-Osg88)  
 Google shares insights from its research into the characteristics of successful teams,
 particularly how psychological safety underpins effective collaboration and innovation.
 
-🎞 [The Four Stages of Psychological Safety](https://www.youtube.com/watch?v=hc68qSppJio) by
+🎥 [The Four Stages of Psychological Safety](https://www.youtube.com/watch?v=hc68qSppJio) by
 Timothy Clark  
 Timothy Clark explains the four stages of psychological safety (inclusion, learner, contributor,
 and challenger safety) and how leaders can foster each within their teams.
 
-🎞 [A Lesson on the Psychology of Meetings from SNL and Google](https://www.youtube.com/watch?v=_NqdKdafRfk)
+🎥 [A Lesson on the Psychology of Meetings from SNL and Google](https://www.youtube.com/watch?v=_NqdKdafRfk)
 by Charles Duhigg  
 An engaging exploration of how psychological safety can transform team dynamics during meetings,
 with lessons drawn from Google's practices.
 
-🔗 [Leaders, Stop Trying to Be Heroes](https://hbr.org/2021/10/leaders-stop-trying-to-be-heroes)
+📄 [Leaders, Stop Trying to Be Heroes](https://hbr.org/2021/10/leaders-stop-trying-to-be-heroes)
 by Hortense le Gentil  
 This article from Harvard Business Review urges leaders to embrace humility, acknowledge
 limitations, and foster environments where their teams can thrive without micromanagement.
+
+## Related Topics
+
+- [📚 General Leadership](general-leadership.md) - Leadership behaviour shapes psychological safety
+- [🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md) - Team health depends
+  on safety
+- [🌈 DEI (Diversity, Equity, and Inclusion)](dei.md) - Inclusion and safety reinforce each other
 
 ## 🧭 Navigation
 

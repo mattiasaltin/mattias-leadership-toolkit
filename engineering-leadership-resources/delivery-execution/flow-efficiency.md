@@ -40,12 +40,16 @@ A talk on how flow efficiency metrics help teams identify bottlenecks and improv
 
 ## Related Topics
 
-- [📈 Metrics and Measurement](metrics-and-measurement.md) - Flow metrics are part of delivery measurement
-- [🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence supports flow
+- [📈 Metrics and Measurement](metrics-and-measurement.md) - Flow metrics are part of delivery
+  measurement
+- [💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence
+  supports flow
+- [⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md) - Flow depends on how
+  discovery and delivery are balanced
 
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
-- [⬅️ Previous: 🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md)
-- [➡️ Next: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)
+- [⬅️ Previous: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
+- [➡️ Next: 💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md)

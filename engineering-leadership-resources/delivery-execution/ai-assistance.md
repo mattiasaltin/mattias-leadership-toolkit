@@ -18,9 +18,17 @@ A concise overview of AI coding assistants and their role in modern software dev
 by Google Cloud  
 A discussion of practical AI applications in CI/CD pipelines, testing, and deployment automation.
 
+## Related Topics
+
+- [💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md) - AI tools should
+  reinforce quality practices, not bypass them
+- [✅ Testing](../tech-health/testing.md) - AI-assisted code still needs strong testing
+- [🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md) - AI can
+  accelerate pipeline feedback loops
+
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
-- [⬅️ Previous: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
+- [⬅️ Previous: 💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md)
 - [➡️ Next: 🤸 Agile Practices](agile-practices.md)

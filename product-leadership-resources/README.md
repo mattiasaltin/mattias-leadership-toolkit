@@ -44,10 +44,9 @@ If you're new to product leadership, here's a recommended path through these res
    - [Product Priorities](product-priorities.md) - Focusing teams on outcomes
    - [Product Evangelism](product-evangelism.md) - Building product culture and alignment
 3. **Management Accountabilities:**
-
-- [Staffing](staffing.md) - Building great product teams
-- [Coaching](coaching.md) - Developing product talent
-- [Objectives](objectives.md) - Setting and aligning team goals
+   - [Staffing](staffing.md) - Building great product teams
+   - [Coaching](coaching.md) - Developing product talent
+   - [Objectives](objectives.md) - Setting and aligning team goals
 
 **How to Use These Resources:**
 

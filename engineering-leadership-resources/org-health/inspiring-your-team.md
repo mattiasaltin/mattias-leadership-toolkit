@@ -16,7 +16,7 @@ This TED Talk distils the key ideas of Sinek's book and provides a compelling in
 power of purpose-driven leadership. It's an excellent resource for leaders looking to inspire
 their teams.
 
-🎞 [The Puzzle of Motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation) by Dan Pink  
+🎥 [The Puzzle of Motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation) by Dan Pink  
 Dan Pink explains why traditional rewards and punishments often fail to motivate teams and how
 autonomy, mastery, and purpose are the real drivers of engagement and inspiration.
 
@@ -26,7 +26,7 @@ This book builds on Pink's TED Talk, offering research-based insights into what 
 individuals. It provides practical strategies for leaders to foster environments where people
 feel engaged and inspired.
 
-🎞 [First Follower: Leadership Lessons from the Dancing Guy](https://youtu.be/fW8amMCVAJQ) by
+🎥 [First Follower: Leadership Lessons from the Dancing Guy](https://youtu.be/fW8amMCVAJQ) by
 Derek Sivers  
 A short yet powerful video showing how leadership is about inspiring others to join in. It
 emphasises the importance of the first followers in building momentum and driving team
@@ -70,6 +70,13 @@ teams, providing tools for leaders to cultivate resonant leadership styles.
 🎥 [Inspiring Brilliant Action](https://www.youtube.com/watch?v=dAmPxR4pcHg) by Simon T. Bailey  
 Bailey explores how passion and authenticity inspire teams to innovate and take meaningful
 actions aligned with organisational goals.
+
+## Related Topics
+
+- [🔑 Empowerment](empowerment.md) - Inspiration without autonomy rarely sticks
+- [🛡️ Psychological Safety](psychological-safety.md) - People take risks when they feel safe
+- [🌟 Product Vision](../../product-leadership-resources/product-vision.md) - A clear vision helps
+  teams find purpose
 
 ## 🧭 Navigation
 

@@ -16,7 +16,7 @@ argues that traditional, rigid methods just don't work well in today's fast-chan
 world, and that adopting XP helps teams build better software and respond quickly when things
 change.
 
-🎞 [Agile vs Scrum and Flaccid Scrum](https://youtu.be/kxk3Kg7LofY?si=52kwucSNgDz74TDA) by Uncle Bob  
+🎥 [Agile vs Scrum and Flaccid Scrum](https://youtu.be/kxk3Kg7LofY?si=52kwucSNgDz74TDA) by Uncle Bob  
 The video makes it clear that simply following Scrum isn't enough to be truly agile. It warns
 against the common mistake of believing that adopting Scrum practices alone guarantees success.
 Without the rigorous technical practices of Extreme Programming (XP) integrated into the
@@ -33,8 +33,16 @@ shows that for teams to truly deliver great products, they must blend sound proj
 with solid technical discipline, rather than relying on a framework that omits the critical
 'how' of building quality software.
 
+## Related Topics
+
+- [💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Agile without
+  technical discipline becomes flaccid
+- [🌊 Flow Efficiency](flow-efficiency.md) - Agile methods should improve flow, not ceremony
+- [📋 Product Operating Model](product-operating-model.md) - Process only works inside a clear
+  operating model
+
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
-- [🚀 Back to Delivery & Execution](../README.md)
+- [🚀 Delivery & Execution](../README.md)
 - [⬅️ Previous: 🤖 AI Assistance](ai-assistance.md)

@@ -21,7 +21,7 @@ Fowler discusses which metrics are useful for improving software development and
 Essential reading for understanding how to select metrics that drive improvement rather than
 gaming.
 
-🔗 [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
+📄 [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 by Google Cloud  
 Google's guide to implementing and using the four key metrics from Accelerate to measure DevOps performance.
 
@@ -52,7 +52,7 @@ their performance.
 
 - [📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) - KPIs are
   part of broader metrics and measurement
-- [🛠️ Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
+- [💫 Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
   KPIs help measure technical excellence
 
 ## 🧭 Navigation
@@ -60,4 +60,4 @@ their performance.
 - [🏠 Home](../../README.md)
 - [⚙️ Technical Health](../README.md)
 - [⬅️ Previous: 🏗️ Architecture](architecture.md)
-- [➡️ Next: 🧪 Testing](testing.md)
+- [➡️ Next: 💸 Technical Debt](technical-debt.md)

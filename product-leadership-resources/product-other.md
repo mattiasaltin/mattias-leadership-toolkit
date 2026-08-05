@@ -1,14 +1,15 @@
 # 📦 Other
 
-> Miscellaneous product leadership resources
+Miscellaneous product leadership resources that do not fit the EMPOWERED leadership or
+management accountabilities above.
 
-This section contains additional resources that don't fit into the main categories but are still valuable for product leaders.
+This section is intentionally thin for now. Prefer adding resources to a specific topic file
+when they clearly belong there. Use this page only for valuable material that does not fit
+elsewhere.
+
+Contributions welcome — see [Contributing Guidelines](CONTRIBUTING.md).
 
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
 - [⬅️ Previous: 🎯 Objectives](objectives.md)
-
----
-
-_This section is currently being curated. Contributions are welcome!_

@@ -16,7 +16,7 @@ building, effective coaching and mentoring, and the ability to attract and retai
 - 🤝 [Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
 - 🎯 [Coaching & Mentoring](coaching-and-mentoring.md)
 - 🌈 [DEI (Diversity, Equity, and Inclusion)](dei.md)
-- 🎯 [Recruiting](recruiting.md)
+- 🧲 [Recruiting](recruiting.md)
 - 🇸🇪 [Swedish Employment Law](swedish-employment-law.md)
 
 ## 🧭 Navigation

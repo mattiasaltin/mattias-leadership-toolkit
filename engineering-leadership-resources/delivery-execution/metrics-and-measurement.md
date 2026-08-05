@@ -8,7 +8,7 @@ DevOps](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsg
 Humble, and Gene Kim  
 Research-based insights into the metrics that drive high performance in software delivery.
 
-🎞 [The SPACE Framework Explained by Nicole Forsgren | Measure Developer
+🎥 [The SPACE Framework Explained by Nicole Forsgren | Measure Developer
 Productivity](https://youtu.be/O2rbekHpG4Q?si=wI8rOHu-zMI1Ym1O) by Nicole Forsgren  
 Forsgren discusses the importance of measuring the right metrics to drive improvement and achieve business goals.
 
@@ -18,14 +18,21 @@ An overview of the four key metrics from Accelerate: deployment frequency, lead 
 changes, mean time to recover, and change failure rate. For more information about DORA metrics,
 see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
 
-🎞 [My Response To The Nonsense McKinsey Article On Developer Productivity • Dave Farley • GOTO
+🎥 [My Response To The Nonsense McKinsey Article On Developer Productivity • Dave Farley • GOTO
 2025](https://youtu.be/5VpBRmmWqg0?si=Eu1TPZeyxMzhi-qS) by Dave Farley  
 The brilliant Dave Farley disects the McKinsey article on developer productivity, and explains
 why it's wrong.
+
+## Related Topics
+
+- [📊 KPIs](../tech-health/kpis.md) - Technical KPIs complement delivery metrics
+- [🌊 Flow Efficiency](flow-efficiency.md) - Flow metrics are a key delivery lens
+- [🎯 Objectives](../../product-leadership-resources/objectives.md) - Delivery metrics should connect
+  to product objectives
 
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
-- [⬅️ Previous: 🏢 Product Operating Model](product-operating-model.md)
-- [➡️ Next: 🛠️ Technical Excellence in Delivery](technical-excellence-in-delivery.md)
+- [⬅️ Previous: 📋 Product Operating Model](product-operating-model.md)
+- [➡️ Next: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)

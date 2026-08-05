@@ -42,6 +42,8 @@ decision-making.
 
 - [🗺️ Product Strategy](product-strategy.md) - Strategy turns vision into reality
 - [📣 Product Evangelism](product-evangelism.md) - Vision is the foundation of evangelism
+- [🌊 Flow Efficiency](../engineering-leadership-resources/delivery-execution/flow-efficiency.md) -
+  Vision without delivery flow stays aspirational
 
 ## 🧭 Navigation
 

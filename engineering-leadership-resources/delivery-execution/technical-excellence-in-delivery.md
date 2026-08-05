@@ -35,13 +35,14 @@ integration.
 
 ## Related Topics
 
-- [🧪 Testing](../tech-health/testing.md) - Testing is a core practice of technical excellence
-- [💸 Technical Debt](../tech-health/technical-debt.md) - Technical excellence helps prevent and manage technical debt
+- [✅ Testing](../tech-health/testing.md) - Testing is a core practice of technical excellence
+- [💸 Technical Debt](../tech-health/technical-debt.md) - Technical excellence helps prevent and
+  manage technical debt
 - [🌊 Flow Efficiency](flow-efficiency.md) - Technical excellence supports flow
 
 ## 🧭 Navigation
 
 - [🏠 Home](../../README.md)
 - [🚀 Delivery & Execution](../README.md)
-- [⬅️ Previous: 📈 Metrics and Measurement](metrics-and-measurement.md)
-- [➡️ Next: 🌊 Flow Efficiency](flow-efficiency.md)
+- [⬅️ Previous: 🌊 Flow Efficiency](flow-efficiency.md)
+- [➡️ Next: 🤖 AI Assistance](ai-assistance.md)

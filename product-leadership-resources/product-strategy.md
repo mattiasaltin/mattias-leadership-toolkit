@@ -62,6 +62,11 @@ A comprehensive talk on product strategy frameworks and how to apply them in pra
 - [🌟 Product Vision](product-vision.md) - Strategy starts with a clear vision
 - [🔢 Product Priorities](product-priorities.md) - Strategy guides priority setting
 - [🧭 Product Principles](product-principles.md) - Principles support strategic decision-making
+- [📋 Product Operating Model](../engineering-leadership-resources/delivery-execution/product-operating-model.md) -
+  Strategy needs an operating model that can execute it
+- [💫 Technical Excellence in
+  Delivery](../engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md)
+  - Delivery capability constrains strategic options
 
 ## 🧭 Navigation
 

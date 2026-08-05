@@ -26,7 +26,7 @@ right patterns for their needs.
 🎥 [GOTO 2019 • What Is Software Architecture?](https://www.youtube.com/watch?v=U6rfJjd8714) by Simon Brown  
 Brown provides a practical definition of software architecture and explains its importance in modern software development.
 
-🔗 [The C4 model for visualising software architecture](https://c4model.com/) by Simon Brown  
+📄 [The C4 model for visualising software architecture](https://c4model.com/) by Simon Brown  
 A lightweight approach to diagramming software architecture at different levels of abstraction.
 
 📄 [Microservices Guide](https://martinfowler.com/microservices/) by Martin Fowler  
@@ -34,6 +34,13 @@ A comprehensive guide to microservices architecture, including when to use it an
 
 🎥 [Software Architecture vs. Code](https://www.youtube.com/watch?v=GAFZcYlO5S0) by Simon Brown  
 Brown explores the relationship between architecture and code, showing how architectural decisions manifest in implementation.
+
+## Related Topics
+
+- [💸 Technical Debt](technical-debt.md) - Architecture choices create or reduce debt
+- [🔒 Security](security.md) - Security belongs in architectural decisions
+- [💫 Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
+  Architecture supports sustainable delivery
 
 ## 🧭 Navigation
 

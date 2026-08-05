@@ -194,27 +194,22 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
-Contributions are welcome! Please see our [Contributing
-Guidelines](engineering-leadership-resources/CONTRIBUTING.md) for details on how to submit
-suggestions and improvements.
+Contributions are welcome! Start with the root
+[Contributing Guidelines](CONTRIBUTING.md), then use the domain guides for
+[engineering](engineering-leadership-resources/CONTRIBUTING.md) or
+[product](product-leadership-resources/CONTRIBUTING.md) resources.
 
 ## Using the Makefile
 
-The `Makefile` in this repository automates common tasks such as setting up the environment,
-running scripts, and managing dependencies. Here are the available commands:
+The `Makefile` automates environment setup, content checks, and helper tools:
 
 - **Set up the environment**: `make setup`
-  - Sets up the virtual environment and installs dependencies.
-
-- **Run the url_checker.py script**: `make run`
-  - Runs the `url_checker.py` script using Streamlit.
-
+- **Run the URL checker UI**: `make run`
+- **Lint Markdown**: `make lint-markdown` / `make lint-markdown-fix`
+- **Check links**: `make check-links`
+- **Lint + links (CI mirror)**: `make check-all`
+- **Run pre-commit hooks**: `make pre-commit`
 - **Update dependencies**: `make freeze`
-  - Updates `requirements.txt` with the current dependencies.
-
 - **Clean up the environment**: `make clean`
-  - Removes the virtual environment.
-
 - **Display help**: `make help`
-  - Displays available commands.
   

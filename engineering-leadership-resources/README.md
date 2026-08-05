@@ -113,7 +113,7 @@ If you're new to engineering management, here's a recommended path through these
 - 🔄 [CI/CD](delivery-execution/continuous-integration-and-delivery.md)
 - ⚖️ [Delivery vs Discovery](delivery-execution/balancing-delivery-vs-discovery.md)
 - 🌊 [Flow Efficiency](delivery-execution/flow-efficiency.md)
-- 💫 [Technical Excellence](delivery-execution/technical-excellence-in-delivery.md)
+- 💫 [Technical Excellence in Delivery](delivery-execution/technical-excellence-in-delivery.md)
 - 🤖 [AI Assistance](delivery-execution/ai-assistance.md)
 - 🤸 [Agile Practices](delivery-execution/agile-practices.md)
 
