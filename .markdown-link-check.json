@@ -8,6 +8,9 @@
     },
     {
       "pattern": "^.*tmp/.*"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/.*"
     }
   ],
   "replacementPatterns": [
