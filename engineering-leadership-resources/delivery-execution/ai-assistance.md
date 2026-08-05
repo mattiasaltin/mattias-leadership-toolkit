@@ -11,9 +11,9 @@ about vanity metrics.
 DORA's AI research and guidance for leaders — useful when you want evidence-backed caution about
 how AI assistance interacts with delivery performance and team practices.
 
-📄 [Measuring GitHub Copilot's Impact on
-Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) by
-Eirini Kalliamvakou et al.  
+📄 [Research: quantifying GitHub Copilot's impact on developer productivity and
+happiness](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+by Eirini Kalliamvakou et al.  
 Research on measured productivity effects of Copilot — a reminder to separate perceived speed
 from verified outcomes, and to instrument carefully.
 

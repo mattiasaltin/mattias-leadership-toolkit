@@ -9,7 +9,7 @@ resources written in Markdown. The "product" is the Markdown itself. Helper tool
 
 - `tools/url_checker.py` — Streamlit UI for validating links
 - `tools/check_nav.py` — indexes and prev/next chain consistency
-- MkDocs Material (`mkdocs.yml` + `docs/` symlinks) — optional site via GitHub Pages
+- MkDocs Material (`mkdocs.yml`; `docs/` via `tools/prepare_docs.sh`) — GitHub Pages
 
 Because the deliverable is prose, the meaningful quality gates are Markdown linting, navigation
 consistency, and link validation — not compilation or unit tests.
@@ -76,6 +76,6 @@ When asked to create/edit/visualize a diagram, follow `.github/instructions/merm
 ## Notes
 
 - `tmp/` is excluded from lint/link checks (see the CI `ignore-files` and lint `--ignore`).
-- `docs/` is a thin symlink layer over root content (MkDocs requires a child `docs_dir`).
+- `docs/` is generated (symlink layer) by `tools/prepare_docs.sh` / `make docs-prepare`; git-ignored.
 - `site/` is the MkDocs build output and is git-ignored.
 - `.venv/` is git-ignored; create it locally via `make setup`.

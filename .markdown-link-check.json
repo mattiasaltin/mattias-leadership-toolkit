@@ -11,6 +11,9 @@
     },
     {
       "pattern": "^https://www\\.linkedin\\.com/.*"
+    },
+    {
+      "pattern": "^https://www\\.ted\\.com/.*"
     }
   ],
   "replacementPatterns": [
@@ -21,15 +24,10 @@
   ],
   "httpHeaders": [
     {
-      "urls": ["https://www.linkedin.com"],
+      "urls": ["https://", "http://"],
       "headers": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
-      "urls": ["https://www.productplan.com"],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)"
+        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check; +https://github.com/tcort/markdown-link-check)",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
       }
     }
   ],

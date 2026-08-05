@@ -23,6 +23,8 @@ dist/
 build/
 out/
 site/
+# Generated MkDocs input (symlinks); created by tools/prepare_docs.sh
+docs/
 
 # IDE files
 .idea/

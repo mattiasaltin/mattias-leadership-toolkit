@@ -29,6 +29,9 @@ jobs:
       - name: Install docs dependencies
         run: pip install -r requirements-docs.txt
 
+      - name: Prepare docs symlink layer
+        run: bash tools/prepare_docs.sh
+
       - name: Build site
         run: mkdocs build --strict
 

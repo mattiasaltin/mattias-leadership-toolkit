@@ -74,12 +74,16 @@ check-all: lint-markdown check-nav check-links
 docs-setup: $(VENV_DIR)/bin/activate
 	$(PIP) install -r requirements-docs.txt
 
+.PHONY: docs-prepare
+docs-prepare:
+	bash tools/prepare_docs.sh
+
 .PHONY: docs-serve
-docs-serve: docs-setup
+docs-serve: docs-setup docs-prepare
 	$(VENV_DIR)/bin/mkdocs serve
 
 .PHONY: docs-build
-docs-build: docs-setup
+docs-build: docs-setup docs-prepare
 	$(VENV_DIR)/bin/mkdocs build --strict
 
 # Help target to display available commands

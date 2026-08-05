@@ -14,7 +14,7 @@ This talk explores how behavioural shifts, not just thought changes, drive impac
 and teamwork. Marquet demonstrates how small actions can empower teams to think and act more
 effectively.
 
-📘 [Forming, Storming, Norming, and Performing: Understanding the Stages of Team Formation](https://members.mindtools.com/abyj5fi/forming-storming-norming-and-performing)
+📘 [Forming, Storming, Norming, and Performing: Understanding the Stages of Team Formation](https://www.mindtools.com/abyj5fi/forming-storming-norming-and-performing)
 by Mind Tools  
 An accessible explanation of Tuckman's team development model. Tuckman's model describes four stages of team development:
 
