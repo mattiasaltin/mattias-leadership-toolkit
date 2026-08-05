@@ -23,10 +23,10 @@ $(VENV_DIR)/bin/activate: requirements.txt
 run: $(VENV_DIR)/bin/activate
 	$(STREAMLIT) run tools/url_checker.py
 
-# Update requirements.txt with current dependencies
+# Freeze only the direct deps needed by tools/url_checker.py (never dump the whole venv)
 .PHONY: freeze
 freeze: $(VENV_DIR)/bin/activate
-	$(PIP) freeze > requirements.txt
+	$(PIP) freeze | grep -E '^(beautifulsoup4|rapidfuzz|requests|streamlit)==' > requirements.txt
 
 # Clean up the virtual environment
 .PHONY: clean
@@ -53,15 +53,15 @@ pre-commit-hook:
 # Markdown checks
 .PHONY: lint-markdown
 lint-markdown:
-	npx --yes markdownlint-cli "**/*.md" --ignore node_modules
+	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp
 
 .PHONY: lint-markdown-fix
 lint-markdown-fix:
-	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --fix
+	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --fix
 
 .PHONY: check-links
 check-links:
-	find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
+	find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -not -path "./tmp/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
 
 .PHONY: check-all
 check-all: lint-markdown check-links

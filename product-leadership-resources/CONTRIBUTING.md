@@ -33,6 +33,7 @@ document provides some guidelines to help you get started.
     - [🌟 Product Vision](product-vision.md) | Articulating and communicating a clear,
       compelling vision that serves as the North Star
     - [🗺️ Product Strategy](product-strategy.md) | Defining market focus, prioritisation, and resource allocation
+    - [🔍 Product Discovery](product-discovery.md) | Continuous learning to reduce building the wrong thing
     - [🧭 Product Principles](product-principles.md) | Establishing guidelines and decision
       frameworks for product development
     - [🔢 Product Priorities](product-priorities.md) | Setting and maintaining clear objectives and outcomes
@@ -60,5 +61,8 @@ document provides some guidelines to help you get started.
   quality of the content and support each other in our shared goal of learning and growth.
 - We welcome diverse perspectives and encourage open, friendly discussions.
 
-Thank you for helping us build a valuable resource for the engineering leadership community.
-Your contributions make a difference!
+Thank you for helping us build a valuable resource for the product leadership community. Your
+contributions make a difference!
+
+Also see the root [Contributing Guidelines](../CONTRIBUTING.md) for the full definition of done
+(indexes, prev/next, Related Topics, `make check-all`).

@@ -1,42 +1,50 @@
 # Contributing to Mattias Leadership Toolkit
 
-Thank you for considering contributing to the Mattias Leadership Toolkit! We welcome contributions from the
-community and are excited to see what you'll bring to this resource collection.
+Thank you for considering a contribution. This toolkit is a curated Markdown library of
+leadership resources. British English spelling is used throughout ("organised", "optimise",
+"prioritise").
 
-## How to Contribute
+## How to contribute
 
-1. **Fork the Repository**: Create a personal fork of the project on GitHub.
-2. **Clone the Fork**: Clone your fork to your local machine.
-3. **Create a Branch**: Create a new branch for your changes.
-4. **Make Changes**: Make your changes in the new branch.
-5. **Test Your Changes**: Ensure that your changes work as expected (e.g., verify links are correct).
-6. **Submit a Pull Request**: Submit a pull request to the main repository.
+1. Fork the repository and create a branch.
+2. Make your changes following the domain guides and the definition of done below.
+3. Run `make check-all` (Markdown lint + link check).
+4. Open a pull request with a short explanation of why the resource belongs.
 
-## Where to Contribute
+## Where to contribute
 
-This toolkit is organized into two main domains:
+- **Engineering:** [engineering-leadership-resources/CONTRIBUTING.md](engineering-leadership-resources/CONTRIBUTING.md)
+- **Product:** [product-leadership-resources/CONTRIBUTING.md](product-leadership-resources/CONTRIBUTING.md)
 
-- **Engineering Leadership Resources**: See
-  [engineering-leadership-resources/CONTRIBUTING.md](engineering-leadership-resources/CONTRIBUTING.md)
-  for domain-specific guidelines.
-- **Product Leadership Resources**: See
-  [product-leadership-resources/CONTRIBUTING.md](product-leadership-resources/CONTRIBUTING.md)
-  for domain-specific guidelines.
+## Resource format
 
-## Guidelines
+```markdown
+📘 [Title](url) by Author  
+A brief description of the resource and why it’s valuable
+```
 
-- Follow the existing formatting style and structure.
-- Write clear, concise commit messages.
-- Verify that all links are correct and accessible.
-- Ensure resources are high-quality and relevant to leadership topics.
-- Maintain consistency in navigation and emoji usage.
+Icons: 📘 Book · 🎥 Video/Talk · 📄 Article/Blog · 🎧 Podcast · 📊 Research Paper/Whitepaper
+
+## Definition of done (adding or moving a topic file)
+
+When you add, rename, or remove a topic `.md` file, update all of the following:
+
+1. The topic file itself (resources, Related Topics, Navigation)
+2. The section `README.md` (engineering) or domain Quick Nav (product)
+3. Domain Quick Nav / Start Here paths if the topic is foundational
+4. Neighbouring prev/next links so the browse chain stays consistent
+5. Related Topics on closely related pages (prefer a real cross-link over duplication)
+6. `make check-all` passes locally
+
+Do **not** invent placeholder URLs. Prefer durable sources (books, primary research, canonical
+articles) over ephemeral webinars when both exist.
+
+## Deduplication
+
+If a resource already lives on another page, link to that page in Related Topics instead of
+pasting the same entry again. Shared people-leadership material (coaching, recruiting craft)
+should have one canonical home.
 
 ## Code of Conduct
 
-Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By
-participating, you are expected to uphold this code.
-
-## Reporting Issues
-
-If you encounter any issues, please report them using the issue tracker on GitHub. Provide as
-much detail as possible to help us resolve the issue quickly.
+This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).

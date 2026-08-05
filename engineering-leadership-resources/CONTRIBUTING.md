@@ -46,3 +46,6 @@ document provides some guidelines to help you get started.
 - We welcome diverse perspectives and encourage open, friendly discussions.
 
 Thank you for helping us build a valuable resource for the engineering leadership community. Your contributions make a difference!
+
+Also see the root [Contributing Guidelines](../CONTRIBUTING.md) for the full definition of done
+(indexes, prev/next, Related Topics, `make check-all`).

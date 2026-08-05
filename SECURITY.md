@@ -1,33 +1,17 @@
 # Security Policy
 
-## Supported Versions
+This repository is a curated Markdown content library. There is no application runtime
+to patch. The main risks are malicious or misleading links in content, and accidental
+exposure of secrets in pull requests.
 
-We release patches for security vulnerabilities in the following versions:
+## Reporting a concern
 
-- Latest major version
-- Previous major version
-
-## Reporting a Vulnerability
-
-If you discover a security vulnerability within this project, please report it to us by
-creating a
+Please open a
 [security advisory](https://github.com/mattiasaltin/mattias-leadership-toolkit/security/advisories/new)
-on GitHub. We will respond to your report within 5 business days.
+or contact the maintainers if you find:
 
-Please include the following details with your report:
+- A malicious, phishing, or clearly deceptive link in the content
+- Credentials, tokens, or private data committed to the repository
+- A vulnerability in the optional local URL-checker tooling under `tools/`
 
-- A description of the vulnerability
-- Steps to reproduce the vulnerability
-- Any potential impact or exploit scenarios
-
-We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contributions.
-
-## Security Updates
-
-We will notify the community about security updates through our [project's release
-notes](https://github.com/mattiasaltin/mattias-leadership-toolkit/releases) and [security
-advisories](https://github.com/mattiasaltin/mattias-leadership-toolkit/security/advisories).
-
-## Further Information
-
-For more information about our security practices, please visit our [security page](https://github.com/mattiasaltin/mattias-leadership-toolkit/security).
+We aim to respond within five business days.
