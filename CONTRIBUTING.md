@@ -8,7 +8,7 @@ leadership resources. British English spelling is used throughout ("organised", 
 
 1. Fork the repository and create a branch.
 2. Make your changes following the domain guides and the definition of done below.
-3. Run `make check-all` (Markdown lint + link check).
+3. Run `make check-all` (Markdown lint + nav + link check).
 4. Open a pull request with a short explanation of why the resource belongs.
 
 ## Where to contribute
@@ -34,7 +34,7 @@ When you add, rename, or remove a topic `.md` file, update all of the following:
 3. Domain Quick Nav / Start Here paths if the topic is foundational
 4. Neighbouring prev/next links so the browse chain stays consistent
 5. Related Topics on closely related pages (prefer a real cross-link over duplication)
-6. `make check-all` passes locally
+6. `make check-all` passes locally (lint + nav + links)
 
 Do **not** invent placeholder URLs. Prefer durable sources (books, primary research, canonical
 articles) over ephemeral webinars when both exist.

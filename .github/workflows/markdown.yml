@@ -16,7 +16,17 @@ jobs:
 
       - name: Run markdownlint
         run: |
-          npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp
+          npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --ignore docs --ignore site
+
+  nav-check:
+    name: Navigation Consistency
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check indexes and prev/next chains
+        run: python3 tools/check_nav.py
 
   link-check:
     name: Link Validation
@@ -34,4 +44,4 @@ jobs:
           file-extension: '.md'
           check-modified-files-only: 'no'
           base-url: 'https://github.com/mattiasaltin/mattias-leadership-toolkit'
-          ignore-files: 'tmp/**/*.md'
+          ignore-files: 'tmp/**/*.md, docs/**/*.md, site/**/*.md'

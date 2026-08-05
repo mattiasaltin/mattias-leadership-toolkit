@@ -53,18 +53,34 @@ pre-commit-hook:
 # Markdown checks
 .PHONY: lint-markdown
 lint-markdown:
-	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp
+	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --ignore docs --ignore site
 
 .PHONY: lint-markdown-fix
 lint-markdown-fix:
-	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --fix
+	npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --ignore docs --ignore site --fix
 
 .PHONY: check-links
 check-links:
-	find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -not -path "./tmp/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
+	find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -not -path "./tmp/*" -not -path "./docs/*" -not -path "./site/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
+
+.PHONY: check-nav
+check-nav:
+	python3 tools/check_nav.py
 
 .PHONY: check-all
-check-all: lint-markdown check-links
+check-all: lint-markdown check-nav check-links
+
+.PHONY: docs-setup
+docs-setup: $(VENV_DIR)/bin/activate
+	$(PIP) install -r requirements-docs.txt
+
+.PHONY: docs-serve
+docs-serve: docs-setup
+	$(VENV_DIR)/bin/mkdocs serve
+
+.PHONY: docs-build
+docs-build: docs-setup
+	$(VENV_DIR)/bin/mkdocs build --strict
 
 # Help target to display available commands
 .PHONY: help
@@ -74,6 +90,7 @@ help:
 	@echo "Setup:"
 	@echo "  make setup              - Set up the virtual environment and install dependencies"
 	@echo "  make install-pre-commit - Install and set up pre-commit hooks"
+	@echo "  make docs-setup         - Install MkDocs Material (docs dependencies)"
 	@echo ""
 	@echo "Pre-commit:"
 	@echo "  make pre-commit        - Run all pre-commit hooks on all files"
@@ -83,10 +100,15 @@ help:
 	@echo "  make lint-markdown     - Lint all markdown files"
 	@echo "  make lint-markdown-fix - Lint and auto-fix markdown files"
 	@echo "  make check-links       - Check all links in markdown files"
-	@echo "  make check-all         - Run all markdown checks"
+	@echo "  make check-nav         - Check indexes and prev/next chains"
+	@echo "  make check-all         - Lint + nav + link checks"
+	@echo ""
+	@echo "Docs site:"
+	@echo "  make docs-serve        - Serve MkDocs Material locally"
+	@echo "  make docs-build        - Build the static site into site/"
 	@echo ""
 	@echo "Other:"
 	@echo "  make run               - Run the URLChecker script using Streamlit"
-	@echo "  make freeze            - Update requirements.txt with current dependencies"
+	@echo "  make freeze            - Update requirements.txt with direct tool deps only"
 	@echo "  make clean             - Remove the virtual environment"
 	@echo "  make help              - Display this help message"
