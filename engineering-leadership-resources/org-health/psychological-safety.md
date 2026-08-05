@@ -16,7 +16,7 @@ Edmondson summarises why psychological safety drives innovation and what leaders
 speaking up normal.
 
 📄 [How to Silence Your Change Agents in 3 Simple
-Steps](https://mattiasaltin.substack.com/p/how-to-silence-your-change-agents?r=dy49w) by
+Steps](https://mattiasaltin.substack.com/p/how-to-silence-your-change-agents) by
 Mattias Altin  
 Author note: common ways organisations unintentionally suppress challenge and new ideas.
 
