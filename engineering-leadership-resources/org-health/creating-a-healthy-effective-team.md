@@ -55,7 +55,7 @@ team progression.
 The IMGD model provides a framework for understanding team development beyond Tuckman's model,
 focusing on the psychological and structural aspects of group formation.
 
-📘[The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+📘 [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 by Patrick Lencioni  
 A leadership classic exploring common barriers to team success and offering strategies to build
 trust, manage conflict, and achieve collective results.
@@ -77,7 +77,8 @@ including clarity of purpose and psychological safety.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🔑 Empowerment](empowerment.md)
-- [➡️ Next: 🎯 Coaching & Mentoring](coaching-and-mentoring.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 💬 Conflict & Difficult Conversations](conflict-and-difficult-conversations.md)
+- [➡️ Next: 🧲 Recruiting](recruiting.md)

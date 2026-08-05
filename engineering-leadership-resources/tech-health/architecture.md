@@ -44,6 +44,7 @@ Brown explores the relationship between architecture and code, showing how archi
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [⚙️ Technical Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [⚙️ Technical Health](README.md)
 - [➡️ Next: 📊 KPIs](kpis.md)

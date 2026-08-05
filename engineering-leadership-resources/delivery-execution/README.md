@@ -16,7 +16,8 @@ execution. It covers a range of topics from product operating models to AI assis
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
 - [🧠 Organisational Health](../org-health/README.md)
 - [⚙️ Technical Health](../tech-health/README.md)
 - [📦 Other](../other/README.md)

@@ -62,7 +62,7 @@ by Roselinde Torres
 In this TED Talk, Torres outlines three key qualities of successful leaders, including
 anticipating change and embracing diversity of thought.
 
-📄[Ten Fatal Flaws That Derails Leaders](https://hbr.org/2009/06/ten-fatal-flaws-that-derail-leaders)
+📄 [Ten Fatal Flaws That Derails Leaders](https://hbr.org/2009/06/ten-fatal-flaws-that-derail-leaders)
 by Jack Zenger and Joseph Folkman  
 This article identifies common leadership pitfalls, such as failing to provide feedback,
 micromanaging, and neglecting team development, and offers solutions for overcoming them.
@@ -96,6 +96,7 @@ to support leadership and team-building efforts.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
 - [➡️ Next: 🛡️ Psychological Safety](psychological-safety.md)

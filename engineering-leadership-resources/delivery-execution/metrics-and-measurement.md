@@ -20,8 +20,11 @@ see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) s
 
 🎥 [My Response To The Nonsense McKinsey Article On Developer Productivity • Dave Farley • GOTO
 2025](https://youtu.be/5VpBRmmWqg0?si=Eu1TPZeyxMzhi-qS) by Dave Farley  
-The brilliant Dave Farley disects the McKinsey article on developer productivity, and explains
-why it's wrong.
+Farley critiques simplistic developer-productivity scorecards and argues for measurement that
+reflects real software delivery work.
+
+📄 [DORA Research](https://dora.dev/research/) by DORA  
+Primary research site for software delivery performance metrics and capabilities.
 
 ## Related Topics
 
@@ -32,7 +35,8 @@ why it's wrong.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🚀 Delivery & Execution](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🚀 Delivery & Execution](README.md)
 - [⬅️ Previous: 📋 Product Operating Model](product-operating-model.md)
 - [➡️ Next: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)

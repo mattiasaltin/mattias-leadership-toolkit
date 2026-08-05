@@ -1,6 +1,6 @@
 # 🌊 Flow Efficiency
 
-Flow efficiency is about optimizing the flow of work through a system to maximize value delivery.
+Flow efficiency is about optimising the flow of work through a system to maximize value delivery.
 This section explores techniques for improving flow efficiency.
 
 Flow efficiency measures the percentage of time work is actively being worked on versus waiting
@@ -13,7 +13,7 @@ enabling faster delivery and better responsiveness to customer needs.
 Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
 by Donald G. Reinertsen  
 A deep dive into the principles of flow efficiency and how they apply to product development.
-Reinertsen explains queueing theory, batch sizes, and how to optimize flow through development
+Reinertsen explains queueing theory, batch sizes, and how to optimise flow through development
 systems.
 
 📘 [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.goodreads.com/book/show/8157811-kanban)
@@ -51,7 +51,8 @@ actually improve predictability—and which ones do not.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🚀 Delivery & Execution](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🚀 Delivery & Execution](README.md)
 - [⬅️ Previous: ⚖️ Balancing Delivery vs Discovery](balancing-delivery-vs-discovery.md)
 - [➡️ Next: 💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md)

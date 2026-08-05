@@ -1,8 +1,8 @@
 # 🌟 Product Vision
 
-> "Leadership is about inspiring the organization and management is about guiding us there." — Marty Cagan
+> "Leadership is about inspiring the organisation and management is about guiding us there." — Marty Cagan
 
-Product vision is your organization's North Star - not just for individual teams, but for the
+Product vision is your organisation's North Star - not just for individual teams, but for the
 entire company. It describes the meaningful objective that everyone is contributing to. Many
 companies make the mistake of creating separate visions per product team, but this misses the
 fundamental purpose: every good product designer and engineer wants to contribute to something
@@ -17,7 +17,7 @@ inspiration and direction for all product decisions.
 📘 [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
 by Marty Cagan
 Cagan explains how to create a compelling product vision that inspires teams and guides
-decision-making, with examples from successful product organizations.
+decision-making, with examples from successful product organisations.
 
 📘 [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer
 Feedback](https://www.goodreads.com/book/show/26098219-the-lean-product-playbook) by Dan Olsen  

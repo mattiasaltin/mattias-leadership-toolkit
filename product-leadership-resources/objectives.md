@@ -2,25 +2,26 @@
 
 > "Great product people know what they don't know, and they admit it." — Marty Cagan
 
-Setting objectives happens at both the organizational and team levels. Effective managers
-collaborate to determine how their teams will deliver on organizational objectives, then work
+Setting objectives happens at both the organisational and team levels. Effective managers
+collaborate to determine how their teams will deliver on organisational objectives, then work
 with individual teams to define specific results. This process involves give-and-take, with
 teams proposing how they'll achieve these objectives while maintaining alignment with the
-broader organization's goals.
+broader organisation's goals.
 
 Effective objective-setting focuses on outcomes rather than outputs, measuring impact rather
 than activity. Objectives should be ambitious yet achievable, providing clear direction while
-allowing teams autonomy in how they achieve them.
+allowing teams autonomy in how they achieve them. For a short definition of OKRs, see
+[Key Frameworks Referenced](../README.md#key-frameworks-referenced).
 
 ## Resources
 
-📘 [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.goodreads.com/book/show/39286958-measure-what-matters)
-by John Doerr  
+📘 [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with
+OKRs](https://www.goodreads.com/book/show/39286958-measure-what-matters) by John Doerr  
 The definitive guide to OKRs, explaining how to set ambitious objectives and measure progress
-through key results. Essential for understanding outcome-focused objective setting.
+through key results.
 
-📘 [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.goodreads.com/book/show/28525037-radical-focus)
-by Christina Wodtke  
+📘 [Radical Focus: Achieving Your Most Important Goals with Objectives and Key
+Results](https://www.goodreads.com/book/show/28525037-radical-focus) by Christina Wodtke  
 A practical guide to implementing OKRs, with a focus on how to set objectives that drive
 results and align teams.
 
@@ -37,7 +38,7 @@ that teams can execute against.
 
 - [🔢 Product Priorities](product-priorities.md) - Priorities guide objective setting
 - [🗺️ Product Strategy](product-strategy.md) - Strategy informs objectives
-- [🎓 Coaching](coaching.md) - Objectives are often the substrate of coaching conversations
+- [🎓 Coaching](coaching.md) - Coaching conversations often connect to outcomes
 - [📈 Metrics and Measurement](../engineering-leadership-resources/delivery-execution/metrics-and-measurement.md) -
   Delivery metrics should support product objectives
 
@@ -45,4 +46,3 @@ that teams can execute against.
 
 - [🏠 Home](README.md)
 - [⬅️ Previous: 🎓 Coaching](coaching.md)
-- [➡️ Next: 📦 Other](product-other.md)

@@ -91,6 +91,7 @@ employee, and the importance of including loyalty and non-compete clauses.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🧲 Recruiting](recruiting.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 📋 Performance Management](performance-management.md)

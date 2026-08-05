@@ -43,6 +43,7 @@ with solid technical discipline, rather than relying on a framework that omits t
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🚀 Delivery & Execution](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🚀 Delivery & Execution](README.md)
 - [⬅️ Previous: 🤖 AI Assistance](ai-assistance.md)

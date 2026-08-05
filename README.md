@@ -33,7 +33,7 @@ If you're new to engineering management, start with:
    - [General Leadership](engineering-leadership-resources/org-health/general-leadership.md) - Foundational leadership skills
    - [Psychological Safety](engineering-leadership-resources/org-health/psychological-safety.md) - Creating safe environments
    - [Coaching & Mentoring](engineering-leadership-resources/org-health/coaching-and-mentoring.md) - Developing your team
-3. **Recommended Reading Order:** Start with organizational health topics, then explore
+3. **Recommended Reading Order:** Start with organisational health topics, then explore
    technical health and delivery execution as you gain experience
 
 ### I'm a New Product Leader
@@ -102,8 +102,6 @@ This repository is organised into several key areas, each containing valuable re
   focused on product vision, strategy, principles, staffing your team, coaching, setting
   objectives, and other relevant topics.
 
-*Additional sections will be added in the future to expand the scope of this toolkit.*
-
 ## Key Frameworks Referenced
 
 This toolkit references several frameworks that are foundational to modern leadership
@@ -143,9 +141,9 @@ OKRs help teams align around shared goals and measure progress transparently.
 
 Four metrics that measure software delivery performance:
 
-- **Deployment Frequency**: How often an organization successfully releases to production
+- **Deployment Frequency**: How often an organisation successfully releases to production
 - **Lead Time for Changes**: The amount of time it takes a commit to get into production
-- **Mean Time to Recovery (MTTR)**: How long it takes an organization to recover from a failure in production
+- **Mean Time to Recovery (MTTR)**: How long it takes an organisation to recover from a failure in production
 - **Change Failure Rate**: The percentage of changes that result in degraded service or require remediation
 
 These metrics, from the book "Accelerate," help engineering leaders understand and improve their delivery capabilities.

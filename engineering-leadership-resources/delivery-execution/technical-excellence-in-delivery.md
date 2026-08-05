@@ -44,7 +44,8 @@ other.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🚀 Delivery & Execution](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🚀 Delivery & Execution](README.md)
 - [⬅️ Previous: 🌊 Flow Efficiency](flow-efficiency.md)
 - [➡️ Next: 🤖 AI Assistance](ai-assistance.md)

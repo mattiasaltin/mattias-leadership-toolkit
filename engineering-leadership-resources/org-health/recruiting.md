@@ -39,7 +39,8 @@ criteria, and reducing bias in the hiring process.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)
-- [➡️ Next: 🇸🇪 Swedish Employment Law](swedish-employment-law.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
+- [➡️ Next: 🔑 Empowerment](empowerment.md)

@@ -1,85 +1,69 @@
 # 🎯 Coaching & Mentoring
 
-Coaching and mentoring are powerful tools for developing talent and fostering growth. This
-section explores techniques and models for guiding individuals and teams toward their full
-potential.
+Coaching and mentoring are core tools for developing talent. This page is the canonical home for
+shared coaching practice used by both engineering and product leaders.
 
 🎥 [Are You Their Coach, Mentor, Counselor or Consultant?](https://www.youtube.com/watch?v=e7V5JGRrQ6g)
 by Valorie Burton  
-This talk outlines the critical differences between coaching, mentoring, counselling, and
-consulting, helping leaders understand when and how to use each approach effectively to develop
-their teams.
-
-🎥 [What's the Difference Between Coaching and Mentoring?](https://www.youtube.com/watch?v=K88mKpKSvfU)
-by Aenslee Tanner  
-This video explains the nuanced differences between coaching, mentoring, counselling,
-consulting, and how leaders can apply both to build stronger relationships and foster
-professional growth.
+Clarifies when to coach, mentor, counsel, or consult — so leaders pick the right stance instead
+of defaulting to advice-giving.
 
 📄 [The Coaching Mindset](https://svpg.com/the-coaching-mindset/) by Chris Jones  
-An article exploring the mindset shifts leaders need to adopt to become effective coaches. It
-provides actionable insights for fostering growth and accountability.
+Mindset shifts required to coach for growth and accountability (also useful for product managers).
+
+📘 [Coaching for Performance: The Principles and Practice of Coaching and
+Leadership](https://www.goodreads.com/book/show/225159108-coaching-for-performance) by John
+Whitmore  
+The source text for the GROW model (Goal, Reality, Options, Way forward). Prefer this over
+multiple short video explainers. See also
+[Key Frameworks Referenced](../../README.md#key-frameworks-referenced).
 
 🎥 [Coaching with the GROW Model](https://www.youtube.com/watch?v=XbkXpdiyNs0) by ProjectManager  
-This video introduces the GROW model (Goal, Reality, Options, and Way forward), a structured
-framework for effective coaching conversations. For more information about the GROW model,
-see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
-
-🎥 [The GROW Coaching Model EXPLAINED!](https://www.youtube.com/watch?v=Fjw7vEUdIDE) by MTD Training  
-A practical breakdown of how to use the GROW coaching model to guide teams toward achieving
-their goals while fostering ownership and accountability.
-
-🎥 [The GROW Model in Action](https://www.youtube.com/watch?v=6f3X2PEsV-Q) by South West Coaching
-Ltd  
-A demonstration of the GROW coaching model applied to real-life scenarios, illustrating how
-leaders can use this framework to navigate coaching conversations.
+A short visual introduction to GROW if you want a primer before reading Whitmore.
 
 📘 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill
 Campbell](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach) by Eric Schmidt,
 Jonathan Rosenberg, and Alan Eagle  
-This book offers lessons from the legendary Bill Campbell, who coached some of Silicon Valley's
-top leaders. It provides practical advice on building trust, fostering innovation, and creating
-high-performing teams.
+Lessons from Bill Campbell on trust, teaming, and coaching senior leaders in tech.
+
+📘 [Radical Candor: Be a Kick-Ass Boss Without Losing Your
+Humanity](https://www.goodreads.com/book/show/29906992-radical-candor) by Kim Scott  
+A practical model for caring personally while challenging directly — essential for feedback-heavy
+coaching.
 
 🎥 [The Art of Listening](https://www.youtube.com/watch?v=qpnNsSyDw-g) by Simon Sinek  
-Sinek explores why listening is a fundamental skill for leaders and how it underpins effective coaching and mentoring.
+Why listening underpins coaching relationships.
 
-🎥 [Active Listening Skills](https://www.youtube.com/watch?v=7wUCyjiyXdg) by Alex Lyon  
-This video provides practical tips for honing active listening skills, an essential component
-of effective coaching and mentoring.
-
-🎥 [How to Really Listen to People](https://www.youtube.com/watch?v=oBoAATtxrw8) by Jordan Peterson  
-Peterson discusses how listening deeply and without bias can lead to stronger relationships and
-better outcomes in coaching.
-
-🎥 [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c) by LeeAnn Renninger  
-Renninger explains how to deliver constructive feedback effectively, making it a valuable
-resource for both coaches and mentors.
+🎥 [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c) by LeeAnn
+Renninger  
+Concrete techniques for delivering feedback people can use.
 
 📘 [The Coaching Habit: Say Less, Ask More, & Change the Way You Lead
 Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay
 Stanier  
-This book introduces seven essential coaching questions that help leaders have more meaningful
-conversations and unlock potential in their teams.
+Seven coaching questions that keep conversations short and ownership with the coachee.
 
 📘 [70:20:10 Framework Explained: Creating High-Performance
 Cultures](https://books.google.se/books/about/70_20_10_Framework_Explained.html?id=e7IumAEACAAJ&redir_esc=y)
 by Charles Jennings  
-The book explains the 70:20:10 learning model, highlighting how leaders can leverage coaching
-(20%) and on-the-job experiences (70%) to foster team growth.
+How leaders should balance on-the-job experience (70%), coaching/feedback (20%), and formal
+learning (10%).
 
 ## Related Topics
 
-- [🎓 Coaching](../../product-leadership-resources/coaching.md) - Product-specific coaching
-  context and EMPOWERED management accountabilities
-- [🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md) - Coaching
-  supports healthy team dynamics
+- [🎓 Coaching](../../product-leadership-resources/coaching.md) - Product-specific coaching and
+  EMPOWERED management accountabilities
+- [🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md) - Coaching supports
+  healthy team dynamics
 - [🧲 Recruiting](recruiting.md) - Hiring and coaching reinforce each other
-- [🔑 Empowerment](empowerment.md) - Coaching develops people who can own outcomes
+- [🔑 Empowerment](empowerment.md) - Coaching builds the competence empowerment needs
+- [💬 Conflict & Difficult Conversations](conflict-and-difficult-conversations.md) - Coaching often
+  includes hard conversations
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
-- [➡️ Next: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 🛡️ Psychological Safety](psychological-safety.md)
+- [➡️ Next: 💬 Conflict & Difficult Conversations](conflict-and-difficult-conversations.md)

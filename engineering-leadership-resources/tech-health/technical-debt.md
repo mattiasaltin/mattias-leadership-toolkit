@@ -17,7 +17,7 @@ by SEI
 A detailed exploration of technical debt, including its origins, impact, and management strategies.
 
 🎥 [Your Technical Debt is Coming Due](https://www.youtube.com/watch?v=jXpJVsv3Iec) by Adam Tornhill  
-Tornhill discusses how to identify and prioritize technical debt using data-driven approaches.
+Tornhill discusses how to identify and prioritise technical debt using data-driven approaches.
 
 ## Related Topics
 
@@ -28,7 +28,8 @@ Tornhill discusses how to identify and prioritize technical debt using data-driv
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [⚙️ Technical Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [⚙️ Technical Health](README.md)
 - [⬅️ Previous: 📊 KPIs](kpis.md)
 - [➡️ Next: ✅ Testing](testing.md)

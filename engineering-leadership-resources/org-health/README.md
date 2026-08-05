@@ -9,19 +9,24 @@ building, effective coaching and mentoring, and the ability to attract and retai
 
 ## 📑 Sections
 
+Browse order matches the Start Here path in the engineering README:
+
 - 📚 [General Leadership](general-leadership.md)
 - 🛡️ [Psychological Safety](psychological-safety.md)
-- ⭐ [Inspiring Your Team](inspiring-your-team.md)
-- 🔑 [Empowerment](empowerment.md)
-- 🤝 [Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
 - 🎯 [Coaching & Mentoring](coaching-and-mentoring.md)
-- 🌈 [DEI (Diversity, Equity, and Inclusion)](dei.md)
+- 💬 [Conflict & Difficult Conversations](conflict-and-difficult-conversations.md)
+- 🤝 [Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
 - 🧲 [Recruiting](recruiting.md)
+- 🔑 [Empowerment](empowerment.md)
+- ⭐ [Inspiring Your Team](inspiring-your-team.md)
+- 🌈 [DEI (Diversity, Equity, and Inclusion)](dei.md)
+- 📋 [Performance Management](performance-management.md)
 - 🇸🇪 [Swedish Employment Law](swedish-employment-law.md)
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
 - [⚙️ Technical Health](../tech-health/README.md)
-- 🚀 [Delivery & Execution](../delivery-execution/README.md)
-- 📦 [Other](../other/README.md)
+- [🚀 Delivery & Execution](../delivery-execution/README.md)
+- [📦 Other](../other/README.md)

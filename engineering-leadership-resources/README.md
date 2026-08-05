@@ -35,8 +35,8 @@ you:
 - 📘 Book  
 - 🎥 Video/Talk  
 - 📄 Article/Blog Post  
-- 🎧 Podcast  
-- 📊 Research Paper/Whitepaper
+- 🎧 Podcast (used sparingly)  
+- 📊 Research Paper/Whitepaper (used where primary research exists)
 
 I hope you find this collection helpful and that it sparks new ideas or perspectives in your
 own leadership journey. If you have any favourites I've missed or other recommendations, I'd
@@ -59,6 +59,7 @@ If you're new to engineering management, here's a recommended path through these
    - [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md) - Team formation and dynamics
    - [Recruiting](org-health/recruiting.md) - Hiring great engineers
    - [Empowerment](org-health/empowerment.md) - Empowering your team
+   - [Inspiring Your Team](org-health/inspiring-your-team.md) - Purpose and motivation
 
 3. **Technical Leadership:**
    - [Technical Excellence](delivery-execution/technical-excellence-in-delivery.md) - Practices for quality delivery
@@ -66,15 +67,15 @@ If you're new to engineering management, here's a recommended path through these
    - [Architecture](tech-health/architecture.md) - Technical decision-making
 
 4. **Delivery & Execution:**
-   - [Flow Efficiency](delivery-execution/flow-efficiency.md) - Optimizing work flow
+   - [Flow Efficiency](delivery-execution/flow-efficiency.md) - Optimising work flow
    - [Metrics and Measurement](delivery-execution/metrics-and-measurement.md) - Understanding performance
    - [Agile Practices](delivery-execution/agile-practices.md) - Delivery methodologies
 
-**How to Use These Resources:**
+**How to use these resources:**
 
-- Read sequentially for comprehensive learning, or
-- Jump to specific topics as you face challenges
-- Revisit resources as you gain experience - they often reveal new insights
+- Follow Start Here (and the matching ⬅️/➡️ browse order in Organisational Health) for a learning path
+- Jump to specific topics when facing a particular challenge
+- Revisit resources as you gain experience — they often reveal new insights
 
 ## 📚 Core Areas
 
@@ -89,12 +90,14 @@ If you're new to engineering management, here's a recommended path through these
 
 - 📚 [General Leadership](org-health/general-leadership.md)
 - 🛡️ [Psychological Safety](org-health/psychological-safety.md)
-- ⭐ [Inspiring Your Team](org-health/inspiring-your-team.md)
-- 🔑 [Empowerment](org-health/empowerment.md)
-- 🤝 [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md)
 - 🎯 [Coaching & Mentoring](org-health/coaching-and-mentoring.md)
-- 🌈 [DEI](org-health/dei.md)
+- 💬 [Conflict & Difficult Conversations](org-health/conflict-and-difficult-conversations.md)
+- 🤝 [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md)
 - 🧲 [Recruiting](org-health/recruiting.md)
+- 🔑 [Empowerment](org-health/empowerment.md)
+- ⭐ [Inspiring Your Team](org-health/inspiring-your-team.md)
+- 🌈 [DEI](org-health/dei.md)
+- 📋 [Performance Management](org-health/performance-management.md)
 - 🇸🇪 [Swedish Employment Law](org-health/swedish-employment-law.md)
 
 ### [⚙️ Technical Health](tech-health/)
@@ -118,6 +121,9 @@ If you're new to engineering management, here's a recommended path through these
 - 🤸 [Agile Practices](delivery-execution/agile-practices.md)
 
 ### [📦 Other](other/)
+
+- 📄 [How Aspiring Change Agents Can Thrive](other/README.md)
+- 📄 [EU Data Act / DSA overviews](other/README.md) (author notes)
 
 ## 🤝 Contributing
 

@@ -1,64 +1,51 @@
 # 📊 KPIs
 
-Key Performance Indicators (KPIs) are essential for measuring the success of engineering
-efforts. This section provides insights into selecting and using KPIs to drive performance and
-align with business goals.
+Key Performance Indicators help engineering leaders see whether technical work creates the
+outcomes the business cares about. The hard part is not collecting numbers — it is selecting
+metrics that drive the right behaviours, and resisting proxies that invite gaming.
 
-Effective KPIs help engineering leaders understand team performance, identify improvement
-opportunities, and align engineering efforts with business objectives. The key is selecting
-metrics that drive the right behaviors and avoiding metrics that incentivize counterproductive
-actions.
+This page focuses on KPI selection, developer-productivity framing (SPACE), and metric pitfalls.
+For Accelerate / DORA delivery metrics, use
+[📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) as the canonical page.
 
 ## Resources
 
-📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by ThoughtWorks  
-An overview of the four key metrics from Accelerate: deployment frequency, lead time for
-changes, mean time to recover, and change failure rate. For more information about DORA metrics,
-see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
-
 📄 [Metrics That Matter](https://martinfowler.com/articles/useOfMetrics.html) by Martin Fowler  
-Fowler discusses which metrics are useful for improving software development and which ones can be harmful.
-Essential reading for understanding how to select metrics that drive improvement rather than
-gaming.
+Fowler explains which metrics help improve software development and which ones harm it — essential
+for choosing KPIs that drive learning rather than theatre.
 
-📄 [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
-by Google Cloud  
-Google's guide to implementing and using the four key metrics from Accelerate to measure DevOps performance.
+📄 [KPI Pitfalls: Metrics That Backfire](https://martinfowler.com/articles/useOfMetrics.html#Pitfalls)
+by Martin Fowler  
+A focused look at how metrics incentivise counterproductive behaviours, and how to spot traps
+before they become organised dysfunction.
 
-📘 [Accelerate: The Science of Lean Software and DevOps](https://www.goodreads.com/book/show/35747076-accelerate)
-by Nicole Forsgren, Jez Humble, and Gene Kim  
-The research behind the four key metrics, showing how these metrics correlate with organizational
-performance and providing guidance on improving them.
+📊 [The SPACE of Developer
+Productivity](https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/)
+by Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Thomas Zimmermann, Brian Houck, and
+Jenna Butler  
+A research framework (Satisfaction, Performance, Activity, Communication/Collaboration,
+Efficiency) for measuring developer productivity without collapsing it to a single vanity metric.
 
-📄 [KPI Selection: Choosing Metrics That Matter](https://www.thoughtworks.com/insights/blog/kpi-selection)
-by ThoughtWorks  
-A guide to selecting KPIs that align with business goals and drive the right behaviors in
-engineering teams.
+📄 [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)  
+The classic warning that when a measure becomes a target, it ceases to be a good measure — the
+mental model behind most KPI gaming failures.
 
-📄 [KPI Pitfalls: Metrics That Backfire](https://martinfowler.com/articles/useOfMetrics.html#Pitfalls) by Martin Fowler
-An exploration of common KPI pitfalls, including how metrics can incentivize counterproductive
-behaviors and how to avoid these traps.
-
-🎥 [State of the Art of DORA Metrics & AI Integration • Nathen Harvey & Charles Humble • GOTO
-2025](https://www.youtube.com/watch?v=_IKB4h9e4NA) by Nathen Harvey and Charles Humble  
-Harvey (DORA) discusses how software delivery metrics have evolved, what they do and do not tell
-you, and how to use them thoughtfully as AI changes engineering work.
-
-📄 [KPI Dashboard Design: Visualizing Engineering Performance](https://www.thoughtworks.com/insights/blog/kpi-dashboard-design)
-by ThoughtWorks  
-Guidance on designing KPI dashboards that provide actionable insights and help teams understand
-their performance.
+📄 [DORA Research](https://dora.dev/research/) by DORA  
+Pointer to DORA's research programme on software delivery performance. For the four key metrics
+and how to apply them, see
+[📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md).
 
 ## Related Topics
 
-- [📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) - KPIs are
-  part of broader metrics and measurement
+- [📈 Metrics and Measurement](../delivery-execution/metrics-and-measurement.md) - Canonical home
+  for Accelerate / DORA delivery metrics
 - [💫 Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
-  KPIs help measure technical excellence
+  KPIs should reinforce technical excellence, not undermine it
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [⚙️ Technical Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [⚙️ Technical Health](README.md)
 - [⬅️ Previous: 🏗️ Architecture](architecture.md)
 - [➡️ Next: 💸 Technical Debt](technical-debt.md)

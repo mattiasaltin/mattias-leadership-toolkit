@@ -1,6 +1,6 @@
 # ⚙️ Technical Health
 
-Technical health is fundamental to sustainable engineering organizations. This section focuses
+Technical health is fundamental to sustainable engineering organisations. This section focuses
 on maintaining and improving the technical foundation of your products and systems, ensuring
 they remain maintainable, scalable, and secure over time.
 
@@ -15,7 +15,8 @@ they remain maintainable, scalable, and secure over time.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
 - [🧠 Organisational Health](../org-health/README.md)
 - 🚀 [Delivery & Execution](../delivery-execution/README.md)
 - 📦 [Other](../other/README.md)

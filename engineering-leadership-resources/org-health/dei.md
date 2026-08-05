@@ -20,7 +20,7 @@ Tulshyan and Jodi-Ann Burey
 This article critiques the concept of "imposter syndrome" and offers a broader perspective on
 how to create inclusive cultures that support women and minorities.
 
-📄[Bias Interrupters: Tools for
+📄 [Bias Interrupters: Tools for
 Tech](https://worklifelaw.org/wp-content/uploads/2022/04/Pinning-Down-the-Jellyfish-Tools-for-Tech.pdf)  
 Empower people involved in the evaluation process to spot and interrupt bias by using the
 Identifying Bias in Performance Evaluations Worksheet.
@@ -61,7 +61,8 @@ fostering belonging, and driving meaningful change in teams and organisations.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🎯 Coaching & Mentoring](coaching-and-mentoring.md)
-- [➡️ Next: 🧲 Recruiting](recruiting.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: ⭐ Inspiring Your Team](inspiring-your-team.md)
+- [➡️ Next: 📋 Performance Management](performance-management.md)

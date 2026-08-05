@@ -80,7 +80,8 @@ actions aligned with organisational goals.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: 🛡️ Psychological Safety](psychological-safety.md)
-- [➡️ Next: 🔑 Empowerment](empowerment.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 🔑 Empowerment](empowerment.md)
+- [➡️ Next: 🌈 DEI (Diversity, Equity, and Inclusion)](dei.md)

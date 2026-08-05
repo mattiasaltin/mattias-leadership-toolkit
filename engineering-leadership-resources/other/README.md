@@ -24,7 +24,8 @@ its key provisions and implications.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
 - [🧠 Organisational Health](../org-health/README.md)
 - [⚙️ Technical Health](../tech-health/README.md)
 - 🚀 [Delivery & Execution](../delivery-execution/README.md)

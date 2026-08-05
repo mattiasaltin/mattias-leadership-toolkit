@@ -4,43 +4,33 @@ Psychological safety is the cornerstone of high-performing teams. This section o
 and strategies for creating environments where individuals feel safe to voice ideas, take risks,
 and learn from failure.
 
-📄 [How to Silence Your Change Agents in 3 Simple
-Steps](https://mattiasaltin.substack.com/p/how-to-silence-your-change-agents?r=dy49w) by
-Mattias Altin  
-An article discussing the unintentional ways organisations suppress new ideas and perspectives,
-leading to a loss of innovation.
-
-📘 [Leaders Eat Last: Why Some Teams Pull Together and Others
-Don't](https://www.goodreads.com/book/show/16144853-leaders-eat-last) by Simon Sinek  
-This book delves into why creating trust and safety within teams is crucial for long-term
-success. Sinek illustrates the importance of a "circle of safety," fostering collaboration and
-resilience in challenging environments.
-
-📘 [The Power of Vulnerability: Teachings of Authenticity, Connection, and
-Courage](https://www.goodreads.com/book/show/23500254-the-power-of-vulnerability) by Brené Brown  
-This companion book to her talks dives deeper into how leaders can use vulnerability to
-strengthen relationships and build more cohesive teams.
+📘 [The Fearless Organization: Creating Psychological Safety in the Workplace for Learning,
+Innovation, and Growth](https://www.goodreads.com/book/show/41817482-the-fearless-organization)
+by Amy C. Edmondson  
+The seminal book on psychological safety: what it is, why it drives learning and performance,
+and how leaders build it deliberately.
 
 🎥 [Creating Psychological Safety at Work in a Knowledge
 Economy](https://youtu.be/KUo1QwVcCv0) by Amy Edmondson  
-Amy Edmondson explains how psychological safety is a critical driver for innovation and
-performance in modern organisations. She provides actionable steps leaders can take to create
-environments where people feel free to speak up and take risks.
+Edmondson summarises why psychological safety drives innovation and what leaders can do to make
+speaking up normal.
+
+📄 [How to Silence Your Change Agents in 3 Simple
+Steps](https://mattiasaltin.substack.com/p/how-to-silence-your-change-agents?r=dy49w) by
+Mattias Altin  
+Author note: common ways organisations unintentionally suppress challenge and new ideas.
+
+📘 [Leaders Eat Last: Why Some Teams Pull Together and Others
+Don't](https://www.goodreads.com/book/show/16144853-leaders-eat-last) by Simon Sinek  
+Argues for a "circle of safety" — useful complementary framing on trust, not a substitute for
+Edmondson's research.
 
 🎥 [Why Good Leaders Make You Feel Safe](https://youtu.be/lmyZMtPVodo) by Simon Sinek  
-In this talk, Sinek highlights the importance of fostering environments where team members feel
-secure, which allows them to perform at their best and focus on collective goals.
-
-🎥 [Trusting Teams](https://youtu.be/W5qQJhe7sLE) by Simon Sinek  
-Explores how leaders can build trust among team members, a cornerstone of effective collaboration and high performance.
+A short talk on how leader behaviour creates (or destroys) a sense of safety.
 
 🎥 [The Power of Vulnerability](https://youtu.be/iCvmsMzlF7o) by Brené Brown  
-Brown discusses the link between vulnerability and authentic leadership, highlighting how
-embracing uncertainty and imperfection fosters deeper trust and connections within teams.
-
-🎥 [Understanding Empathy](https://youtu.be/pi86Nr9Mdms) by Simon Sinek  
-Sinek explores the critical role of empathy in leadership, providing practical advice on
-understanding and addressing the needs of team members.
+How vulnerability and authenticity support trust — adjacent to, not identical with, psychological
+safety.
 
 🎥 [How Psychological Safety Has Been the Bedrock of Key Innovation Programs at
 Google](https://www.youtube.com/watch?v=-zrLI-Osg88)  
@@ -71,7 +61,8 @@ limitations, and foster environments where their teams can thrive without microm
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
 - [⬅️ Previous: 📚 General Leadership](general-leadership.md)
-- [➡️ Next: ⭐ Inspiring Your Team](inspiring-your-team.md)
+- [➡️ Next: 🎯 Coaching & Mentoring](coaching-and-mentoring.md)

@@ -55,7 +55,8 @@ still shipping, rather than batching discovery before delivery.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🚀 Delivery & Execution](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🚀 Delivery & Execution](README.md)
 - [⬅️ Previous: 🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md)
 - [➡️ Next: 🌊 Flow Efficiency](flow-efficiency.md)

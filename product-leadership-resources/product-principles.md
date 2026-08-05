@@ -4,7 +4,7 @@
 
 Product principles are the fundamental beliefs and guidelines that shape your product decisions.
 They define not just what you build, but how you build it and why. These principles serve as a
-decision-making framework, helping teams stay aligned with the organization's values and vision
+decision-making framework, helping teams stay aligned with the organisation's values and vision
 while making day-to-day product decisions.
 
 Well-defined product principles help teams make consistent decisions without constant oversight,
@@ -15,20 +15,20 @@ enabling autonomy while maintaining alignment with strategic goals.
 📘 [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
 by Marty Cagan  
 Cagan explains how product principles guide product teams in making decisions that align with
-customer needs and business objectives, with examples from successful product organizations.
+customer needs and business objectives, with examples from successful product organisations.
 
-📄 [How to Create Product Principles](https://svpg.com/product-principles/) by Marty Cagan  
-A practical guide to developing product principles that guide decision-making and help teams
-stay aligned with product vision and strategy.
+📄 [Principles](https://www.svpg.com/principles/) by Marty Cagan  
+Why principles matter more than techniques in modern product work — a durable framing for how
+product principles should shape discovery, delivery, and team practice.
 
-📄 [Amazon's Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles) by Amazon  
+📄 [Amazon's Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles)
+by Amazon  
 Amazon's leadership principles serve as a powerful example of how principles can guide
-decision-making at scale, influencing both product and organizational culture.
+decision-making at scale, influencing both product and organisational culture.
 
-📄 [Google's Product Principles](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/google-product-principles/)
-by Google  
-An example of how a technology company articulates its product principles to guide product
-development and decision-making.
+📄 [GOV.UK Design Principles](https://www.gov.uk/guidance/government-design-principles) by GOV.UK  
+A clear, public set of design principles that show how concise statements can guide trade-offs
+across teams and services.
 
 🎥 [Webinar: 9 Product Building Principles by Lyft Product Manager, Aswath
 Krishnan](https://www.youtube.com/watch?v=USbQ07c1aYE) by Aswath Krishnan  
@@ -43,10 +43,10 @@ influence decision-making.
 ## Related Topics
 
 - [🗺️ Product Strategy](product-strategy.md) - Principles support strategic decision-making
-- [🌟 Product Vision](product-vision.md) - Principles help realize the vision
+- [🌟 Product Vision](product-vision.md) - Principles help realise the vision
 
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
-- [⬅️ Previous: 🗺️ Product Strategy](product-strategy.md)
+- [⬅️ Previous: 🔍 Product Discovery](product-discovery.md)
 - [➡️ Next: 🔢 Product Priorities](product-priorities.md)

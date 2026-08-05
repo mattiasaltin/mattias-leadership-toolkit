@@ -67,7 +67,8 @@ while retaining their individual strengths.
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [🧠 Organisational Health](../README.md)
-- [⬅️ Previous: ⭐ Inspiring Your Team](inspiring-your-team.md)
-- [➡️ Next: 🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [🧠 Organisational Health](README.md)
+- [⬅️ Previous: 🧲 Recruiting](recruiting.md)
+- [➡️ Next: ⭐ Inspiring Your Team](inspiring-your-team.md)

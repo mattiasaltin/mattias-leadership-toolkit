@@ -2,40 +2,50 @@
 
 > "Product teams are only as good as their product manager." — Ben Horowitz
 
-Coaching is about helping staff excel in their roles. The lack of competency in product
-management is often not the individual's fault, but rather their manager's responsibility. As
-Ben Horowitz noted, the director of Product Management is perhaps the most critical
-non-executive position in a tech product company, responsible for developing competent product
-managers who can effectively lead their teams.
+Coaching is a core EMPOWERED management accountability: product leaders develop PMs, designers,
+and technologists so empowered teams can succeed. Competency gaps are often a management
+failure, not an individual one.
 
-## Foundational Coaching Skills
+## Foundational coaching skills
 
-Shared coaching models (GROW, listening, feedback, and general coaching practice) live in the
-engineering toolkit so both domains stay aligned:
+Shared practice (GROW, listening, Radical Candor, Coaching Habit) lives here so both domains
+stay aligned:
 
 - [🎯 Coaching & Mentoring](../engineering-leadership-resources/org-health/coaching-and-mentoring.md)
 
-## Product-Specific Coaching
+## Product-specific coaching
 
 📄 [The Coaching Mindset](https://svpg.com/the-coaching-mindset/) by Chris Jones  
-An article exploring the mindset shifts product leaders need to adopt to become effective
-coaches. It provides actionable insights for fostering growth and accountability in product
-roles.
+Mindset shifts product leaders need to coach for discovery quality, stakeholder management, and
+ownership — not just delivery status.
 
 📘 [EMPOWERED: Ordinary People, Extraordinary
 Products](https://svpg.com/empowered-ordinary-people-extraordinary-products/) by Marty Cagan  
-EMPOWERED frames coaching as a core management accountability for product leaders: developing
-product managers, designers, and technologists so empowered teams can succeed. For more on the
-framework, see the [Key Frameworks Referenced](../README.md#key-frameworks-referenced) section.
+The spine book for product leadership coaching: what great PMs need to learn, and how managers
+develop them. See
+[Key Frameworks Referenced](../README.md#key-frameworks-referenced).
+
+📄 [Product Management Theater](https://svpg.com/product-management-theater/) by Marty Cagan  
+Helps coaches spot fake PM work (roadmap theatre, stakeholder note-taking) versus real product
+management — useful diagnosis before coaching plans.
+
+🎥 [Build better products with continuous product discovery | Teresa
+Torres](https://www.youtube.com/watch?v=9RFaz9ZBXpk) by Teresa Torres  
+Discovery skill is a primary coaching target for PM development; use with
+[🔍 Product Discovery](product-discovery.md).
+
+📘 [Continuous Discovery Habits](https://www.goodreads.com/book/show/58033215-continuous-discovery-habits)
+by Teresa Torres  
+A concrete curriculum for coaching PMs on weekly interviews, opportunity solution trees, and
+assumption tests.
 
 ## Related Topics
 
 - [🎯 Coaching & Mentoring](../engineering-leadership-resources/org-health/coaching-and-mentoring.md) -
-  Shared coaching foundations used across engineering and product
-- [🧠 Staffing](staffing.md) - Hiring and developing product talent
-- [🎯 Objectives](objectives.md) - Coaching conversations often connect to goals and outcomes
-- [🧲 Recruiting](../engineering-leadership-resources/org-health/recruiting.md) - Hiring and coaching
-  reinforce each other
+  Shared coaching foundations
+- [🔍 Product Discovery](product-discovery.md) - Core skill area for PM coaching
+- [🧠 Staffing](staffing.md) - Hiring and coaching reinforce each other
+- [🎯 Objectives](objectives.md) - Coaching conversations often connect to outcomes
 
 ## 🧭 Navigation
 

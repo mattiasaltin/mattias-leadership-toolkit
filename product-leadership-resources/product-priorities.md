@@ -1,15 +1,15 @@
 # 🔢 Product Priorities
 
-> "The product leadership's job is to define the organization's objectives."
+> "The product leadership's job is to define the organisation's objectives."
 
 Product priorities are about focusing teams on outcomes rather than output. While there are
 many techniques for achieving this, the OKR (Objectives and Key Results) system has become the
 most popular. However, it's crucial to avoid the common pitfall of having multiple teams moving
-in different directions. True product leadership means defining clear organizational objectives
+in different directions. True product leadership means defining clear organisational objectives
 that align all teams toward common goals. For more information about OKRs,
 see the [Key Frameworks Referenced](../README.md#key-frameworks-referenced) section.
 
-Effective prioritization requires balancing customer value, business impact, and strategic
+Effective prioritisation requires balancing customer value, business impact, and strategic
 alignment. Multiple frameworks exist to help product leaders make these difficult choices
 systematically.
 
@@ -22,22 +22,22 @@ reading for understanding how to set and achieve ambitious objectives.
 
 📘 [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/book/show/42611408-escaping-the-build-trap)
 by Melissa Perri  
-Perri explains how to prioritize based on outcomes rather than outputs, helping product
+Perri explains how to prioritise based on outcomes rather than outputs, helping product
 leaders escape the trap of building features without clear value.
 
 📄 [The RICE Framework for Prioritization](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 by Intercom  
-A practical framework for prioritizing product features based on Reach, Impact, Confidence, and
-Effort. Helps teams make data-driven prioritization decisions.
+A practical framework for prioritising product features based on Reach, Impact, Confidence, and
+Effort. Helps teams make data-driven prioritisation decisions.
 
 📄 [How to Prioritize Your Product Roadmap](https://svpg.com/how-to-prioritize-your-product-roadmap/) by Marty Cagan  
-Cagan explains how to prioritize a product roadmap based on customer value and business impact,
-avoiding common pitfalls in prioritization.
+Cagan explains how to prioritise a product roadmap based on customer value and business impact,
+avoiding common pitfalls in prioritisation.
 
 📄 [The Kano Model: Understanding Customer Satisfaction](https://www.productplan.com/glossary/kano-model/)
 by ProductPlan
 A framework for understanding different types of customer needs and how they affect satisfaction,
-helping prioritize features that create delight.
+helping prioritise features that create delight.
 
 🎥 [Annual Planning and the Art of Roadmapping with Sachin
 Rekhi](https://www.youtube.com/watch?v=_HsnipD3FDA) by Sachin Rekhi  

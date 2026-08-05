@@ -29,7 +29,8 @@ AWS's comprehensive guide to building secure, high-performing, resilient, and ef
 
 ## 🧭 Navigation
 
-- [🏠 Home](../../README.md)
-- [⚙️ Technical Health](../README.md)
+- [🏠 Home](../README.md)
+- [🧰 Toolkit](../../README.md)
+- [⚙️ Technical Health](README.md)
 - [⬅️ Previous: ✅ Testing](testing.md)
 - [➡️ Next: 🔒 Security](security.md)

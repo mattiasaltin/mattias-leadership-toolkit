@@ -72,4 +72,4 @@ A comprehensive talk on product strategy frameworks and how to apply them in pra
 
 - [🏠 Home](README.md)
 - [⬅️ Previous: 🌟 Product Vision](product-vision.md)
-- [➡️ Next: 🧭 Product Principles](product-principles.md)
+- [➡️ Next: 🔍 Product Discovery](product-discovery.md)
