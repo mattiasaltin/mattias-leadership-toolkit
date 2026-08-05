@@ -53,9 +53,11 @@ by Martin Fowler
 An exploration of testing metrics that help teams understand test effectiveness and identify
 areas for improvement.
 
-🎥 [The Testing Mindset: Building a Culture of Quality](https://www.youtube.com/watch?v=example) by GOTO Conferences  
-A talk on how to build a testing culture where quality is valued and testing is seen as an
-integral part of development.
+🎥 [Are Your Tests Slowing You Down? • Trisha Gee • GOTO
+2025](https://www.youtube.com/watch?v=e0gwyyO3Gd8) by Trisha Gee  
+Gee explores how automated testing can become a productivity bottleneck when writing,
+troubleshooting, or running suites, and shares practical ways to keep quality without killing
+flow.
 
 ## Related Topics
 

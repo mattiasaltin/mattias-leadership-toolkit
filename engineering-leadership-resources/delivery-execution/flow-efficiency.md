@@ -35,8 +35,10 @@ by Lean Enterprise Institute
 A guide to value stream mapping, a technique for visualizing and improving the flow of work
 through development systems.
 
-🎥 [Flow Efficiency: The Secret to Faster Delivery](https://www.youtube.com/watch?v=example) by Agile Uprising  
-A talk on how flow efficiency metrics help teams identify bottlenecks and improve delivery speed.
+🎧 [Actionable Agile Metrics with Daniel
+Vacanti](https://www.youtube.com/watch?v=fXJvGnKaEKI) by Agile Uprising  
+Vacanti (Kanban / Actionable Agile) discusses flow metrics, Little’s Law, and which measures
+actually improve predictability—and which ones do not.
 
 ## Related Topics
 

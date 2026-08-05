@@ -28,9 +28,10 @@ results and align teams.
 Cagan explains how to set objectives that focus on outcomes rather than outputs, helping teams
 deliver real value.
 
-🎥 [Setting Effective Product Objectives](https://www.youtube.com/watch?v=example) by Product School  
-A comprehensive talk on how to set objectives that drive results and align teams around
-shared goals.
+🎥 [Webinar: Turning Visions Into Objectives & OKRs by DraftKings
+PM](https://www.youtube.com/watch?v=nX2iFedkQaE) by Product School  
+A Product School webinar on translating product vision into outcome-focused objectives and OKRs
+that teams can execute against.
 
 ## Related Topics
 

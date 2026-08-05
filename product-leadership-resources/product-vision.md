@@ -34,9 +34,10 @@ revenue targets or listing desired features.
 A practical guide to developing a product vision that inspires teams and provides clear
 direction for product development.
 
-🎥 [Creating a Compelling Product Vision](https://www.youtube.com/watch?v=example) by Product School  
-A comprehensive talk on how to create a product vision that inspires teams and guides
-decision-making.
+🎥 [Tips for Building a Compelling Product Vision by Amazon Sr PM, Will
+Najar](https://www.youtube.com/watch?v=fW-zCm1Ig3Y) by Will Najar  
+A Product School talk on crafting a product vision that aligns stakeholders and gives teams a
+durable north star for decisions.
 
 ## Related Topics
 

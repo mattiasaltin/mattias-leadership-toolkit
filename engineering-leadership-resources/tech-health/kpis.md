@@ -39,9 +39,10 @@ engineering teams.
 An exploration of common KPI pitfalls, including how metrics can incentivize counterproductive
 behaviors and how to avoid these traps.
 
-🎥 [Engineering Metrics That Matter](https://www.youtube.com/watch?v=example) by GOTO Conferences  
-A talk on selecting and using engineering metrics effectively, avoiding common pitfalls and
-focusing on metrics that drive improvement.
+🎥 [State of the Art of DORA Metrics & AI Integration • Nathen Harvey & Charles Humble • GOTO
+2025](https://www.youtube.com/watch?v=_IKB4h9e4NA) by Nathen Harvey and Charles Humble  
+Harvey (DORA) discusses how software delivery metrics have evolved, what they do and do not tell
+you, and how to use them thoughtfully as AI changes engineering work.
 
 📄 [KPI Dashboard Design: Visualizing Engineering Performance](https://www.thoughtworks.com/insights/blog/kpi-dashboard-design)
 by ThoughtWorks  

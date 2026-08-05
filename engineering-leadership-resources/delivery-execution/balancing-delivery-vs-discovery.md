@@ -29,16 +29,20 @@ continuously learn about customers while delivering value.
 An explanation of the dual-track agile approach, where discovery and delivery teams work in
 parallel to balance learning with execution.
 
-🎥 [Balancing Discovery and Delivery in Product Development](https://www.youtube.com/watch?v=example) by Product School
-A talk on how to structure teams and processes to balance discovery and delivery effectively.
+🎥 [Thinking more product: Moving from Scrum to dual-track Agile - Suzanna Haworth • Agile on the
+Beach](https://www.youtube.com/watch?v=hnUkccjFo9Q) by Suzanna Haworth  
+Haworth covers how dual-track agile helps teams keep discovery and delivery running together
+instead of treating research as a separate project phase.
 
 📄 [Prototyping: Fast Discovery Through Rapid Iteration](https://www.interaction-design.org/literature/topics/prototyping)
-by Interaction Design Foundation
+by Interaction Design Foundation  
 A guide to prototyping as a discovery technique, enabling teams to learn quickly through
 low-fidelity experiments.
 
-🎥 [The Discovery Process: Learning Before Building](https://www.youtube.com/watch?v=example) by Reforge  
-A comprehensive talk on discovery techniques and how to integrate them into product development.
+🎥 [Build better products with continuous product discovery | Teresa
+Torres](https://www.youtube.com/watch?v=9RFaz9ZBXpk) by Teresa Torres  
+Torres explains continuous discovery habits—how product trios learn weekly from customers while
+still shipping, rather than batching discovery before delivery.
 
 ## Related Topics
 

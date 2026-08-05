@@ -29,9 +29,11 @@ maintaining functionality. Essential for maintaining technical excellence over t
 🎥 [The Art of Technical Leadership](https://www.youtube.com/watch?v=F2xV6GgJm0k) by Pat Kua  
 Kua discusses the role of technical leaders in fostering excellence and driving successful delivery outcomes.
 
-🎥 [Technical Excellence: Practices That Matter](https://www.youtube.com/watch?v=example) by GOTO Conferences  
-A talk on the technical practices that enable excellence, from TDD to refactoring to continuous
-integration.
+🎥 [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO
+2021](https://www.youtube.com/watch?v=eoaDr5PpT2c) by Dave Farley  
+Farley explains how deployment pipelines and engineering discipline create faster feedback,
+higher quality, and sustainable delivery speed—showing why excellence and pace reinforce each
+other.
 
 ## Related Topics
 

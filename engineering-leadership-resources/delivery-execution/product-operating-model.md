@@ -41,9 +41,10 @@ by ThoughtWorks
 An exploration of different organizational models for product delivery and how to choose the
 right model for your context.
 
-🎥 [Building Effective Product Operating Models](https://www.youtube.com/watch?v=example) by Product School  
-A talk on how to design and implement product operating models that enable effective
-collaboration and delivery.
+🎥 [Marty Cagan - Transformed: Moving to the Product Operating Model at just product
+2023](https://www.youtube.com/watch?v=Zvr-F44Fzkw) by Marty Cagan  
+Cagan defines the product operating model and what it takes to move from feature/delivery teams
+to empowered product teams that solve customer and business problems.
 
 📄 [Team Structure and Product Delivery](https://www.productplan.com/glossary/product-operating-model/) by ProductPlan  
 An explanation of how team structure impacts product delivery and how to organize teams for

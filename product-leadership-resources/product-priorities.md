@@ -39,8 +39,10 @@ by ProductPlan
 A framework for understanding different types of customer needs and how they affect satisfaction,
 helping prioritize features that create delight.
 
-🎥 [How to Prioritize Your Product Roadmap](https://www.youtube.com/watch?v=example) by Reforge  
-A comprehensive guide to prioritization frameworks and how to apply them in practice.
+🎥 [Annual Planning and the Art of Roadmapping with Sachin
+Rekhi](https://www.youtube.com/watch?v=_HsnipD3FDA) by Sachin Rekhi  
+A Reforge talk introducing 4D roadmapping—prioritising through strategy, vision, customer, and
+business lenses instead of relying only on scoring frameworks like RICE.
 
 ## Related Topics
 

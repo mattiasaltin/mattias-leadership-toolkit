@@ -27,13 +27,15 @@ internally and externally.
 Cagan explains the importance of product evangelism and provides practical techniques for
 sharing your vision effectively.
 
-🎥 [The Power of Storytelling in Product Leadership](https://www.youtube.com/watch?v=example) by Product School  
-A talk on how effective storytelling helps product leaders evangelize their vision and build
-alignment across the organization.
+🎥 [Webinar: Mastering the Art of Storytelling as a PM by Uber Product Leader, Munawwar
+Tayob](https://www.youtube.com/watch?v=mwWq6KfsjXU) by Munawwar Tayob  
+A Product School webinar on using storytelling to align stakeholders, sell a vision, and make
+product narratives land with non-product audiences.
 
-🎥 [Building Missionary Teams: The Power of Product Evangelism](https://www.youtube.com/watch?v=example) by Reforge  
-A comprehensive talk on how product evangelism transforms teams from mercenaries to
-missionaries, creating alignment and passion.
+🎥 [Mercenaries and Missionaries - John Doerr,
+KPCB](https://www.youtube.com/watch?v=ui8yLqCxChM) by John Doerr  
+Doerr contrasts missionary and mercenary motivation—useful framing for product leaders building
+teams that care about the mission, not only the metrics.
 
 ## Related Topics
 
