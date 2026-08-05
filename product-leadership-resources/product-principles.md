@@ -2,48 +2,48 @@
 
 > "Product principles describe the nature of the kind of product we're trying to create."
 
-Product principles are the fundamental beliefs and guidelines that shape your product decisions.
-They define not just what you build, but how you build it and why. These principles serve as a
-decision-making framework, helping teams stay aligned with the organisation's values and vision
-while making day-to-day product decisions.
+Product principles are the beliefs that shape day-to-day product decisions. They define not just
+what you build, but how you build it — enabling autonomy without constant oversight.
 
-Well-defined product principles help teams make consistent decisions without constant oversight,
-enabling autonomy while maintaining alignment with strategic goals.
+Prefer a short, memorable set of principles that teams actually cite in debates. Long posters
+nobody uses are theatre.
 
 ## Resources
 
-📘 [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
-by Marty Cagan  
-Cagan explains how product principles guide product teams in making decisions that align with
-customer needs and business objectives, with examples from successful product organisations.
+📘 [Inspired: How to Create Tech Products Customers
+Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
+How product principles guide teams toward customer and business outcomes, with examples from
+strong product organisations.
 
-📄 [Principles](https://www.svpg.com/principles/) by Marty Cagan  
-Why principles matter more than techniques in modern product work — a durable framing for how
-product principles should shape discovery, delivery, and team practice.
+📄 [Principles](https://svpg.com/principles/) by Marty Cagan  
+Why principles matter more than techniques in modern product work — durable framing for discovery,
+delivery, and team practice.
+
+📄 [How to Write Product Principles That Guide Your
+Team](https://www.intercom.com/blog/product-principles/) by Intercom  
+Practical advice on writing principles that are memorable, actionable, and actually influence
+decisions.
 
 📄 [Amazon's Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles)
 by Amazon  
-Amazon's leadership principles serve as a powerful example of how principles can guide
-decision-making at scale, influencing both product and organisational culture.
+A well-known example of principles used at organisational scale (broader than product, still a
+strong reference for how principles operate in hiring and decisions).
 
 📄 [GOV.UK Design Principles](https://www.gov.uk/guidance/government-design-principles) by GOV.UK  
-A clear, public set of design principles that show how concise statements can guide trade-offs
-across teams and services.
+A clear, public set of design principles showing how concise statements guide trade-offs across
+teams and services.
 
-🎥 [Webinar: 9 Product Building Principles by Lyft Product Manager, Aswath
-Krishnan](https://www.youtube.com/watch?v=USbQ07c1aYE) by Aswath Krishnan  
-A Product School webinar on concrete product-building principles that help teams make consistent
-trade-offs under pressure.
-
-📄 [How to Write Product Principles That Guide Your Team](https://www.intercom.com/blog/product-principles/)
-by Intercom  
-Practical advice on writing product principles that are memorable, actionable, and actually
-influence decision-making.
+📘 [EMPOWERED: Ordinary People, Extraordinary
+Products](https://svpg.com/empowered-ordinary-people-extraordinary-products/) by Marty Cagan  
+Product principles sit inside a wider operating model of empowered teams; EMPOWERED is the spine
+for that context. See also
+[Key Frameworks Referenced](../README.md#key-frameworks-referenced).
 
 ## Related Topics
 
 - [🗺️ Product Strategy](product-strategy.md) - Principles support strategic decision-making
 - [🌟 Product Vision](product-vision.md) - Principles help realise the vision
+- [🔍 Product Discovery](product-discovery.md) - Principles should shape how discovery is done
 
 ## 🧭 Navigation
 
