@@ -22,6 +22,7 @@ logs
 dist/
 build/
 out/
+site/
 
 # IDE files
 .idea/

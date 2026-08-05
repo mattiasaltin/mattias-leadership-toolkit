@@ -1,0 +1,95 @@
+site_name: Mattias Leadership Toolkit
+site_description: Curated engineering and product leadership resources
+site_url: https://mattiasaltin.github.io/mattias-leadership-toolkit/
+repo_url: https://github.com/mattiasaltin/mattias-leadership-toolkit
+repo_name: mattiasaltin/mattias-leadership-toolkit
+
+# Content lives at repo root; docs/ holds symlinks so MkDocs can use a child docs_dir.
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: README.md
+  - Engineering Leadership:
+      - Overview: engineering-leadership-resources/README.md
+      - Organisational Health:
+          - Overview: engineering-leadership-resources/org-health/README.md
+          - General Leadership: engineering-leadership-resources/org-health/general-leadership.md
+          - Psychological Safety: engineering-leadership-resources/org-health/psychological-safety.md
+          - Coaching & Mentoring: engineering-leadership-resources/org-health/coaching-and-mentoring.md
+          - Conflict & Difficult Conversations: engineering-leadership-resources/org-health/conflict-and-difficult-conversations.md
+          - Creating a Healthy Team: engineering-leadership-resources/org-health/creating-a-healthy-effective-team.md
+          - Recruiting: engineering-leadership-resources/org-health/recruiting.md
+          - Empowerment: engineering-leadership-resources/org-health/empowerment.md
+          - Inspiring Your Team: engineering-leadership-resources/org-health/inspiring-your-team.md
+          - DEI: engineering-leadership-resources/org-health/dei.md
+          - Performance Management: engineering-leadership-resources/org-health/performance-management.md
+          - Swedish Employment Law: engineering-leadership-resources/org-health/swedish-employment-law.md
+      - Technical Health:
+          - Overview: engineering-leadership-resources/tech-health/README.md
+          - Architecture: engineering-leadership-resources/tech-health/architecture.md
+          - KPIs: engineering-leadership-resources/tech-health/kpis.md
+          - Technical Debt: engineering-leadership-resources/tech-health/technical-debt.md
+          - Testing: engineering-leadership-resources/tech-health/testing.md
+          - Infrastructure: engineering-leadership-resources/tech-health/infrastructure.md
+          - Security: engineering-leadership-resources/tech-health/security.md
+      - Delivery & Execution:
+          - Overview: engineering-leadership-resources/delivery-execution/README.md
+          - Product Operating Model: engineering-leadership-resources/delivery-execution/product-operating-model.md
+          - Metrics and Measurement: engineering-leadership-resources/delivery-execution/metrics-and-measurement.md
+          - CI/CD: engineering-leadership-resources/delivery-execution/continuous-integration-and-delivery.md
+          - Balancing Delivery vs Discovery: engineering-leadership-resources/delivery-execution/balancing-delivery-vs-discovery.md
+          - Flow Efficiency: engineering-leadership-resources/delivery-execution/flow-efficiency.md
+          - Technical Excellence: engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md
+          - AI Assistance: engineering-leadership-resources/delivery-execution/ai-assistance.md
+          - Agile Practices: engineering-leadership-resources/delivery-execution/agile-practices.md
+      - Other: engineering-leadership-resources/other/README.md
+  - Product Leadership:
+      - Overview: product-leadership-resources/README.md
+      - Product Vision: product-leadership-resources/product-vision.md
+      - Product Strategy: product-leadership-resources/product-strategy.md
+      - Product Discovery: product-leadership-resources/product-discovery.md
+      - Product Principles: product-leadership-resources/product-principles.md
+      - Product Priorities: product-leadership-resources/product-priorities.md
+      - Product Evangelism: product-leadership-resources/product-evangelism.md
+      - Staffing: product-leadership-resources/staffing.md
+      - Coaching: product-leadership-resources/coaching.md
+      - Objectives: product-leadership-resources/objectives.md
+      - Other: product-leadership-resources/product-other.md
