@@ -61,7 +61,11 @@ lint-markdown-fix:
 
 .PHONY: check-links
 check-links:
-	find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -not -path "./tmp/*" -not -path "./docs/*" -not -path "./site/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
+	@failed=0; \
+	while IFS= read -r -d '' f; do \
+		npx --yes markdown-link-check --config .markdown-link-check.json "$$f" || failed=1; \
+	done < <(find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -not -path "./tmp/*" -not -path "./docs/*" -not -path "./site/*" -print0); \
+	if [ "$$failed" -ne 0 ]; then echo "check-links: one or more files had dead links"; exit 1; fi
 
 .PHONY: check-nav
 check-nav:

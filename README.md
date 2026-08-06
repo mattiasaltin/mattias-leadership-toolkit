@@ -204,10 +204,10 @@ The `Makefile` automates environment setup, content checks, and helper tools:
 - **Set up the environment**: `make setup`
 - **Run the URL checker UI**: `make run`
 - **Lint Markdown**: `make lint-markdown` / `make lint-markdown-fix`
-- **Check navigation**: `make check-nav` (indexes + prev/next chains)
-- **Check links**: `make check-links`
-- **Lint + nav + links (CI mirror)**: `make check-all`
-- **Docs site**: `make docs-serve` / `make docs-build` (MkDocs Material → `site/`)
+- **Check navigation**: `make check-nav` (indexes, prev/next, `mkdocs.yml`)
+- **Check links**: `make check-links` (fails if any file has dead links)
+- **Lint + nav + links**: `make check-all`
+- **Docs site**: `make docs-serve` / `make docs-build` (also built on PRs in CI)
 - **Run pre-commit hooks**: `make pre-commit`
 - **Update dependencies**: `make freeze`
 - **Clean up the environment**: `make clean`

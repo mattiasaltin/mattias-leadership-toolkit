@@ -13,9 +13,6 @@
       "pattern": "^https://www\\.linkedin\\.com/.*"
     },
     {
-      "pattern": "^https://www\\.ted\\.com/.*"
-    },
-    {
       "pattern": "^https://([a-z0-9-]+\\.)?substack\\.com/.*"
     }
   ],

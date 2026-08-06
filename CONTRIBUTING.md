@@ -29,15 +29,17 @@ Icons: 📘 Book · 🎥 Video/Talk · 📄 Article/Blog · 🎧 Podcast · 📊
 
 When you add, rename, or remove a topic `.md` file, update all of the following:
 
-1. The topic file itself (resources, Related Topics, Navigation)
+1. The topic file itself (resources, Related Topics, Navigation — include Toolkit root link)
 2. The section `README.md` (engineering) or domain Quick Nav (product)
 3. Domain Quick Nav / Start Here paths if the topic is foundational
 4. Neighbouring prev/next links so the browse chain stays consistent
 5. Related Topics on closely related pages (prefer a real cross-link over duplication)
-6. `make check-all` passes locally (lint + nav + links)
+6. `mkdocs.yml` nav entry (published site sidebar)
+7. `make check-all` passes locally (lint + nav + links); `make docs-build` for site changes
 
 Do **not** invent placeholder URLs. Prefer durable sources (books, primary research, canonical
-articles) over ephemeral webinars when both exist.
+articles) over ephemeral webinars when both exist. After changing a URL, confirm the final page
+title matches the citation (HTTP 200 alone is not enough — SVPG/ThoughtWorks often soft-404).
 
 ## Deduplication
 

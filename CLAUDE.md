@@ -24,7 +24,7 @@ Content is organized into two top-level domains, each a self-contained collectio
   has its own `README.md` acting as an index.
 - `product-leadership-resources/` — flat set of topic files structured around Marty Cagan's
   EMPOWERED framework (leadership: vision, strategy, principles, priorities, evangelism;
-  management: staffing, coaching, objectives), plus `product-discovery.md` and `product-other.md`.
+  management: staffing, coaching, objectives), plus `product-discovery.md`.
 
 The root `README.md` is the entry point and also defines shared "Key Frameworks Referenced"
 (EMPOWERED, GROW, OKR, DORA, BICEPS) that individual content files link back to.
@@ -36,17 +36,17 @@ All common tasks go through the `Makefile`:
 - `make setup` — create `.venv` and install `requirements.txt`
 - `make run` — launch the URL checker UI: `streamlit run tools/url_checker.py`
 - `make lint-markdown` / `make lint-markdown-fix` — run `markdownlint-cli` (auto-fix variant)
-- `make check-nav` — indexes + prev/next chains (`tools/check_nav.py`)
-- `make check-links` — run `markdown-link-check` on every `.md` (uses `.markdown-link-check.json`)
-- `make check-all` — lint + nav + link-check (mirrors CI)
+- `make check-nav` — indexes, prev/next chains, and `mkdocs.yml` coverage (`tools/check_nav.py`)
+- `make check-links` — fail-closed `markdown-link-check` on every `.md`
+- `make check-all` — lint + nav + link-check
 - `make docs-setup` / `make docs-serve` / `make docs-build` — MkDocs Material site
 - `make pre-commit` — run all pre-commit hooks on all files
 - `make freeze` — regenerate `requirements.txt` (direct tool deps only)
 - `make clean` — remove `.venv`
 
-CI (`.github/workflows/markdown.yml`) runs on push/PR to `main`/`master` and enforces markdownlint,
-nav consistency, and link validation. Pages deploy is `.github/workflows/pages.yml`. Run
-`make check-all` locally before pushing to match CI.
+CI (`.github/workflows/markdown.yml`) on push/PR: markdownlint, nav, links, and
+`mkdocs build --strict`. Pages deploy is `.github/workflows/pages.yml`. Link-check intentionally
+ignores LinkedIn and Substack (bot-blocked from Actions); do not ignore durable citation hosts.
 
 ## Conventions when editing content
 

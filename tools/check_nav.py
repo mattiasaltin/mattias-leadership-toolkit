@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assert topic pages appear in indexes and that prev/next chains are consistent.
+"""Assert topic pages appear in indexes, prev/next chains, and mkdocs.yml nav.
 
 Exit code 0 = OK, 1 = navigation drift found.
 """
@@ -24,6 +24,11 @@ SKIP_NAMES = {
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 PREV_RE = re.compile(r"\[⬅️ Previous:[^\]]*\]\(([^)]+)\)")
 NEXT_RE = re.compile(r"\[➡️ Next:[^\]]*\]\(([^)]+)\)")
+# Paths listed in mkdocs.yml nav (markdown files under docs/)
+MKDOCS_PATH_RE = re.compile(
+    r"(?:^|\n)\s*-\s+[^:]+:\s+"
+    r"((?:engineering|product)-leadership-resources/[^\s]+\.md|README\.md)"
+)
 
 
 def topic_files(directory: Path) -> list[Path]:
@@ -85,7 +90,6 @@ def check_chain(topics: list[Path], errors: list[str]) -> None:
                 errors.append(
                     f"{topic.relative_to(ROOT)} next points to unknown {next_name}"
                 )
-        # ends may omit next
 
     if len(starts) != 1:
         names = ", ".join(p.name for p in starts) or "(none)"
@@ -95,7 +99,6 @@ def check_chain(topics: list[Path], errors: list[str]) -> None:
         )
         return
 
-    # Walk chain and ensure all topics visited
     visited: list[str] = []
     current = starts[0]
     while current is not None:
@@ -120,28 +123,48 @@ def check_chain(topics: list[Path], errors: list[str]) -> None:
         )
 
 
+def check_mkdocs_nav(topic_paths: list[Path], errors: list[str]) -> None:
+    mkdocs = ROOT / "mkdocs.yml"
+    if not mkdocs.exists():
+        errors.append("Missing mkdocs.yml")
+        return
+    text = mkdocs.read_text(encoding="utf-8")
+    listed = set(MKDOCS_PATH_RE.findall(text))
+    for topic in topic_paths:
+        rel = topic.relative_to(ROOT).as_posix()
+        if rel not in listed:
+            errors.append(f"{rel} missing from mkdocs.yml nav")
+
+
 def main() -> int:
     errors: list[str] = []
+    all_topics: list[Path] = []
 
-    # Engineering sections
     eng_root = ROOT / "engineering-leadership-resources"
     eng_readme = eng_root / "README.md"
     for section in ("org-health", "tech-health", "delivery-execution"):
         section_dir = eng_root / section
         topics = topic_files(section_dir)
+        all_topics.extend(topics)
         check_indexed(topics, section_dir / "README.md", errors)
         check_indexed(topics, eng_readme, errors)
         check_chain(topics, errors)
 
-    # Product flat topics (exclude product-other from required chain end)
+    # other/ is an author-notes shelf (README only today). If topic files appear, require index.
+    other_dir = eng_root / "other"
+    other_topics = topic_files(other_dir)
+    if other_topics:
+        check_indexed(other_topics, other_dir / "README.md", errors)
+        check_indexed(other_topics, eng_readme, errors)
+        all_topics.extend(other_topics)
+
     product_root = ROOT / "product-leadership-resources"
-    product_topics = [
-        p
-        for p in topic_files(product_root)
-        if p.name != "product-other.md"
-    ]
-    check_indexed(product_topics + [product_root / "product-other.md"], product_root / "README.md", errors)
+    product_topics = topic_files(product_root)
+    all_topics.extend(product_topics)
+    check_indexed(product_topics, product_root / "README.md", errors)
     check_chain(product_topics, errors)
+
+    check_mkdocs_nav(all_topics, errors)
 
     if errors:
         print("Navigation check failed:\n")

@@ -25,7 +25,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Check indexes and prev/next chains
+      - name: Check indexes, prev/next chains, and mkdocs nav
         run: python3 tools/check_nav.py
 
   link-check:
@@ -43,3 +43,24 @@ jobs:
           folder-path: '.'
           file-extension: '.md'
           check-modified-files-only: 'no'
+
+  docs-build:
+    name: MkDocs Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install docs dependencies
+        run: pip install -r requirements-docs.txt
+
+      - name: Prepare docs symlink layer
+        run: bash tools/prepare_docs.sh
+
+      - name: Build site
+        run: mkdocs build --strict
