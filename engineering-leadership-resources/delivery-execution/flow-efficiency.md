@@ -26,19 +26,20 @@ by Gene Kim, Kevin Behr, and George Spafford
 A novel that illustrates flow efficiency principles in practice, showing how limiting work-in-progress
 and improving flow transforms IT operations.
 
-📄 [Flow Efficiency: A Key Metric for Agile Teams](https://www.thoughtworks.com/insights/blog/flow-efficiency-key-metric-agile-teams)
-by ThoughtWorks
-An explanation of flow efficiency as a metric and how to measure and improve it in agile teams.
+📄 [Value Stream Mapping](https://www.lean.org/lexicon-terms/value-stream-mapping/) by Lean
+Enterprise Institute  
+A technique for visualising where work waits versus where value is added — the diagnostic behind
+flow-efficiency improvement.
 
-📄 [Value Stream Mapping: A Tool for Improving Flow](https://www.lean.org/lexicon-terms/value-stream-mapping/)
-by Lean Enterprise Institute
-A guide to value stream mapping, a technique for visualizing and improving the flow of work
-through development systems.
+📄 [Flow Production](https://www.lean.org/lexicon-terms/flow-production/) by Lean Enterprise
+Institute  
+Lean definition of flow (small batches, pull, reduced waiting) that underpins modern product
+development flow metrics.
 
-🎧 [Actionable Agile Metrics with Daniel
+🎥 [Actionable Agile Metrics with Daniel
 Vacanti](https://www.youtube.com/watch?v=fXJvGnKaEKI) by Agile Uprising  
 Vacanti (Kanban / Actionable Agile) discusses flow metrics, Little’s Law, and which measures
-actually improve predictability—and which ones do not.
+actually improve predictability — and which ones do not.
 
 ## Related Topics
 

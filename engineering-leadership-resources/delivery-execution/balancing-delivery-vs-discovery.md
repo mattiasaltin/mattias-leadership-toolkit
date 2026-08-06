@@ -1,57 +1,39 @@
 # ⚖️ Balancing Delivery vs Discovery
 
-Balancing delivery and discovery is crucial for building the right products effectively. This
-section explores strategies for achieving this balance.
-
-Discovery involves learning about customer needs, validating assumptions, and exploring solutions
-before committing to building them. Delivery involves building, testing, and shipping products.
-Effective product development requires both: discovery to ensure you're building the right thing,
-and delivery to ensure you're building it well.
+Engineering leaders own the operating conditions that let discovery and delivery run together:
+capacity, WIP limits, dual-track habits, and resisting the urge to treat research as a separate
+project phase. For discovery *methods* (interviews, OSTs, assumption tests), see
+[🔍 Product Discovery](../../product-leadership-resources/product-discovery.md).
 
 ## Resources
 
 📘 [Inspired: How To Create Products Customers
 Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
-A guide to product management and balancing delivery with discovery to create products that customers love.
-Cagan explains the dual-track agile approach and how to structure teams for both discovery and delivery.
+How empowered product trios structure dual-track work so discovery and delivery reinforce each
+other rather than compete for the same calendar.
 
-📘 [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-by Eric Ries  
-Ries introduces the Build-Measure-Learn loop, demonstrating how to balance discovery (learning)
-with delivery (building) through rapid experimentation and validated learning.
-
-📘 [Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value](https://www.goodreads.com/book/show/58033215-continuous-discovery-habits)
-by Teresa Torres  
-Torres explains how to integrate discovery into your product development process, ensuring teams
-continuously learn about customers while delivering value.
-
-📄 [Dual-Track Agile: Balancing Discovery and Delivery](https://svpg.com/dual-track-agile/) by Marty Cagan  
-An explanation of the dual-track agile approach, where discovery and delivery teams work in
-parallel to balance learning with execution.
+📄 [Dual-Track Agile](https://www.svpg.com/dual-track-agile/) by Marty Cagan  
+The operating-model view: discovery and delivery in parallel so learning does not block shipping
+— and shipping does not starve learning.
 
 🎥 [Thinking more product: Moving from Scrum to dual-track Agile - Suzanna Haworth • Agile on the
 Beach](https://www.youtube.com/watch?v=hnUkccjFo9Q) by Suzanna Haworth  
-Haworth covers how dual-track agile helps teams keep discovery and delivery running together
-instead of treating research as a separate project phase.
+A practitioner talk on changing team rituals and backlog ownership so discovery stays continuous
+inside delivery organisations.
 
-📄 [Prototyping: Fast Discovery Through Rapid Iteration](https://www.interaction-design.org/literature/topics/prototyping)
-by Interaction Design Foundation  
-A guide to prototyping as a discovery technique, enabling teams to learn quickly through
-low-fidelity experiments.
-
-🎥 [Build better products with continuous product discovery | Teresa
-Torres](https://www.youtube.com/watch?v=9RFaz9ZBXpk) by Teresa Torres  
-Torres explains continuous discovery habits—how product trios learn weekly from customers while
-still shipping, rather than batching discovery before delivery.
+📄 [Prototyping](https://www.interaction-design.org/literature/topics/prototyping) by Interaction
+Design Foundation  
+Fast, cheap experiments that reduce delivery risk before expensive build commitment — useful when
+engineering capacity is the scarce resource.
 
 ## Related Topics
 
-- [💫 Technical Excellence in Delivery](technical-excellence-in-delivery.md) - Technical excellence
-  enables faster delivery
-- [📈 Metrics and Measurement](metrics-and-measurement.md) - Metrics help balance discovery and
-  delivery
-- [🗺️ Product Strategy](../../product-leadership-resources/product-strategy.md) - Strategy sets
-  what discovery and delivery should serve
+- [🔍 Product Discovery](../../product-leadership-resources/product-discovery.md) - Methods and
+  habits for continuous learning
+- [📋 Product Operating Model](product-operating-model.md) - Empowered teams make dual-track viable
+- [🌊 Flow Efficiency](flow-efficiency.md) - Excess WIP often means discovery and delivery are
+  fighting for the same capacity
+- [📈 Metrics and Measurement](metrics-and-measurement.md) - Measure outcomes, not only throughput
 
 ## 🧭 Navigation
 

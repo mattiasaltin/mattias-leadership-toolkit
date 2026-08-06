@@ -10,13 +10,13 @@ This book explores the importance of identifying and articulating a clear purpos
 inspire teams and drive meaningful action. Sinek argues that successful leaders and organisations
 focus on their core beliefs to inspire loyalty and motivation.
 
-🎥 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+🎥 [How great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
 by Simon Sinek  
 This TED Talk distils the key ideas of Sinek's book and provides a compelling introduction to the
 power of purpose-driven leadership. It's an excellent resource for leaders looking to inspire
 their teams.
 
-🎥 [The Puzzle of Motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation) by Dan Pink  
+🎥 [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y) by Dan Pink  
 Dan Pink explains why traditional rewards and punishments often fail to motivate teams and how
 autonomy, mastery, and purpose are the real drivers of engagement and inspiration.
 
@@ -53,7 +53,7 @@ by Harvard Business Review
 This article provides practical advice for leaders on connecting organisational goals with
 personal purpose to inspire teams effectively.
 
-🎥 [What makes us feel good about our work?](https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work)
+🎥 [What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 by Dan Ariely  
 Dan Ariely explains the psychology of motivation and how leaders can inspire their teams by
 fostering meaning and purpose in their work.

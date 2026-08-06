@@ -12,11 +12,10 @@ Research-based insights into the metrics that drive high performance in software
 Productivity](https://youtu.be/O2rbekHpG4Q?si=wI8rOHu-zMI1Ym1O) by Nicole Forsgren  
 Forsgren discusses the importance of measuring the right metrics to drive improvement and achieve business goals.
 
-📄 [The Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) by
-ThoughtWorks  
-An overview of the four key metrics from Accelerate: deployment frequency, lead time for
-changes, mean time to recover, and change failure rate. For more information about DORA metrics,
-see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) section.
+📄 [DORA metrics](https://www.thoughtworks.com/radar/techniques/dora-metrics) by ThoughtWorks  
+Technology Radar blip on the Accelerate / DORA four key metrics. Prefer
+[DORA Research](https://dora.dev/research/) as the primary source; see also
+[Key Frameworks Referenced](../../README.md#key-frameworks-referenced).
 
 🎥 [My Response To The Nonsense McKinsey Article On Developer Productivity • Dave Farley • GOTO
 2025](https://youtu.be/5VpBRmmWqg0?si=Eu1TPZeyxMzhi-qS) by Dave Farley  

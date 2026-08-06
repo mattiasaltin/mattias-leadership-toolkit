@@ -10,10 +10,10 @@ Spolsky shares insights on identifying great developers through effective interv
 techniques. He emphasizes the importance of evaluating problem-solving abilities and cultural
 fit.
 
-🎥 [How to Build a Great Engineering Team](https://www.youtube.com/watch?v=7yqExZqGOZ4) by
-Camille Fournier  
-Fournier discusses strategies for building and scaling engineering teams, including hiring
-practices, team structure, and fostering growth.
+🎥 [Keynote: Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
+by Camille Fournier  
+Fournier on respect, motivation, and the management practices that make hiring stick — useful
+context before you scale an interview loop.
 
 📄 [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)  
 A curated list of companies that use practical, real-world programming exercises instead of
@@ -23,10 +23,9 @@ algorithmic puzzles for technical interviews.
 A detailed examination of technical hiring practices, with practical advice for creating more
 effective and equitable interview processes.
 
-📄 [Structured Interviewing](https://rework.withgoogle.com/en/guides/hiring-use-structured-interviewing)
-by Google  
-Google's guide to implementing structured interviews, including question design, evaluation
-criteria, and reducing bias in the hiring process.
+📄 [How we hire](https://www.google.com/about/careers/applications/how-we-hire/) by Google  
+Google's public hiring process — structured stages, role-relevant assessment, and committee
+review as a bias-reduction pattern (not a copy-paste process for every company).
 
 ## Related Topics
 

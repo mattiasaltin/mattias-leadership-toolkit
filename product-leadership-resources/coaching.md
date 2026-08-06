@@ -29,26 +29,18 @@ develop them. See
 Helps coaches spot fake PM work (roadmap theatre, stakeholder note-taking) versus real product
 management — useful diagnosis before coaching plans.
 
-🎥 [Build better products with continuous product discovery | Teresa
-Torres](https://www.youtube.com/watch?v=9RFaz9ZBXpk) by Teresa Torres  
-Discovery skill is a primary coaching target for PM development; use with
-[🔍 Product Discovery](product-discovery.md).
-
-📘 [Continuous Discovery Habits](https://www.goodreads.com/book/show/58033215-continuous-discovery-habits)
-by Teresa Torres  
-A concrete curriculum for coaching PMs on weekly interviews, opportunity solution trees, and
-assumption tests.
-
 ## Related Topics
 
 - [🎯 Coaching & Mentoring](../engineering-leadership-resources/org-health/coaching-and-mentoring.md) -
   Shared coaching foundations
-- [🔍 Product Discovery](product-discovery.md) - Core skill area for PM coaching
+- [🔍 Product Discovery](product-discovery.md) - Primary skill curriculum to coach (habits live
+  there, not duplicated here)
 - [🧠 Staffing](staffing.md) - Hiring and coaching reinforce each other
 - [🎯 Objectives](objectives.md) - Coaching conversations often connect to outcomes
 
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🧠 Staffing](staffing.md)
 - [➡️ Next: 🎯 Objectives](objectives.md)

@@ -57,7 +57,7 @@ balancing the needs of leadership and team members.
 Sinek highlights the critical distinction between managing responsibilities and leading people.
 Leadership is about fostering trust and empowerment rather than merely holding authority.
 
-🎥 [What Makes a Great Leader](https://www.ted.com/talks/roselinde_torres_what_it_takes_to_be_a_great_leader)
+🎥 [What Makes a Great Leader](https://www.youtube.com/watch?v=aUYSDEYdmzw)
 by Roselinde Torres  
 In this TED Talk, Torres outlines three key qualities of successful leaders, including
 anticipating change and embracing diversity of thought.

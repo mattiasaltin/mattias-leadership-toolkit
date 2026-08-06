@@ -33,7 +33,7 @@ workplace dynamics, with actionable strategies for overcoming it.
 Phillips explains how diverse teams perform better by bringing different perspectives, fostering
 innovation, and challenging assumptions.
 
-🎥 [The Danger of a Single Story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story)
+🎥 [The Danger of a Single Story](https://www.youtube.com/watch?v=D9Ihs241zeg)
 by Chimamanda Ngozi Adichie  
 Adichie shares how stereotypes arise from hearing a "single story" about people or cultures, and
 how this impacts our understanding and interactions in diverse workplaces.
@@ -42,7 +42,7 @@ how this impacts our understanding and interactions in diverse workplaces.
 A comprehensive resource hub for building more inclusive tech cultures, offering tools and
 strategies for addressing bias and fostering belonging.
 
-🎥 [What Does My Headscarf Mean to You?](https://www.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you)
+🎥 [What Does My Headscarf Mean to You?](https://www.youtube.com/watch?v=18zvlz5CxPE)
 by Yassmin Abdel-Magied  
 Abdel-Magied discusses her experiences with unconscious bias and challenges stereotypes, urging
 us to embrace diversity and question our assumptions.

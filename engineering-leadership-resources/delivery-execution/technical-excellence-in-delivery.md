@@ -1,46 +1,37 @@
 # 🛠️ Technical Excellence in Delivery
 
-Technical excellence is crucial for delivering high-quality software efficiently. This section
-explores practices and principles that enhance technical delivery.
-
-Technical excellence encompasses the practices, principles, and culture that enable teams to
-deliver high-quality software reliably and efficiently. It includes practices like test-driven
-development, refactoring, code review, and continuous integration, as well as the culture and
-leadership that support these practices.
+Technical excellence is the day-to-day craft that makes delivery sustainable: TDD, refactoring,
+code review culture, and leaders who protect quality while shipping. Pipeline mechanics and the
+Continuous Delivery book live on
+[🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md).
 
 ## Resources
 
-📘 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment
-Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble and
-David Farley  
-A comprehensive guide to implementing continuous delivery practices, ensuring reliable and
-efficient software releases. Essential reading for understanding technical excellence in delivery.
-
 📘 [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 by Kent Beck  
-Beck's foundational work on test-driven development, demonstrating how TDD improves code quality
-and design while enabling faster delivery.
+Beck's foundational work on TDD — how tests improve design and enable safer, faster change.
 
 📘 [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring)
-by Martin Fowler
-Fowler's classic guide to refactoring, showing how to improve code quality incrementally while
-maintaining functionality. Essential for maintaining technical excellence over time.
+by Martin Fowler  
+How to improve design incrementally without stopping delivery — the craft behind sustainable pace.
 
-🎥 [The Art of Technical Leadership](https://www.youtube.com/watch?v=F2xV6GgJm0k) by Pat Kua  
-Kua discusses the role of technical leaders in fostering excellence and driving successful delivery outcomes.
+📄 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+by Martin Fowler  
+Why “go slower to go faster” is usually about internal quality enabling delivery speed, not
+ceremonial perfectionism.
 
-🎥 [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO
-2021](https://www.youtube.com/watch?v=eoaDr5PpT2c) by Dave Farley  
-Farley explains how deployment pipelines and engineering discipline create faster feedback,
-higher quality, and sustainable delivery speed—showing why excellence and pace reinforce each
-other.
+🎥 [Level Up: Choosing The Technical Leadership Path • Patrick Kua • YOW!
+2024](https://www.youtube.com/watch?v=yQXR2_fMIog) by Patrick Kua  
+Practical advice on what technical leadership means, where to start, and how excellence becomes
+a team property rather than a hero IC habit.
 
 ## Related Topics
 
-- [✅ Testing](../tech-health/testing.md) - Testing is a core practice of technical excellence
-- [💸 Technical Debt](../tech-health/technical-debt.md) - Technical excellence helps prevent and
-  manage technical debt
-- [🌊 Flow Efficiency](flow-efficiency.md) - Technical excellence supports flow
+- [🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md) - Pipelines and
+  releasability practices
+- [✅ Testing](../tech-health/testing.md) - Testing strategy as a technical-health concern
+- [💸 Technical Debt](../tech-health/technical-debt.md) - Excellence prevents and pays down debt
+- [🌊 Flow Efficiency](flow-efficiency.md) - Quality practices that reduce rework improve flow
 
 ## 🧭 Navigation
 

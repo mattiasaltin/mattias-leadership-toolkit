@@ -30,9 +30,14 @@ A great explanation of how a product vision involves imagining a future world wh
 exists and telling a compelling story about how people will experience it, rather than setting
 revenue targets or listing desired features.
 
-📄 [How to Create a Product Vision](https://svpg.com/how-to-create-a-product-vision/) by Marty Cagan  
-A practical guide to developing a product vision that inspires teams and provides clear
-direction for product development.
+📄 [Vision vs. Strategy](https://www.svpg.com/vision-vs-strategy/) by Marty Cagan  
+Clarifies what belongs in a product vision versus strategy — useful when teams blur the North
+Star with a plan of attack.
+
+📄 [8 Tips for Creating A Compelling Product Vision](https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/)
+by Roman Pichler  
+Practical guidance for writing a vision that is inspiring, shared, and concrete enough to guide
+decisions.
 
 🎥 [Tips for Building a Compelling Product Vision by Amazon Sr PM, Will
 Najar](https://www.youtube.com/watch?v=fW-zCm1Ig3Y) by Will Najar  
@@ -49,4 +54,5 @@ durable north star for decisions.
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [➡️ Next: 🗺️ Product Strategy](product-strategy.md)

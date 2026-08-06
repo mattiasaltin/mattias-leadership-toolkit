@@ -25,9 +25,10 @@ Results](https://www.goodreads.com/book/show/28525037-radical-focus) by Christin
 A practical guide to implementing OKRs, with a focus on how to set objectives that drive
 results and align teams.
 
-📄 [How to Set Product Objectives](https://svpg.com/how-to-set-product-objectives/) by Marty Cagan  
-Cagan explains how to set objectives that focus on outcomes rather than outputs, helping teams
-deliver real value.
+📄 [Google's OKR Playbook](https://www.whatmatters.com/resources/google-okr-playbook) by
+What Matters / John Doerr  
+A durable, practical reference for writing outcome-focused objectives and key results at team
+and organisational level.
 
 🎥 [Webinar: Turning Visions Into Objectives & OKRs by DraftKings
 PM](https://www.youtube.com/watch?v=nX2iFedkQaE) by Product School  
@@ -45,4 +46,5 @@ that teams can execute against.
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🎓 Coaching](coaching.md)

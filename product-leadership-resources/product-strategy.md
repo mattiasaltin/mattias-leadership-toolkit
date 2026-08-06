@@ -46,16 +46,18 @@ by Clayton M. Christensen
 Christensen's groundbreaking work on disruptive innovation helps product leaders understand
 how new technologies can disrupt established markets and how to respond strategically.
 
-📄 [Product Strategy Means Saying No](https://svpg.com/product-strategy-means-saying-no/) by Marty Cagan  
-Cagan explains why effective product strategy requires making difficult choices and saying no to
-good ideas that don't align with strategic objectives.
+📄 [Vision vs. Strategy](https://www.svpg.com/vision-vs-strategy/) by Marty Cagan  
+Strategy is the sequence of choices that move toward the vision — this piece keeps the two from
+collapsing into a feature list.
 
-📄 [How to Build a Product Strategy](https://www.productplan.com/glossary/product-strategy/) by ProductPlan  
-A practical guide to developing product strategy, including frameworks and templates for
-strategic planning.
+📄 [Product strategy best practices](https://www.intercom.com/blog/product-strategy-means-saying-no/)
+by Intercom  
+Trade-offs and focus: strategy as choosing what not to do so the important work gets done.
 
-🎥 [Product Strategy: How to Build Products That Win](https://www.youtube.com/watch?v=5Q8CqJqJjJY) by Reforge  
-A comprehensive talk on product strategy frameworks and how to apply them in practice.
+📄 [5 Steps to a Winning Product Strategy](https://www.productplan.com/learn/product-strategy)
+by ProductPlan  
+A practical overview of framing market focus, differentiation, and sequencing without confusing
+strategy with a roadmap dump.
 
 ## Related Topics
 
@@ -71,5 +73,6 @@ A comprehensive talk on product strategy frameworks and how to apply them in pra
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🌟 Product Vision](product-vision.md)
 - [➡️ Next: 🔍 Product Discovery](product-discovery.md)
