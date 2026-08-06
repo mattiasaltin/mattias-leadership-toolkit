@@ -45,8 +45,6 @@ document provides some guidelines to help you get started.
     - [🎓 Coaching](coaching.md) |  Developing product talent and providing growth opportunities
     - [🎯 Objectives](objectives.md) | Setting team goals and managing expectations
 
-    - [📦 Other](product-other.md) | Miscellaneous resources
-
     Feel free to suggest new categories if you think they would be helpful!
 
 3. **General Guidelines**

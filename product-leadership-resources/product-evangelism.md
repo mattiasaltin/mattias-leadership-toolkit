@@ -47,5 +47,6 @@ A concrete Product School session on making product narratives land with non-pro
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🔢 Product Priorities](product-priorities.md)
 - [➡️ Next: 🧠 Staffing](staffing.md)

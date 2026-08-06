@@ -80,7 +80,7 @@ nav:
           - Technical Excellence: engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md
           - AI Assistance: engineering-leadership-resources/delivery-execution/ai-assistance.md
           - Agile Practices: engineering-leadership-resources/delivery-execution/agile-practices.md
-      - Other: engineering-leadership-resources/other/README.md
+      - Author notes: engineering-leadership-resources/other/README.md
   - Product Leadership:
       - Overview: product-leadership-resources/README.md
       - Product Vision: product-leadership-resources/product-vision.md
@@ -92,4 +92,3 @@ nav:
       - Staffing: product-leadership-resources/staffing.md
       - Coaching: product-leadership-resources/coaching.md
       - Objectives: product-leadership-resources/objectives.md
-      - Other: product-leadership-resources/product-other.md

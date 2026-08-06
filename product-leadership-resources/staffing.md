@@ -50,5 +50,6 @@ and interaction modes that keep product delivery flowing.
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 📣 Product Evangelism](product-evangelism.md)
 - [➡️ Next: 🎓 Coaching](coaching.md)

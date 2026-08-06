@@ -80,10 +80,6 @@ If you're new to product leadership, here's a recommended path (matches ⬅️/�
 - [🎓 Coaching](coaching.md) | Developing product talent and providing growth opportunities
 - [🎯 Objectives](objectives.md) | Setting team goals and managing expectations
 
-### 📦 Catch-all
-
-- [📦 Other](product-other.md) | Only for material that does not fit a topic above
-
 ## 🤝 Contributing
 
 See our [Contributing Guidelines](CONTRIBUTING.md) for details on how to help improve this

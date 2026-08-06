@@ -54,5 +54,6 @@ satisfaction.
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🧭 Product Principles](product-principles.md)
 - [➡️ Next: 📣 Product Evangelism](product-evangelism.md)

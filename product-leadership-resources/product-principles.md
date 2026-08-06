@@ -48,5 +48,6 @@ for that context. See also
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🔍 Product Discovery](product-discovery.md)
 - [➡️ Next: 🔢 Product Priorities](product-priorities.md)

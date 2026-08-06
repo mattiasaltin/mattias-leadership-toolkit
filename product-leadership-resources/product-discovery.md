@@ -37,5 +37,6 @@ A practical structure for connecting desired outcomes to opportunities and solut
 ## 🧭 Navigation
 
 - [🏠 Home](README.md)
+- [🧰 Toolkit](../README.md)
 - [⬅️ Previous: 🗺️ Product Strategy](product-strategy.md)
 - [➡️ Next: 🧭 Product Principles](product-principles.md)

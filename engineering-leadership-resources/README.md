@@ -22,9 +22,9 @@ accountability for anyone in these roles:
 - **⚙️ Technical Health:** Ensuring sustainable technical excellence  
 - **🚀 Delivery & Execution:** Optimising for value delivery
 
-For practical reasons we also have a fourth catch-all area:
+Separately, a small shelf of author notes (not a fourth accountability area):
 
-- **📦 Other:** Anything else that could be useful
+- **📦 Author notes:** Mattias-authored pieces that do not fit the three areas above
 
 While [I personally love diving into
 books](https://www.goodreads.com/review/list/67804807-mattias-altin?utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&utf8=%E2%9C%93&title=mattias-altin&per_page=infinite),
@@ -48,32 +48,34 @@ P.S. This document is constantly evolving, so don't be alarmed if it's changed b
 
 ## 🚀 Start Here for New Engineering Managers
 
-If you're new to engineering management, here's a recommended path through these resources:
+If you're new to engineering management, start with these stops. Within each section, ⬅️/➡️
+follows the full browse order in that section's topic pages.
 
-1. **Foundation (Start Here):**
+1. **Organisational Health (browse order begins here):**
    - [General Leadership](org-health/general-leadership.md) - Essential leadership skills and mindset
    - [Psychological Safety](org-health/psychological-safety.md) - Creating safe environments for your team
    - [Coaching & Mentoring](org-health/coaching-and-mentoring.md) - Developing your team members
+   - Then continue via ⬅️/➡️ through conflict, healthy teams, recruiting, empowerment, inspiring,
+     DEI, performance management, and Swedish employment law
 
-2. **Building Your Team:**
-   - [Creating a Healthy Team](org-health/creating-a-healthy-effective-team.md) - Team formation and dynamics
-   - [Recruiting](org-health/recruiting.md) - Hiring great engineers
-   - [Empowerment](org-health/empowerment.md) - Empowering your team
-   - [Inspiring Your Team](org-health/inspiring-your-team.md) - Purpose and motivation
-
-3. **Technical Leadership:**
-   - [Technical Excellence](delivery-execution/technical-excellence-in-delivery.md) - Practices for quality delivery
-   - [Testing](tech-health/testing.md) - Building quality into your process
+2. **Technical Health (browse order):**
    - [Architecture](tech-health/architecture.md) - Technical decision-making
+   - [Testing](tech-health/testing.md) - Building quality into your process
+   - [Security](tech-health/security.md) - Non-negotiable technical accountability
+   - Full chain: Architecture → KPIs → Technical Debt → Testing → Infrastructure → Security
 
-4. **Delivery & Execution:**
-   - [Flow Efficiency](delivery-execution/flow-efficiency.md) - Optimising work flow
-   - [Metrics and Measurement](delivery-execution/metrics-and-measurement.md) - Understanding performance
-   - [Agile Practices](delivery-execution/agile-practices.md) - Delivery methodologies
+3. **Delivery & Execution (browse order):**
+   - [Product Operating Model](delivery-execution/product-operating-model.md) - How product and
+     engineering work together
+   - [Metrics and Measurement](delivery-execution/metrics-and-measurement.md) - DORA and delivery
+     performance
+   - [CI/CD](delivery-execution/continuous-integration-and-delivery.md) - Releasability as a
+     continuous property
+   - Full chain continues through balancing discovery, flow, technical excellence, AI, and agile
 
 **How to use these resources:**
 
-- Follow Start Here (and the matching ⬅️/➡️ browse order in Organisational Health) for a learning path
+- Use Start Here as key stops; use ⬅️/➡️ for the complete section curriculum
 - Jump to specific topics when facing a particular challenge
 - Revisit resources as you gain experience — they often reveal new insights
 
@@ -82,7 +84,7 @@ If you're new to engineering management, here's a recommended path through these
 - 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams
 - ⚙️ [Technical Health](tech-health/) | Ensuring sustainable technical excellence
 - 🚀 [Delivery & Execution](delivery-execution/) | Optimising for value delivery
-- 📦 [Other](other/) | Miscellaneous resources
+- 📦 [Author notes](other/) | Mattias-authored notes outside the three areas
 
 ## 🗺️ Quick Navigation
 
@@ -120,10 +122,10 @@ If you're new to engineering management, here's a recommended path through these
 - 🤖 [AI Assistance](delivery-execution/ai-assistance.md)
 - 🤸 [Agile Practices](delivery-execution/agile-practices.md)
 
-### [📦 Other](other/)
+### [📦 Author notes](other/)
 
 - 📄 [How Aspiring Change Agents Can Thrive](other/README.md)
-- 📄 [EU Data Act / DSA overviews](other/README.md) (author notes)
+- 📄 [EU Data Act / DSA overviews](other/README.md)
 
 ## 🤝 Contributing
 
