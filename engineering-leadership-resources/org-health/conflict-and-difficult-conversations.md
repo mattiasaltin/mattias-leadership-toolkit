@@ -13,10 +13,6 @@ High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by Kerry 
 Grenny, Ron McMillan, and Al Switzler  
 Stay in dialogue, make it safe, and move to action when emotions run hot.
 
-📘 [Radical Candor](https://www.goodreads.com/book/show/29906992-radical-candor) by Kim Scott  
-Challenge directly while caring personally — the stance most difficult conversations need. Also
-under coaching and performance; here the focus is conflict under tension.
-
 📘 [Nonviolent Communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
 by Marshall B. Rosenberg  
 Separate observation, feeling, need, and request when conflict is stuck in blame.
@@ -37,8 +33,8 @@ Practical guidance for surfacing disagreement productively without escalating to
 ## Related Topics
 
 - [🛡️ Psychological Safety](psychological-safety.md) - Safety makes constructive conflict possible
-- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Many coaching moments are difficult
-  conversations
+- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Canonical *Radical Candor* and day-to-day
+  coaching stance (many coaching moments are difficult conversations)
 - [📋 Performance Management](performance-management.md) - Formal performance issues need structured
   dialogue
 

@@ -23,14 +23,11 @@ principles operate in hiring and decisions.
 📄 [Principles](https://www.svpg.com/principles/) by Marty Cagan  
 Why principles matter more than techniques in modern product work.
 
-📘 [Inspired](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
-How principles show up in strong product orgs. Canonical *Inspired* listing:
-[🌟 Product Vision](product-vision.md).
-
 ## Related Topics
 
 - [🗺️ Product Strategy](product-strategy.md) - Principles support strategic decision-making
-- [🌟 Product Vision](product-vision.md) - Principles help realise the vision
+- [🌟 Product Vision](product-vision.md) - Principles help realise the vision; canonical *Inspired*
+  listing
 - [🔍 Product Discovery](product-discovery.md) - Principles should shape how discovery is done
 - [Key Frameworks Referenced](../README.md#key-frameworks-referenced) - EMPOWERED operating context
 

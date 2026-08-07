@@ -5,16 +5,11 @@ capacity, WIP limits, dual-track habits, and resisting the urge to treat researc
 project phase. For discovery *methods* (interviews, OSTs, assumption tests), see
 [🔍 Product Discovery](../../product-leadership-resources/product-discovery.md).
 
-**Start here:** Cagan’s Dual-Track Agile for the operating-model view, then *Inspired* for how
-empowered trios keep both tracks alive. Use Haworth when rituals and backlog ownership are the
-real constraint.
+**Start here:** Cagan’s Dual-Track Agile for the operating-model view, then Haworth when rituals
+and backlog ownership are the real constraint. For the broader *Inspired* product-org spine, see
+[🌟 Product Vision](../../product-leadership-resources/product-vision.md).
 
 ## Resources
-
-📘 [Inspired: How To Create Products Customers
-Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan  
-How empowered product trios structure dual-track work so discovery and delivery reinforce each
-other rather than compete for the same calendar.
 
 📄 [Dual-Track Agile](https://www.svpg.com/dual-track-agile/) by Marty Cagan  
 The operating-model view: discovery and delivery in parallel so learning does not block shipping
@@ -34,6 +29,8 @@ engineering capacity is the scarce resource.
 
 - [🔍 Product Discovery](../../product-leadership-resources/product-discovery.md) - Methods and
   habits for continuous learning
+- [🌟 Product Vision](../../product-leadership-resources/product-vision.md) - Canonical *Inspired*
+  listing for empowered product-org framing
 - [📋 Product Operating Model](product-operating-model.md) - Empowered teams make dual-track viable
 - [🌊 Flow Efficiency](flow-efficiency.md) - Excess WIP often means discovery and delivery are
   fighting for the same capacity

@@ -29,15 +29,16 @@ document provides some guidelines to help you get started.
      - **🧠 Organisational Health**
      - **⚙️ Technical Health**
      - **🚀 Delivery & Execution**
-     - **📦 Other**
+     - **📦 Author notes** (Mattias-authored pieces outside the three accountabilities — not a
+       fourth pillar)
 
    Feel free to suggest new categories if you think they would be helpful!
 
 3. **General Guidelines**
-   - We appreciate clear and concise descriptions that help others understand the value of the resource.
-   - Please check that all links are working so everyone can access the resources easily.
-   - We aim to avoid duplicate entries to keep our collection fresh and diverse.
-   - Let’s keep our descriptions objective and professional, while also being warm and inviting.
+   - Prefer a short leadership framing and a **Start here** pick list on topic pages.
+   - Put shared books in one canonical home; other pages link via Related Topics.
+   - Check that all links work (`make check-links`) and keep British English.
+   - Keep descriptions clear and useful — warm is fine; fluff is not.
 
 ## Code of Conduct
 

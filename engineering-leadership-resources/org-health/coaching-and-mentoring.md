@@ -19,7 +19,8 @@ Michael Bungay Stanier
 Seven short questions that keep ownership with the coachee.
 
 📘 [Radical Candor](https://www.goodreads.com/book/show/29906992-radical-candor) by Kim Scott  
-Care personally, challenge directly — the feedback stance coaching needs.
+Care personally, challenge directly — the feedback stance coaching needs. Canonical listing;
+conflict and performance link here instead of re-listing.
 
 📘 [Trillion Dollar Coach](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach) by
 Eric Schmidt, Jonathan Rosenberg, and Alan Eagle  

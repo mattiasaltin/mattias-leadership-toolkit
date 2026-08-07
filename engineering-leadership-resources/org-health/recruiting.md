@@ -1,8 +1,7 @@
 # 🧲 Recruiting
 
-Effective recruiting is crucial for building strong teams. This section covers strategies for
-attracting, evaluating, and hiring talented individuals while maintaining high standards and
-promoting diversity.
+Recruiting sets the talent bar the rest of leadership has to live with. Leaders own interview
+design, signal quality, and fairness — not just “filling the req.”
 
 **Start here:** Spolsky for interview judgement, Ptacek for equitable technical loops, then
 Hiring Without Whiteboards when you want concrete alternatives to puzzle interviews. Pair with

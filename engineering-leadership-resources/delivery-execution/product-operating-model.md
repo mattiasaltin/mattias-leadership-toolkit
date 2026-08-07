@@ -1,19 +1,11 @@
 # 📋 Product Operating Model
 
-A product operating model defines how a company delivers value through its products. This
-section explores frameworks and strategies for aligning teams, processes, and technology to
-optimise product delivery.
+The operating model is the *how* of product development: team shapes, decision rights, and how
+product, design, and engineering collaborate. Strategy decides what and why; the operating model
+decides whether those choices can actually ship.
 
-**Why This Is in Engineering Leadership:** Engineering leaders need to understand product
-operating models to align technical delivery with product strategy. The operating model
-determines how engineering teams are organised, how they interact with product teams, and how
-technical work supports product goals. Understanding product operating models helps engineering
-leaders make better decisions about team structure, technical architecture, and delivery
-processes.
-
-A product operating model encompasses team structure, decision-making processes, and how
-product, engineering, and design collaborate to deliver value. It defines the "how" of product
-development, complementing product strategy's "what" and "why."
+It lives here because engineering leaders own structure and delivery systems as much as product
+leaders own problem framing. Bad topology makes even sharp strategy stall.
 
 **Start here:** Team Topologies for team interaction patterns, then Cagan's product operating
 model introduction for empowered-team framing. Use the DevOps Handbook when the constraint is
@@ -24,8 +16,7 @@ delivery system capability rather than org chart shape.
 📘 [Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies) by Matthew
 Skelton and Manuel Pais  
 A practical guide to organising teams for effective software delivery, including patterns for
-team interaction and evolution. Essential reading for understanding how team structure supports
-product delivery.
+team interaction and evolution.
 
 📄 [Team Topologies](https://teamtopologies.com/) by Matthew Skelton and Manuel Pais  
 The authors' site for team-of-teams patterns, interaction modes, and fast flow — a useful

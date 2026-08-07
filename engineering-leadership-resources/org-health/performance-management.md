@@ -4,8 +4,8 @@ Performance management is how leaders set expectations, give ongoing feedback, r
 and handle underperformance without surprises. Done well it is continuous coaching; done poorly
 it becomes annual theatre.
 
-**Start here:** Grove for managerial systems (1:1s, output through others), Radical Candor for
-continuous feedback so reviews are never the first conversation.
+**Start here:** Grove for managerial systems (1:1s, output through others), then coaching’s
+*Radical Candor* stance so reviews are never the first conversation.
 
 ## Resources
 
@@ -13,10 +13,6 @@ continuous feedback so reviews are never the first conversation.
 Andrew S. Grove  
 Still the clearest engineering-leadership classic on task-relevant maturity, one-on-ones, and
 managing output through others.
-
-📘 [Radical Candor](https://www.goodreads.com/book/show/29906992-radical-candor) by Kim Scott  
-A usable model for continuous feedback so reviews are never the first time someone hears the
-truth.
 
 📘 [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by
 Camille Fournier  
@@ -38,7 +34,8 @@ product-side OKR practice see
 
 ## Related Topics
 
-- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Day-to-day development conversations
+- [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Canonical *Radical Candor* and day-to-day
+  development conversations
 - [💬 Conflict & Difficult Conversations](conflict-and-difficult-conversations.md) - When
   performance talks get hard
 - [🧲 Recruiting](recruiting.md) - Clear bars start at hiring

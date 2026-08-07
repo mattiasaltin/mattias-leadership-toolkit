@@ -1,20 +1,19 @@
 # 🧰 Mattias Leadership Toolkit
 
-Welcome to the Mattias Leadership Toolkit. This repository is a comprehensive collection of
-resources designed to support leaders across various domains, including product and engineering.
-It aims to help you build and maintain high-performing teams, ensure technical excellence, and
-optimise delivery processes.
+A personal, curated library for engineering and product leaders — the books, talks, and articles
+I actually return to when the job gets hard. Not a wiki dump. Not every framework. Opinionated
+picks with a reading order when you are new, and sharp cross-links when you already know the map.
 
 ## 👋 Introduction
 
 Hello, I’m [Mattias](https://www.linkedin.com/in/mattiasaltin/)!
 
-With over 25 years of experience, I've had the privilege of working on innovative products that
-touch millions of lives. My passion is empowering teams to achieve their full potential by
-fostering an environment where creativity and operational excellence thrive. This toolkit
-reflects my journey and the resources that have inspired me along the way.
+Over 25 years building products that touch millions of lives taught me that leadership is less
+about collecting ideas and more about practising a few that hold under pressure. This toolkit is
+that practice shelf: organisational health, technical health, delivery, and product leadership —
+the accountabilities I believe the role actually owns.
 
-Thank you for visiting, and I hope you find these resources as valuable as I have!
+If a page has a **Start here**, begin there. The rest is depth when you need it.
 
 Warm regards,  
 Mattias Altin  
@@ -73,17 +72,14 @@ For experienced leaders seeking advanced insights:
 
 ### How to Use This Toolkit
 
-This toolkit can be used in two ways:
-
-- **Reference Guide:** Jump to specific topics as needed when facing particular challenges
-- **Sequential Learning:** Read through sections systematically to build comprehensive leadership knowledge
-
-Both approaches are valid - choose what works best for your learning style and current needs.
+- **On the job:** Jump to the topic that matches the problem in front of you
+- **Learning path:** Follow each domain’s Start Here, then browse with ⬅️/➡️
+- **Depth:** Use Related Topics and the frameworks section when you need shared vocabulary
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Purpose](#purpose)
+- [What this is](#what-this-is)
 - [Structure](#structure)
 - [Key Frameworks Referenced](#key-frameworks-referenced)
 - [How Engineering and Product Leadership Connect](#how-engineering-and-product-leadership-connect)
@@ -91,21 +87,28 @@ Both approaches are valid - choose what works best for your learning style and c
 - [Contributing](#contributing)
 - [Using the Makefile](#using-the-makefile)
 
-## Purpose
+## What this is
 
-This repository serves as a resource for leaders, offering insights, best practices, and tools
-to enhance leadership capabilities across various domains.
+A curated operating library, not a bibliography. Each topic page is meant to answer: *what should
+I read first, and why does this matter for a leader?*
+
+**Editorial rules that keep it useful:**
+
+- Prefer fewer, durable sources over trend piles
+- Put shared practice in one canonical home; other pages link instead of re-listing
+- Use British English, format icons, and consistent navigation so the shelf stays browseable
+- Treat frameworks (EMPOWERED, GROW, OKR, DORA, BICEPS) as shared vocabulary — scaffolding, not
+  scripture
 
 ## Structure
 
-This repository is organised into several key areas, each containing valuable resources and insights:
+Two domains, one toolkit:
 
-- **[🌱 Engineering Leadership Resources](engineering-leadership-resources/README.md)**: A curated
-  collection focused on organisational health, technical health, and delivery execution (plus a
-  small author-notes shelf).
-- **[🌟 Product Leadership Resources](product-leadership-resources/README.md)**: A curated
-  collection focused on product vision, strategy, discovery, principles, priorities, evangelism,
-  staffing, coaching, and objectives.
+- **[🌱 Engineering Leadership Resources](engineering-leadership-resources/README.md)** —
+  Organisational health, technical health, and delivery & execution (plus a small author-notes
+  shelf)
+- **[🌟 Product Leadership Resources](product-leadership-resources/README.md)** — Vision, strategy,
+  discovery, principles, priorities, evangelism, staffing, coaching, and objectives
 
 ## Key Frameworks Referenced
 
@@ -168,28 +171,26 @@ The BICEPS model helps leaders understand what drives team engagement and satisf
 
 ## How Engineering and Product Leadership Connect
 
-While this toolkit is organized into separate engineering and product leadership sections, these
-domains are deeply interconnected. Effective product development requires strong collaboration
-between engineering and product leaders.
+The split is for navigation, not for silos. Products ship when engineering and product leaders
+share the same operating language.
 
-**Key Connections:**
+**Where the seams matter most:**
 
-- **Product Operating Model** (in Engineering section): Engineering leaders need to understand
-  product operating models to align technical delivery with product strategy
-- **Discovery vs Delivery**: Both domains must balance discovery (learning) with delivery (building)
-- **Metrics & Measurement**: Both use metrics to understand performance, though they may focus on
-  different aspects
-- **Team Development**: Both engineering and product leaders share responsibilities for coaching,
-  staffing, and creating healthy team environments
+- **Operating model** — how teams are shaped lives under Delivery; vision and strategy live under
+  Product
+- **Discovery vs delivery** — methods on the product side; capacity and dual-track conditions on
+  the engineering side
+- **Metrics** — DORA/flow for delivery systems; OKRs for outcome alignment
+- **People systems** — coaching and recruiting are shared craft with one canonical home each
 
-**Cross-References:**
+**Jump points:**
 
-- Engineering leaders working on product delivery should explore [Product Strategy](product-leadership-resources/product-strategy.md)
-  and [Product Vision](product-leadership-resources/product-vision.md)
-- Product leaders working with engineering teams should understand [Technical Excellence](engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md)
+- Engineering → [Product Strategy](product-leadership-resources/product-strategy.md) and
+  [Product Vision](product-leadership-resources/product-vision.md)
+- Product → [Technical Excellence](engineering-leadership-resources/delivery-execution/technical-excellence-in-delivery.md)
   and [Flow Efficiency](engineering-leadership-resources/delivery-execution/flow-efficiency.md)
-- Both domains share resources on [Coaching](engineering-leadership-resources/org-health/coaching-and-mentoring.md)
-  and [Staffing/Recruiting](engineering-leadership-resources/org-health/recruiting.md)
+- Shared → [Coaching](engineering-leadership-resources/org-health/coaching-and-mentoring.md) and
+  [Recruiting](engineering-leadership-resources/org-health/recruiting.md)
 
 ## License
 
