@@ -29,4 +29,4 @@ Browse order matches the Start Here path in the engineering README:
 - [🧰 Toolkit](../../README.md)
 - [⚙️ Technical Health](../tech-health/README.md)
 - [🚀 Delivery & Execution](../delivery-execution/README.md)
-- [📦 Other](../other/README.md)
+- [📦 Author notes](../other/README.md)

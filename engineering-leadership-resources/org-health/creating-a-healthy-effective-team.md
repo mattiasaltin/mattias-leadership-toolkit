@@ -1,72 +1,46 @@
 # 🤝 Creating a Healthy/Effective Team
 
-High-performing teams are built on trust, alignment, and shared goals. This section provides
-frameworks and strategies to nurture effective team dynamics and guide groups from forming to
-excelling.
+Healthy teams need trust, clear goals, and a path through conflict into high performance.
+Leaders guide group development — they do not assume “forming” magically becomes “performing.”
 
-📘 [Creating Effective Teams: A Guide for Members and
-Leaders](https://www.goodreads.com/book/show/1342288.Creating_Effective_Teams) by Susan Wheelan  
-A must-read book offering frameworks and insights into forming and leading high-performing teams.
-Wheelan provides step-by-step guidance to help teams move from forming to performing.
+**Start here:** Lencioni for failure modes, Tuckman/Wheelan for development stages, Google /
+Dan North for what effective teams look like in practice. Deeper safety work lives on
+[🛡️ Psychological Safety](psychological-safety.md).
 
-🎥 [Act Your Way to New Thinking](https://www.youtube.com/watch?v=4R3dgtORjjQ) by David Marquet  
-This talk explores how behavioural shifts, not just thought changes, drive impactful leadership
-and teamwork. Marquet demonstrates how small actions can empower teams to think and act more
-effectively.
-
-📘 [Forming, Storming, Norming, and Performing: Understanding the Stages of Team Formation](https://www.mindtools.com/abyj5fi/forming-storming-norming-and-performing)
-by Mind Tools  
-An accessible explanation of Tuckman's team development model. Tuckman's model describes four stages of team development:
-
-- **Forming** (initial orientation)
-- **Storming** (conflict and competition)
-- **Norming** (cohesion and cooperation)
-- **Performing** (high productivity)
-
-It provides practical tips for leaders to guide teams through the various stages of growth.
-
-📄 [Chunking Up vs Chunking Down vs Chunking
-Across](https://excellenceassured.com/nlp-training/nlp-training-courses-online/how-can-nlp-help-me/chunking-chunking-chunking-across)
-by Excellence Assured  
-An article discussing how breaking down or scaling up tasks and communication helps teams align
-better and work more cohesively.
-
-🎥 [Secrets of Successful Teamwork: Insights From
-Google](https://www.youtube.com/watch?v=hHIikHJV9fI) by Coding Tech  
-A talk discussing Google's research into the factors that make teams successful, with
-psychological safety and clear goals emerging as key drivers.
-
-🎥 [IMDG faser i grupputveckling, Wheelan och effektiva
-team](https://www.youtube.com/watch?v=Nz46Ulp3tq0) by Organisation och Ledarskap Astrakan
-(Swedish)  
-A detailed exploration of Wheelan's Integrative Model of Group Development (IMGD), presented
-for Swedish-speaking audiences. The IMGD model describes five stages:
-
-- **Dependency and Inclusion** (Stage 1)
-- **Counterdependency and Fight** (Stage 2)
-- **Trust and Structure** (Stage 3)
-- **Work** (Stage 4)
-- **Termination** (Stage 5).
-
-🎥 [Integrative Model of Group Development (IMGD)
-eng](https://www.youtube.com/watch?v=m442VHaJsL0) by Teamr Sweden  
-A breakdown of how teams evolve through distinct phases, with actionable advice on supporting
-team progression.
-The IMGD model provides a framework for understanding team development beyond Tuckman's model,
-focusing on the psychological and structural aspects of group formation.
+## Resources
 
 📘 [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 by Patrick Lencioni  
-A leadership classic exploring common barriers to team success and offering strategies to build
-trust, manage conflict, and achieve collective results.
+Trust, conflict, commitment, accountability, results — a durable diagnosis of why teams stall.
+
+📘 [Creating Effective Teams](https://www.goodreads.com/book/show/1342288.Creating_Effective_Teams)
+by Susan Wheelan  
+Frameworks for moving groups from forming to performing (IMGD / group development).
+
+📄 [Forming, Storming, Norming, and Performing](https://www.mindtools.com/abyj5fi/forming-storming-norming-and-performing)
+by Mind Tools  
+Accessible Tuckman stages with practical leadership tips for each phase.
 
 🎥 [Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) by Dan North  
-North reveals the secrets behind the world's most effective teams, including adopting smart
-practices, fostering strong team dynamics, and delivering rapid outcomes.
+Practices and dynamics behind teams that deliver repeatedly.
 
 🎥 [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)  
-A deep dive into Google's Project Aristotle, highlighting the attributes that drive team success,
-including clarity of purpose and psychological safety.
+Project Aristotle highlights: psychological safety and clarity as core attributes of effective
+teams.
+
+🎥 [Secrets of Successful Teamwork: Insights From Google](https://www.youtube.com/watch?v=hHIikHJV9fI)
+Coding Tech summary of Google’s teamwork research for a shorter overview.
+
+🎥 [Integrative Model of Group Development (IMGD)](https://www.youtube.com/watch?v=m442VHaJsL0)
+by Teamr Sweden  
+Wheelan/IMGD stages in English — useful if you prefer video over the book.
+
+🎥 [IMGD faser i grupputveckling](https://www.youtube.com/watch?v=Nz46Ulp3tq0) by Astrakan
+(Swedish)  
+IMGD for Swedish-speaking audiences.
+
+🎥 [Act Your Way to New Thinking](https://www.youtube.com/watch?v=4R3dgtORjjQ) by David Marquet  
+Behavioural shifts that change how teams think and work together.
 
 ## Related Topics
 
@@ -74,6 +48,8 @@ including clarity of purpose and psychological safety.
   effectiveness
 - [🎯 Coaching & Mentoring](coaching-and-mentoring.md) - Coaching develops individuals and teams
 - [🧲 Recruiting](recruiting.md) - Team composition starts with hiring
+- [💬 Conflict & Difficult Conversations](conflict-and-difficult-conversations.md) - Storming needs
+  skill, not suppression
 
 ## 🧭 Navigation
 

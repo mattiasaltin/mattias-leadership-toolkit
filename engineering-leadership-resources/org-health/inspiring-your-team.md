@@ -1,75 +1,44 @@
 # ⭐ Inspiring Your Team
 
-Inspiring leadership involves connecting with your team's intrinsic motivation, fostering a
-shared vision, and driving engagement. These resources help leaders cultivate passion and purpose
-within their teams.
+Inspiration is connecting work to purpose and intrinsic motivation — not pep talks. Autonomy,
+mastery, and meaning outperform fluff; vision without autonomy rarely sticks.
 
-📘 [Start with Why: How Great Leaders Inspire Everyone to Take
-Action](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek  
-This book explores the importance of identifying and articulating a clear purpose ("why") to
-inspire teams and drive meaningful action. Sinek argues that successful leaders and organisations
-focus on their core beliefs to inspire loyalty and motivation.
+**Start here:** Dan Pink (*Drive* / TED) for motivation science, Sinek’s TED for purpose
+language, *Multipliers* for how leaders amplify (or shrink) team capability.
 
-🎥 [How great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
-by Simon Sinek  
-This TED Talk distils the key ideas of Sinek's book and provides a compelling introduction to the
-power of purpose-driven leadership. It's an excellent resource for leaders looking to inspire
-their teams.
+## Resources
 
 🎥 [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y) by Dan Pink  
-Dan Pink explains why traditional rewards and punishments often fail to motivate teams and how
-autonomy, mastery, and purpose are the real drivers of engagement and inspiration.
+Why carrot-and-stick fails for knowledge work — autonomy, mastery, and purpose as the real
+drivers.
 
-📘 [Drive: The Surprising Truth About What Motivates
-Us](https://www.goodreads.com/book/show/6452796-drive) by Dan Pink  
-This book builds on Pink's TED Talk, offering research-based insights into what motivates
-individuals. It provides practical strategies for leaders to foster environments where people
-feel engaged and inspired.
+📘 [Drive](https://www.goodreads.com/book/show/6452796-drive) by Dan Pink  
+Research-backed follow-through on the TED talk: how leaders design environments for engagement.
 
-🎥 [First Follower: Leadership Lessons from the Dancing Guy](https://youtu.be/fW8amMCVAJQ) by
-Derek Sivers  
-A short yet powerful video showing how leadership is about inspiring others to join in. It
-emphasises the importance of the first followers in building momentum and driving team
-inspiration.
+🎥 [How great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA) by Simon Sinek  
+Purpose-driven leadership (“start with why”) as a memorable framing for shared direction.
 
-📘 [Multipliers: How the Best Leaders Make Everyone
-Smarter](https://www.goodreads.com/book/show/8310410-multipliers) by Liz Wiseman  
-This book contrasts "multipliers," leaders who amplify the intelligence and capabilities of
-their teams, with "diminishers," who stifle growth. It offers actionable advice for leaders
-aiming to inspire and elevate their teams.
+📘 [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek  
+Book-length treatment of purpose as the organising principle for loyalty and motivation.
 
-🎥 [Start with why -- how great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
-by Simon Sinek  
-Sinek elaborates on his "golden circle" concept, showing how starting with "why" enables
-leaders to connect deeply with their teams and foster intrinsic motivation.
+📘 [Multipliers](https://www.goodreads.com/book/show/8310410-multipliers) by Liz Wiseman  
+How the best leaders amplify intelligence and capability — and how diminishers suppress it.
 
-📘 [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/book/show/27213329-grit)
-by Angela Duckworth  
-Duckworth explores the role of grit in achieving success and how leaders can inspire
-perseverance and passion in their teams by setting challenging but meaningful goals.
+🎥 [First Follower: Leadership Lessons from the Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
+by Derek Sivers  
+Leadership as creating space for the first followers — momentum is social, not solitary.
 
-📄 [How to Help Your Team Find Their Higher Purpose](https://hbr.org/2018/07/creating-a-purpose-driven-organization)
+🎥 [What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) by Dan
+Ariely  
+Meaning, recognition, and progress as motivational fuel.
+
+📄 [Creating a Purpose-Driven Organization](https://hbr.org/2018/07/creating-a-purpose-driven-organization)
 by Harvard Business Review  
-This article provides practical advice for leaders on connecting organisational goals with
-personal purpose to inspire teams effectively.
+Practical advice for connecting organisational goals with personal purpose.
 
-🎥 [What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho)
-by Dan Ariely  
-Dan Ariely explains the psychology of motivation and how leaders can inspire their teams by
-fostering meaning and purpose in their work.
-
-🎥 [How Great Leaders Inspire Action](https://www.youtube.com/watch?v=qp0HIF3SfI4) by Simon Sinek  
-Sinek explains the emotional and psychological elements that make inspiring leaders stand out
-and how they achieve long-lasting influence.
-
-📘 [Primal Leadership: Realizing the Power of Emotional
-Intelligence](https://www.goodreads.com/book/show/373795.Primal_Leadership) by Daniel Goleman  
-This book explores how emotional intelligence plays a central role in inspiring and leading
-teams, providing tools for leaders to cultivate resonant leadership styles.
-
-🎥 [Inspiring Brilliant Action](https://www.youtube.com/watch?v=dAmPxR4pcHg) by Simon T. Bailey  
-Bailey explores how passion and authenticity inspire teams to innovate and take meaningful
-actions aligned with organisational goals.
+📘 [Primal Leadership](https://www.goodreads.com/book/show/373795.Primal_Leadership) by Daniel
+Goleman  
+Emotional intelligence as the medium of resonant, inspiring leadership.
 
 ## Related Topics
 
@@ -77,6 +46,8 @@ actions aligned with organisational goals.
 - [🛡️ Psychological Safety](psychological-safety.md) - People take risks when they feel safe
 - [🌟 Product Vision](../../product-leadership-resources/product-vision.md) - A clear vision helps
   teams find purpose
+- [📣 Product Evangelism](../../product-leadership-resources/product-evangelism.md) - Storytelling
+  craft for purpose at scale
 
 ## 🧭 Navigation
 

@@ -1,61 +1,60 @@
 # 🌈 DEI (Diversity, Equity, and Inclusion)
 
-Diversity, equity, and inclusion are essential for creating workplaces where everyone feels
-valued and empowered to contribute. This section provides resources to foster belonging, address
-bias, and build more inclusive cultures.
+DEI is day-to-day leadership work: fair work assignment, interrupting bias in evaluation, and
+building belonging so talent can contribute. Treat inspiration talks as secondary to tools
+managers can use this week.
+
+**Start here:** Bias Interrupters + fair work assignment (HBR), Project Include for tech-specific
+practice, Adichie when the team needs a shared language for stereotype risk.
+
+## Resources
+
+📄 [Bias Interrupters: Tools for Individuals](https://biasinterrupters.org/individualtools/)  
+Practical checklists to spot and interrupt bias in everyday work — aimed at managers and ICs.
 
 📄 [For Women and Minorities to Get Ahead, Managers Must Assign Work
 Fairly](https://hbr.org/2018/03/for-women-and-minorities-to-get-ahead-managers-must-assign-work-fairly)
 by Joan C. Williams and Marina Multhaup  
-An article explaining how unfair distribution of work impacts career advancement for women and
-minorities. It provides practical tips for managers to create equitable opportunities.
+How unfair work distribution blocks careers — and what managers can change immediately.
 
-📄 [Bias Interrupters: Tools for Individuals](https://biasinterrupters.org/toolkits/individualtools/)  
-A collection of practical tools and strategies to identify and mitigate bias in the workplace,
-aimed at individuals and organisations.
-
-📄 [Stop Telling Women They Have Imposter
-Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by Ruchika
+📄 [Stop Telling Women They Have Impostor
+Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-impostor-syndrome) by Ruchika
 Tulshyan and Jodi-Ann Burey  
-This article critiques the concept of "imposter syndrome" and offers a broader perspective on
-how to create inclusive cultures that support women and minorities.
+Reframes “impostor syndrome” as a systems problem; focus on inclusive cultures, not fixing
+individuals.
 
 📄 [Bias Interrupters: Tools for
-Tech](https://worklifelaw.org/wp-content/uploads/2022/04/Pinning-Down-the-Jellyfish-Tools-for-Tech.pdf)  
-Empower people involved in the evaluation process to spot and interrupt bias by using the
-Identifying Bias in Performance Evaluations Worksheet.
-
-🎥 [Understanding Unconscious Bias](https://www.youtube.com/watch?v=NW5s_-Nl3JE) by Google  
-An engaging video from Google exploring the concept of unconscious bias and its impact on
-workplace dynamics, with actionable strategies for overcoming it.
-
-🎥 [How Diversity Makes Teams Smarter](https://www.youtube.com/watch?v=1JdDPYFPwUo) by Katherine W. Phillips  
-Phillips explains how diverse teams perform better by bringing different perspectives, fostering
-innovation, and challenging assumptions.
-
-🎥 [The Danger of a Single Story](https://www.youtube.com/watch?v=D9Ihs241zeg)
-by Chimamanda Ngozi Adichie  
-Adichie shares how stereotypes arise from hearing a "single story" about people or cultures, and
-how this impacts our understanding and interactions in diverse workplaces.
+Tech](https://worklifelaw.org/wp-content/uploads/2022/04/Pinning-Down-the-Jellyfish-Tools-for-Tech.pdf)
+WorkLife Law  
+Bias interrupters tuned for tech evaluation and performance processes.
 
 📄 [Project Include](https://projectinclude.org/)  
-A comprehensive resource hub for building more inclusive tech cultures, offering tools and
-strategies for addressing bias and fostering belonging.
+Resource hub for inclusive tech cultures — tools and strategies beyond one-off training.
 
-🎥 [What Does My Headscarf Mean to You?](https://www.youtube.com/watch?v=18zvlz5CxPE)
-by Yassmin Abdel-Magied  
-Abdel-Magied discusses her experiences with unconscious bias and challenges stereotypes, urging
-us to embrace diversity and question our assumptions.
+🎥 [Understanding Unconscious Bias](https://www.youtube.com/watch?v=NW5s_-Nl3JE) by Google  
+Accessible introduction to unconscious bias and workplace impact.
+
+🎥 [How Diversity Makes Teams Smarter](https://www.youtube.com/watch?v=1JdDPYFPwUo) by Katherine
+W. Phillips  
+Why diverse teams outperform when inclusion makes different perspectives usable.
+
+🎥 [The Danger of a Single Story](https://www.youtube.com/watch?v=D9Ihs241zeg) by Chimamanda Ngozi
+Adichie  
+How stereotypes form from incomplete stories — shared language for diverse workplaces.
+
+🎥 [What Does My Headscarf Mean to You?](https://www.youtube.com/watch?v=18zvlz5CxPE) by Yassmin
+Abdel-Magied  
+Unconscious bias, mentoring choices, and looking past first impressions.
 
 📘 [How to Be an Inclusive Leader](https://www.goodreads.com/book/show/41802816-how-to-be-an-inclusive-leader)
 by Jennifer Brown  
-This practical guide provides a step-by-step framework for becoming an inclusive leader,
-fostering belonging, and driving meaningful change in teams and organisations.
+A step-by-step framework for inclusive leadership and belonging.
 
 ## Related Topics
 
 - [🧲 Recruiting](recruiting.md) - Inclusive hiring practices reduce bias
 - [🛡️ Psychological Safety](psychological-safety.md) - Inclusion and safety reinforce each other
+- [📋 Performance Management](performance-management.md) - Evaluation is where bias often bites
 - [🤝 Creating a Healthy/Effective Team](creating-a-healthy-effective-team.md) - Healthy teams make
   space for diverse voices
 
