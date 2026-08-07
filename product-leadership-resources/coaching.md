@@ -6,6 +6,10 @@ Coaching is a core EMPOWERED management accountability: product leaders develop 
 and technologists so empowered teams can succeed. Competency gaps are often a management
 failure, not an individual one.
 
+**Start here:** *The Coaching Mindset* and *Product Management Theater* for diagnosis; EMPOWERED
+as the spine for what great PMs must learn. Discovery habits to coach live on
+[🔍 Product Discovery](product-discovery.md) — do not duplicate them here.
+
 ## Foundational coaching skills
 
 Shared practice (GROW, listening, Radical Candor, Coaching Habit) lives here so both domains

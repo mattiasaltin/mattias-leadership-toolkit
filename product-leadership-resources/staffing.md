@@ -1,49 +1,45 @@
 # 🧠 Staffing
 
-> "It doesn't make sense to hire smart people and then tell them what to do. We hire smart
-> people so they can tell us what to do." ― Steve Jobs
+Staffing for product leadership means building empowered product trios (PM, design, engineering)
+who can discover and deliver outcomes — not cloning a generic engineering interview loop.
 
-Staffing for product leadership is about building empowered, cross-functional product teams —
-not running a generic engineering interview loop. Product leaders own sourcing and selecting
-product managers, designers, and complementary skills so each team can discover and deliver
-outcomes. For interview craft, structured loops, and engineering-hiring technique, lean on
+For interview craft, structured loops, and shared hiring technique, use
 [🧲 Recruiting](../engineering-leadership-resources/org-health/recruiting.md).
+
+**Start here:** SVPG *Recruiting Product Managers* for role-specific bars, Team Topologies when
+the real problem is team design, Gayle Laakmann McDowell’s PM interview books for candidate
+assessment craft.
 
 ## Resources
 
-📘 [EMPOWERED: Ordinary People, Extraordinary
-Products](https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/) by Marty
-Cagan  
-The staffing and coaching chapters frame product leadership as building competent, empowered
-teams — the accountability that makes the product operating model work.
-
-📘 [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
-by Marty Cagan  
-Strong framing for what great product managers look like and why staffing product teams is a
-leadership job, not an HR hand-off.
-
 📄 [Recruiting Product Managers](https://www.svpg.com/recruiting-product-managers/) by Marty Cagan  
-Traits and skills to hire for in product managers, including why many of the best candidates are
-already inside the organisation under different titles.
-
-📄 [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/) by Marty Cagan  
-What managers responsible for product teams must own: sourcing, recruiting, onboarding, and
-coaching the product trio to competence — without which empowerment is theatre.
+Traits and skills to hire for — including why many of the best candidates are already inside the
+organisation under different titles.
 
 📄 [Roles and Ratios](https://www.svpg.com/roles-and-ratios/) by Marty Cagan  
-Practical guidance on product-manager-to-engineer ratios, where product management should sit,
-and how design capacity should scale with product teams.
+PM-to-engineer ratios, where product management should sit, and how design capacity should scale.
 
-📘 [Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies) by Matthew
-Skelton and Manuel Pais  
-Useful when staffing decisions are really team-design decisions: stream-aligned teams, platforms,
-and interaction modes that keep product delivery flowing.
+📄 [Team Topologies (book)](https://teamtopologies.com/book) by Matthew Skelton and Manuel Pais  
+Stream-aligned, platform, enabling, and complicated-subsystem teams — staffing decisions are often
+team-topology decisions.
+
+📄 [Books — Gayle Laakmann McDowell](https://www.gayle.com/books)  
+*Cracking the PM Interview* and related titles for structured PM assessment (complement, don’t
+replace, role-specific product judgement).
+
+📘 [EMPOWERED](https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/) by
+Marty Cagan  
+Staffing and coaching chapters of the EMPOWERED spine — building competent, empowered teams. See
+[Key Frameworks Referenced](../README.md#key-frameworks-referenced); coaching detail lives on
+[🎓 Coaching](coaching.md).
 
 ## Related Topics
 
-- [🧲 Recruiting](../engineering-leadership-resources/org-health/recruiting.md) - Interview craft,
-  structured hiring, and shared fundamentals (use this instead of duplicating eng recruiting lists)
+- [🧲 Recruiting](../engineering-leadership-resources/org-health/recruiting.md) - Interview craft and
+  structured hiring
 - [🎓 Coaching](coaching.md) - Staffing is incomplete without developing people
+- [📋 Product Operating Model](../engineering-leadership-resources/delivery-execution/product-operating-model.md) -
+  Empowered teams require the right operating model
 - [🌈 DEI](../engineering-leadership-resources/org-health/dei.md) - Inclusive hiring strengthens
   teams
 

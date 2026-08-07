@@ -3,6 +3,10 @@
 Discovery is how product teams reduce the risk of building the wrong thing. It is continuous
 learning with customers — not a phase that finishes before delivery starts.
 
+**Start here:** Torres (*Continuous Discovery Habits* + OST), then dual-track for how discovery
+runs with delivery. Engineering operating constraints live on
+[⚖️ Balancing Delivery vs Discovery](../engineering-leadership-resources/delivery-execution/balancing-delivery-vs-discovery.md).
+
 📘 [Continuous Discovery Habits: Discover Products that Create Customer Value and Business
 Value](https://www.goodreads.com/book/show/58033215-continuous-discovery-habits) by Teresa Torres  
 The modern default for continuous discovery: opportunity solution trees, weekly interviews, and
