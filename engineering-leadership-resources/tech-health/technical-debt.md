@@ -1,28 +1,48 @@
 # 💸 Technical Debt
 
-Technical debt refers to the cost of maintaining and improving software systems due to
-shortcuts taken during development. This section explores strategies for managing and reducing
-technical debt.
+Technical debt is the deferred cost of design and implementation choices. Leaders make that cost
+visible, negotiate when to take it on, and prioritise repayment where change actually hurts —
+not where the codebase merely looks ugly.
+
+**Start here:** Fowler’s debt metaphor/quadrant for shared language, then Tornhill for
+data-driven prioritisation when “everything is debt” freezes the roadmap.
+
+## Resources
+
+📄 [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html) by Martin Fowler  
+The original metaphor used carefully: debt can be strategic, but interest compounds when teams
+cannot see or pay it down.
+
+📄 [Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html) by Martin
+Fowler  
+Reckless vs prudent, deliberate vs inadvertent — a simple grid for leadership conversations about
+*why* debt exists.
 
 📘 [Managing Technical Debt](https://www.goodreads.com/book/show/42778944-managing-technical-debt)
 by Philippe Kruchten, Robert Nord, and Ipek Ozkaya  
-A comprehensive guide to identifying, measuring, and managing technical debt in software systems.
+A structured guide to identifying, measuring, and managing technical debt as an organisational
+concern, not only an engineering complaint.
 
-🎥 [Types Of Technical Debt And How To Manage Them](https://youtu.be/1MBpK_PxEnU?si=i269phbhN-dQROM-) by Dave Farley  
-Dave explains how to think about technical debt from a business perspective and make informed
-decisions about when to take it on or pay it off.
-
-📄 [Technical Debt: From Metaphor to Theory and Practice](https://insights.sei.cmu.edu/library/technical-debt-from-metaphor-to-theory-and-practice/)
+📄 [Technical Debt: From Metaphor to Theory and
+Practice](https://www.sei.cmu.edu/library/technical-debt-from-metaphor-to-theory-and-practice/)
 by SEI  
-A detailed exploration of technical debt, including its origins, impact, and management strategies.
+Research-backed framing of debt’s origins, impact, and management strategies.
 
-🎥 [Your Technical Debt is Coming Due](https://www.youtube.com/watch?v=jXpJVsv3Iec) by Adam Tornhill  
-Tornhill discusses how to identify and prioritise technical debt using data-driven approaches.
+🎥 [Types Of Technical Debt And How To Manage Them](https://www.youtube.com/watch?v=1MBpK_PxEnU)
+by Dave Farley  
+Business-facing language for when taking debt is rational — and when “we’ll clean it later”
+never arrives.
+
+🎥 [A Crystal Ball to Prioritize Technical Debt • Adam Tornhill • GOTO
+2017](https://www.youtube.com/watch?v=SdUewLCHWvU) by Adam Tornhill  
+Hotspot analysis from version-control behaviour: prioritise the small fraction of code that
+absorbs most change and risk.
 
 ## Related Topics
 
 - [🏗️ Architecture](architecture.md) - Architecture decisions shape long-term debt
-- [✅ Testing](testing.md) - Testing reduces the cost of carrying and paying down debt
+- [✅ Testing](testing.md) - Tests reduce the cost of carrying and paying down debt
+- [📊 KPIs](kpis.md) - Measure impact of repayment, not vanity cleanup counts
 - [💫 Technical Excellence in Delivery](../delivery-execution/technical-excellence-in-delivery.md) -
   Excellence practices prevent debt accumulation
 

@@ -1,17 +1,20 @@
 # ⚙️ Technical Health
 
-Technical health is fundamental to sustainable engineering organisations. This section focuses
-on maintaining and improving the technical foundation of your products and systems, ensuring
-they remain maintainable, scalable, and secure over time.
+Technical health is the foundation that lets teams ship without accumulating unpayable cost.
+Leaders own architecture decisions, debt trade-offs, test strategy, platforms, security, and the
+KPIs that show whether those choices are working.
+
+Browse order (⬅️/➡️ on topic pages): Architecture → KPIs → Technical Debt → Testing →
+Infrastructure → Security.
 
 ## 📑 Sections
 
-- 🏗️ [Architecture](architecture.md) | Patterns and practices for scalable systems
-- 📊 [KPIs](kpis.md) | Measuring technical performance
-- 💸 [Technical Debt](technical-debt.md) | Managing and addressing tech debt
-- ✅ [Testing](testing.md) | Testing strategies and practices
-- 🔧 [Infrastructure](infrastructure.md) | Cloud and platform management
-- 🔒 [Security](security.md) | Security principles and practices
+- 🏗️ [Architecture](architecture.md) | Structure that can evolve without constant rewrites
+- 📊 [KPIs](kpis.md) | Technical metrics that drive learning, not theatre
+- 💸 [Technical Debt](technical-debt.md) | Making debt visible, prioritised, and negotiable
+- ✅ [Testing](testing.md) | Confidence to change systems safely
+- 🔧 [Infrastructure](infrastructure.md) | Platforms, reliability, and cloud operating models
+- 🔒 [Security](security.md) | Secure-by-design as normal delivery work
 
 ## 🧭 Navigation
 
@@ -19,4 +22,4 @@ they remain maintainable, scalable, and secure over time.
 - [🧰 Toolkit](../../README.md)
 - [🧠 Organisational Health](../org-health/README.md)
 - 🚀 [Delivery & Execution](../delivery-execution/README.md)
-- 📦 [Other](../other/README.md)
+- 📦 [Author notes](../other/README.md)
