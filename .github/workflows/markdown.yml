@@ -44,6 +44,16 @@ jobs:
           file-extension: '.md'
           check-modified-files-only: 'no'
 
+  citation-check:
+    name: Citation Soft-404 Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check citation hosts and YouTube oEmbed
+        run: python3 tools/check_citations.py
+
   docs-build:
     name: MkDocs Build
     runs-on: ubuntu-latest

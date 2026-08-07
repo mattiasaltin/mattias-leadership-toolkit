@@ -8,7 +8,8 @@ This is a **content repository**, not a software project. It is a curated collec
 resources written in Markdown. The "product" is the Markdown itself. Helper tooling:
 
 - `tools/url_checker.py` — Streamlit UI for validating links
-- `tools/check_nav.py` — indexes and prev/next chain consistency
+- `tools/check_nav.py` — indexes, prev/next chains, and `mkdocs.yml` coverage
+- `tools/check_citations.py` — soft-404 / YouTube oEmbed checks on citation hosts
 - MkDocs Material (`mkdocs.yml`; `docs/` via `tools/prepare_docs.sh`) — GitHub Pages
 
 Because the deliverable is prose, the meaningful quality gates are Markdown linting, navigation
@@ -36,9 +37,10 @@ All common tasks go through the `Makefile`:
 - `make setup` — create `.venv` and install `requirements.txt`
 - `make run` — launch the URL checker UI: `streamlit run tools/url_checker.py`
 - `make lint-markdown` / `make lint-markdown-fix` — run `markdownlint-cli` (auto-fix variant)
-- `make check-nav` — indexes, prev/next chains, and `mkdocs.yml` coverage (`tools/check_nav.py`)
+- `make check-nav` — indexes, prev/next chains, and `mkdocs.yml` coverage
 - `make check-links` — fail-closed `markdown-link-check` on every `.md`
-- `make check-all` — lint + nav + link-check
+- `make check-citations` — soft-404 title/final-URL checks on curated hosts + YouTube
+- `make check-all` — lint + nav + links + citations
 - `make docs-setup` / `make docs-serve` / `make docs-build` — MkDocs Material site
 - `make pre-commit` — run all pre-commit hooks on all files
 - `make freeze` — regenerate `requirements.txt` (direct tool deps only)

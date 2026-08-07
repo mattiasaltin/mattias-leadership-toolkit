@@ -35,11 +35,13 @@ When you add, rename, or remove a topic `.md` file, update all of the following:
 4. Neighbouring prev/next links so the browse chain stays consistent
 5. Related Topics on closely related pages (prefer a real cross-link over duplication)
 6. `mkdocs.yml` nav entry (published site sidebar)
-7. `make check-all` passes locally (lint + nav + links); `make docs-build` for site changes
+7. `make check-all` passes locally (lint + nav + links + citations); `make docs-build` for site
+   changes
 
 Do **not** invent placeholder URLs. Prefer durable sources (books, primary research, canonical
 articles) over ephemeral webinars when both exist. After changing a URL, confirm the final page
-title matches the citation (HTTP 200 alone is not enough — SVPG/ThoughtWorks often soft-404).
+title matches the citation (HTTP 200 alone is not enough — `make check-citations` catches common
+soft-404 hosts).
 
 ## Deduplication
 

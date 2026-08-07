@@ -38,9 +38,10 @@ see the [Key Frameworks Referenced](../../README.md#key-frameworks-referenced) s
 This talk explores what autonomy means in practice. Janlén explains how empowerment works when
 individuals align their actions with shared goals and mutual accountability.
 
-🎥 [Creativity in Management](https://www.youtube.com/watch?v=Pb5oIIPO62g) by John Cleese  
-Cleese highlights the role of empowerment in fostering creativity. He explains how leaders can
-create the right conditions—space, time, and confidence—for teams to excel.
+📄 [Creativity in Management](https://jamesclear.com/great-speeches/creativity-in-management-by-john-cleese)
+by John Cleese (via James Clear)  
+Cleese on creativity as a way of operating: space, time, confidence, and humour — conditions
+leaders create so teams can do open-mode work.
 
 📄 [Great Developers Are Raised, Not Hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
 by Eduards Sizovs  

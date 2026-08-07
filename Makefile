@@ -71,8 +71,12 @@ check-links:
 check-nav:
 	python3 tools/check_nav.py
 
+.PHONY: check-citations
+check-citations:
+	python3 tools/check_citations.py
+
 .PHONY: check-all
-check-all: lint-markdown check-nav check-links
+check-all: lint-markdown check-nav check-links check-citations
 
 .PHONY: docs-setup
 docs-setup: $(VENV_DIR)/bin/activate
@@ -108,8 +112,9 @@ help:
 	@echo "  make lint-markdown     - Lint all markdown files"
 	@echo "  make lint-markdown-fix - Lint and auto-fix markdown files"
 	@echo "  make check-links       - Check all links in markdown files"
-	@echo "  make check-nav         - Check indexes and prev/next chains"
-	@echo "  make check-all         - Lint + nav + link checks"
+	@echo "  make check-nav         - Check indexes, prev/next, and mkdocs.yml"
+	@echo "  make check-citations   - Soft-404 / YouTube checks on citation hosts"
+	@echo "  make check-all         - Lint + nav + links + citations"
 	@echo ""
 	@echo "Docs site:"
 	@echo "  make docs-serve        - Serve MkDocs Material locally"

@@ -81,14 +81,14 @@ follows the full browse order in that section's topic pages.
 
 ## 📚 Core Areas
 
-- 🧠 [Organisational Health](org-health/) | Building and nurturing high-performing teams
-- ⚙️ [Technical Health](tech-health/) | Ensuring sustainable technical excellence
-- 🚀 [Delivery & Execution](delivery-execution/) | Optimising for value delivery
-- 📦 [Author notes](other/) | Mattias-authored notes outside the three areas
+- 🧠 [Organisational Health](org-health/README.md) | Building and nurturing high-performing teams
+- ⚙️ [Technical Health](tech-health/README.md) | Ensuring sustainable technical excellence
+- 🚀 [Delivery & Execution](delivery-execution/README.md) | Optimising for value delivery
+- 📦 [Author notes](other/README.md) | Mattias-authored notes outside the three areas
 
 ## 🗺️ Quick Navigation
 
-### [🧠 Organisational Health](org-health/)
+### [🧠 Organisational Health](org-health/README.md)
 
 - 📚 [General Leadership](org-health/general-leadership.md)
 - 🛡️ [Psychological Safety](org-health/psychological-safety.md)
@@ -102,7 +102,7 @@ follows the full browse order in that section's topic pages.
 - 📋 [Performance Management](org-health/performance-management.md)
 - 🇸🇪 [Swedish Employment Law](org-health/swedish-employment-law.md)
 
-### [⚙️ Technical Health](tech-health/)
+### [⚙️ Technical Health](tech-health/README.md)
 
 - 🏗️ [Architecture](tech-health/architecture.md)
 - 📊 [KPIs](tech-health/kpis.md)
@@ -111,7 +111,7 @@ follows the full browse order in that section's topic pages.
 - 🔧 [Infrastructure](tech-health/infrastructure.md)
 - 🔒 [Security](tech-health/security.md)
 
-### [🚀 Delivery & Execution](delivery-execution/)
+### [🚀 Delivery & Execution](delivery-execution/README.md)
 
 - 📋 [Product Operating Model](delivery-execution/product-operating-model.md)
 - 📈 [Metrics and Measurement](delivery-execution/metrics-and-measurement.md)
@@ -122,10 +122,10 @@ follows the full browse order in that section's topic pages.
 - 🤖 [AI Assistance](delivery-execution/ai-assistance.md)
 - 🤸 [Agile Practices](delivery-execution/agile-practices.md)
 
-### [📦 Author notes](other/)
+### [📦 Author notes](other/README.md)
 
-- 📄 [How Aspiring Change Agents Can Thrive](other/README.md)
-- 📄 [EU Data Act / DSA overviews](other/README.md)
+Short shelf of Mattias-authored pieces (not a fourth accountability area). See
+[Author notes](other/README.md).
 
 ## 🤝 Contributing
 

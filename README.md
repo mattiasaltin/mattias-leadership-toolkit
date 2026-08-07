@@ -25,29 +25,34 @@ This toolkit is designed to support leaders at different stages of their journey
 
 ### I'm a New Engineering Manager
 
-If you're new to engineering management, start with:
+If you're new to engineering management, start with the
+[Engineering Leadership Start Here](engineering-leadership-resources/README.md#start-here-for-new-engineering-managers)
+path (same as ⬅️/➡️ browse order in each section):
 
-1. **[Engineering Leadership Resources](engineering-leadership-resources/)** - Begin with the
-   [README](engineering-leadership-resources/README.md) for an overview
-2. **Essential Topics:**
-   - [General Leadership](engineering-leadership-resources/org-health/general-leadership.md) - Foundational leadership skills
-   - [Psychological Safety](engineering-leadership-resources/org-health/psychological-safety.md) - Creating safe environments
-   - [Coaching & Mentoring](engineering-leadership-resources/org-health/coaching-and-mentoring.md) - Developing your team
-3. **Recommended Reading Order:** Start with organisational health topics, then explore
-   technical health and delivery execution as you gain experience
+1. **Organisational Health:** [General Leadership](engineering-leadership-resources/org-health/general-leadership.md),
+   [Psychological Safety](engineering-leadership-resources/org-health/psychological-safety.md),
+   [Coaching & Mentoring](engineering-leadership-resources/org-health/coaching-and-mentoring.md)
+2. **Technical Health:** [Architecture](engineering-leadership-resources/tech-health/architecture.md),
+   then Testing and Security via the section browse chain
+3. **Delivery & Execution:** [Product Operating Model](engineering-leadership-resources/delivery-execution/product-operating-model.md),
+   [Metrics](engineering-leadership-resources/delivery-execution/metrics-and-measurement.md),
+   [CI/CD](engineering-leadership-resources/delivery-execution/continuous-integration-and-delivery.md)
 
 ### I'm a New Product Leader
 
-If you're new to product leadership, start with:
+If you're new to product leadership, follow the
+[Product Leadership Start Here](product-leadership-resources/README.md#start-here-for-new-product-leaders)
+path (matches ⬅️/➡️ browse order):
 
-1. **[Product Leadership Resources](product-leadership-resources/)** - Begin with the
-   [README](product-leadership-resources/README.md) for an overview
-2. **Essential Topics:**
-   - [Product Vision](product-leadership-resources/product-vision.md) - Understanding your North Star
-   - [Product Strategy](product-leadership-resources/product-strategy.md) - Making strategic choices
-   - [Coaching](product-leadership-resources/coaching.md) - Developing product talent
-3. **Recommended Reading Order:** Start with leadership accountabilities (vision, strategy,
-   principles), then explore management accountabilities (staffing, coaching, objectives)
+1. **Foundation:** [Product Vision](product-leadership-resources/product-vision.md),
+   [Product Strategy](product-leadership-resources/product-strategy.md),
+   [Product Discovery](product-leadership-resources/product-discovery.md),
+   [Product Principles](product-leadership-resources/product-principles.md)
+2. **Leadership accountabilities:** [Priorities](product-leadership-resources/product-priorities.md),
+   [Evangelism](product-leadership-resources/product-evangelism.md)
+3. **Management accountabilities:** [Staffing](product-leadership-resources/staffing.md),
+   [Coaching](product-leadership-resources/coaching.md),
+   [Objectives](product-leadership-resources/objectives.md)
 
 ### I'm Experienced, Looking for Advanced Topics
 
@@ -95,12 +100,12 @@ to enhance leadership capabilities across various domains.
 
 This repository is organised into several key areas, each containing valuable resources and insights:
 
-- **[🌱 Engineering Leadership Resources](engineering-leadership-resources/)**: A curated
-  collection focused on organisational health, technical health, delivery execution, and other
-  relevant topics.
-- **[🌟 Product Leadership Resources](product-leadership-resources/)**: A curated collection
-  focused on product vision, strategy, principles, staffing your team, coaching, setting
-  objectives, and other relevant topics.
+- **[🌱 Engineering Leadership Resources](engineering-leadership-resources/README.md)**: A curated
+  collection focused on organisational health, technical health, and delivery execution (plus a
+  small author-notes shelf).
+- **[🌟 Product Leadership Resources](product-leadership-resources/README.md)**: A curated
+  collection focused on product vision, strategy, discovery, principles, priorities, evangelism,
+  staffing, coaching, and objectives.
 
 ## Key Frameworks Referenced
 
@@ -206,7 +211,8 @@ The `Makefile` automates environment setup, content checks, and helper tools:
 - **Lint Markdown**: `make lint-markdown` / `make lint-markdown-fix`
 - **Check navigation**: `make check-nav` (indexes, prev/next, `mkdocs.yml`)
 - **Check links**: `make check-links` (fails if any file has dead links)
-- **Lint + nav + links**: `make check-all`
+- **Check citations**: `make check-citations` (soft-404 / YouTube oEmbed on curated hosts)
+- **Lint + nav + links + citations**: `make check-all`
 - **Docs site**: `make docs-serve` / `make docs-build` (also built on PRs in CI)
 - **Run pre-commit hooks**: `make pre-commit`
 - **Update dependencies**: `make freeze`
