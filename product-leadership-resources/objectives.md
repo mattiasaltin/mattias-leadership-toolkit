@@ -1,45 +1,42 @@
 # 🎯 Objectives
 
-> "Great product people know what they don't know, and they admit it." — Marty Cagan
+Setting objectives is an EMPOWERED management accountability: align teams on outcomes, not
+output theatre. Good objectives create focus and autonomy; bad ones become a second roadmap in
+KPI clothing.
 
-Setting objectives happens at both the organisational and team levels. Effective managers
-collaborate to determine how their teams will deliver on organisational objectives, then work
-with individual teams to define specific results. This process involves give-and-take, with
-teams proposing how they'll achieve these objectives while maintaining alignment with the
-broader organisation's goals.
-
-Effective objective-setting focuses on outcomes rather than outputs, measuring impact rather
-than activity. Objectives should be ambitious yet achievable, providing clear direction while
-allowing teams autonomy in how they achieve them. For a short definition of OKRs, see
+For a short OKR definition, see
 [Key Frameworks Referenced](../README.md#key-frameworks-referenced).
+
+**Start here:** *Radical Focus* for team practice, the Google OKR playbook for writing quality,
+Doerr when you need the organisational story.
 
 ## Resources
 
-📘 [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with
-OKRs](https://www.goodreads.com/book/show/39286958-measure-what-matters) by John Doerr  
-The definitive guide to OKRs, explaining how to set ambitious objectives and measure progress
-through key results.
-
-📘 [Radical Focus: Achieving Your Most Important Goals with Objectives and Key
-Results](https://www.goodreads.com/book/show/28525037-radical-focus) by Christina Wodtke  
-A practical guide to implementing OKRs, with a focus on how to set objectives that drive
-results and align teams.
+📘 [Radical Focus](https://www.goodreads.com/book/show/28525037-radical-focus) by Christina
+Wodtke  
+Narrative, practical OKR implementation — how teams set objectives that drive results without
+turning into status theatre.
 
 📄 [Google's OKR Playbook](https://www.whatmatters.com/resources/google-okr-playbook) by
 What Matters / John Doerr  
-A durable, practical reference for writing outcome-focused objectives and key results at team
-and organisational level.
+Durable reference for writing outcome-focused objectives and key results at team and
+organisational level.
 
-🎥 [Webinar: Turning Visions Into Objectives & OKRs by DraftKings
-PM](https://www.youtube.com/watch?v=nX2iFedkQaE) by Product School  
-A Product School webinar on translating product vision into outcome-focused objectives and OKRs
-that teams can execute against.
+📘 [Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters) by
+John Doerr  
+The organisational case for OKRs: ambition, alignment, and measuring what actually matters.
+
+🎥 [Turning Visions Into Objectives & OKRs](https://www.youtube.com/watch?v=nX2iFedkQaE) by
+Product School  
+Translating product vision into outcome-focused objectives teams can execute against.
 
 ## Related Topics
 
 - [🔢 Product Priorities](product-priorities.md) - Priorities guide objective setting
 - [🗺️ Product Strategy](product-strategy.md) - Strategy informs objectives
 - [🎓 Coaching](coaching.md) - Coaching conversations often connect to outcomes
+- [📋 Performance Management](../engineering-leadership-resources/org-health/performance-management.md) -
+  Engineering performance systems should reference outcomes
 - [📈 Metrics and Measurement](../engineering-leadership-resources/delivery-execution/metrics-and-measurement.md) -
   Delivery metrics should support product objectives
 
