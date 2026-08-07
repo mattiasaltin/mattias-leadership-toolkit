@@ -15,6 +15,10 @@ A product operating model encompasses team structure, decision-making processes,
 product, engineering, and design collaborate to deliver value. It defines the "how" of product
 development, complementing product strategy's "what" and "why."
 
+**Start here:** Team Topologies for team interaction patterns, then Cagan's product operating
+model introduction for empowered-team framing. Use the DevOps Handbook when the constraint is
+delivery system capability rather than org chart shape.
+
 ## Resources
 
 📘 [Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies) by Matthew

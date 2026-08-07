@@ -4,10 +4,16 @@ Effective recruiting is crucial for building strong teams. This section covers s
 attracting, evaluating, and hiring talented individuals while maintaining high standards and
 promoting diversity.
 
+**Start here:** Spolsky for interview judgement, Ptacek for equitable technical loops, then
+Hiring Without Whiteboards when you want concrete alternatives to puzzle interviews. Pair with
+DEI and local employment context before you scale process.
+
+## Resources
+
 📄 [How to Hire](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 by Joel Spolsky  
 Spolsky shares insights on identifying great developers through effective interviewing
-techniques. He emphasizes the importance of evaluating problem-solving abilities and cultural
+techniques. He emphasises the importance of evaluating problem-solving abilities and cultural
 fit.
 
 🎥 [Keynote: Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)

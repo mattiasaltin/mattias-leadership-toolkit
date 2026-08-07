@@ -111,21 +111,28 @@ def youtube_id(url: str) -> str | None:
     return None
 
 
-def fetch(url: str, timeout: float = 20.0) -> tuple[int, str, str]:
-    """Return status, final_url, body (or empty)."""
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": UA, "Accept": "text/html,application/json,*/*"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            body = resp.read(200_000).decode("utf-8", errors="replace")
-            return resp.getcode() or 0, resp.geturl(), body
-    except urllib.error.HTTPError as exc:
-        body = exc.read(200_000).decode("utf-8", errors="replace") if exc.fp else ""
-        return exc.code, exc.geturl() if hasattr(exc, "geturl") else url, body
-    except Exception as exc:  # noqa: BLE001 - surface as soft failure
-        return 0, url, str(exc)
+def fetch(url: str, timeout: float = 20.0, retries: int = 2) -> tuple[int, str, str]:
+    """Return status, final_url, body (or empty). Retry transient network failures."""
+    last_err = ""
+    for attempt in range(retries + 1):
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": UA, "Accept": "text/html,application/json,*/*"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                body = resp.read(200_000).decode("utf-8", errors="replace")
+                return resp.getcode() or 0, resp.geturl(), body
+        except urllib.error.HTTPError as exc:
+            body = exc.read(200_000).decode("utf-8", errors="replace") if exc.fp else ""
+            return exc.code, exc.geturl() if hasattr(exc, "geturl") else url, body
+        except Exception as exc:  # noqa: BLE001 - surface as soft failure
+            last_err = str(exc)
+            if attempt < retries:
+                time.sleep(0.5 * (attempt + 1))
+                continue
+            return 0, url, last_err
+    return 0, url, last_err
 
 
 def page_title(body: str) -> str:

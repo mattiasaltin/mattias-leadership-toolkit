@@ -5,6 +5,9 @@ engineering leadership accountability for quality, skills, or measurement. Treat
 productivity amplifiers that need explicit review norms, clear quality expectations, and caution
 about vanity metrics.
 
+**Start here:** DORA's AI guidance for evidence-backed caution, then Fowler for engineering
+judgement. Use Farley when stakeholders push acceptance-rate vanity metrics.
+
 ## Resources
 
 📄 [DORA | Artificial Intelligence](https://dora.dev/ai/) by DORA  
