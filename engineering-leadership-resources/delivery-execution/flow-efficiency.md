@@ -1,11 +1,12 @@
 # 🌊 Flow Efficiency
 
-Flow efficiency is about optimising the flow of work through a system to maximize value delivery.
-This section explores techniques for improving flow efficiency.
+Flow efficiency is the share of elapsed time spent actively working versus waiting in queues.
+Leaders improve it by limiting WIP, shrinking batch size, and fixing the system delays — not by
+asking individuals to “go faster.”
 
-Flow efficiency measures the percentage of time work is actively being worked on versus waiting
-in queues. High flow efficiency means work moves quickly through the system with minimal delays,
-enabling faster delivery and better responsiveness to customer needs.
+**Start here:** Reinertsen for the economics of queues and batch size, then Vacanti for which
+flow metrics actually improve predictability. Use Kanban / value-stream mapping when you need
+visible WIP and wait-time diagnosis.
 
 ## Resources
 
@@ -17,14 +18,14 @@ Reinertsen explains queueing theory, batch sizes, and how to optimise flow throu
 systems.
 
 📘 [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.goodreads.com/book/show/8157811-kanban)
-by David J. Anderson
-Anderson explains how Kanban principles improve flow efficiency by visualizing work, limiting
+by David J. Anderson  
+Anderson explains how Kanban principles improve flow efficiency by visualising work, limiting
 work-in-progress, and managing flow. Essential reading for understanding flow-based approaches.
 
 📘 [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
-by Gene Kim, Kevin Behr, and George Spafford
-A novel that illustrates flow efficiency principles in practice, showing how limiting work-in-progress
-and improving flow transforms IT operations.
+by Gene Kim, Kevin Behr, and George Spafford  
+A novel that illustrates flow efficiency principles in practice, showing how limiting
+work-in-progress and improving flow transforms IT operations.
 
 📄 [Value Stream Mapping](https://www.lean.org/lexicon-terms/value-stream-mapping/) by Lean
 Enterprise Institute  

@@ -1,9 +1,13 @@
-# 🛠️ Technical Excellence in Delivery
+# 💫 Technical Excellence in Delivery
 
 Technical excellence is the day-to-day craft that makes delivery sustainable: TDD, refactoring,
 code review culture, and leaders who protect quality while shipping. Pipeline mechanics and the
 Continuous Delivery book live on
 [🔄 Continuous Integration and Delivery](continuous-integration-and-delivery.md).
+
+**Start here:** Beck on TDD and Fowler on refactoring for the craft baseline, then Fowler’s
+“Is High Quality Software Worth the Cost?” when stakeholders treat quality as optional delay.
+Use Kua for the leadership path that makes excellence a team property.
 
 ## Resources
 

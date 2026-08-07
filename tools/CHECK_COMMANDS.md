@@ -1,120 +1,82 @@
 # Local Markdown Check Commands
 
-This document provides individual command-line instructions for running markdown checks locally.
+Prefer Make targets. Raw `npx` / `python3` commands are listed for one-off debugging.
 
 ## Prerequisites
 
-### Option 1: Using npx (No installation required)
+- Node.js (for `npx` markdownlint / markdown-link-check)
+- Python 3.10+ (for nav and citation scripts; `make setup` for the URL-checker venv)
 
-The commands below use `npx` which automatically downloads and runs the tools. No installation needed.
-
-### Option 2: Install tools globally
+Optional global install:
 
 ```bash
 npm install -g markdownlint-cli markdown-link-check
 ```
 
-## Individual Commands
-
-### 1. Lint Markdown Files
-
-Check all markdown files for linting issues:
+## Make targets (preferred)
 
 ```bash
-npx --yes markdownlint-cli "**/*.md" --ignore node_modules
+make lint-markdown       # markdownlint (ignores node_modules, tmp, docs, site)
+make lint-markdown-fix  # auto-fix where possible
+make check-nav           # indexes, prev/next, mkdocs.yml coverage
+make check-links         # fail-closed link check on every .md
+make check-citations     # soft-404 / YouTube checks on watched hosts
+make check-all           # lint + nav + links + citations
 ```
 
-Auto-fix linting issues where possible:
+Docs site:
 
 ```bash
-npx --yes markdownlint-cli "**/*.md" --ignore node_modules --fix
+make docs-setup
+make docs-serve
+make docs-build
 ```
 
-Check a specific file:
+## Individual commands
+
+### Lint
 
 ```bash
+npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --ignore docs --ignore site
+npx --yes markdownlint-cli "**/*.md" --ignore node_modules --ignore tmp --ignore docs --ignore site --fix
 npx --yes markdownlint-cli path/to/file.md
 ```
 
-### 2. Check Markdown Links
-
-Check all links in all markdown files:
-
-```bash
-find . -name "*.md" -not -path "./node_modules/*" -not -path "./.venv/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;
-```
-
-Check links in a specific file:
+### Links
 
 ```bash
 npx --yes markdown-link-check path/to/file.md --config .markdown-link-check.json
 ```
 
-Check links without config file:
+Full-tree check matches `make check-links` (skips `node_modules`, `.venv`, `tmp`, `docs`, `site`).
+LinkedIn and Substack are ignored in `.markdown-link-check.json` (bot-blocked from CI).
+
+### Nav and citations
 
 ```bash
-npx --yes markdown-link-check path/to/file.md
+python3 tools/check_nav.py
+python3 tools/check_citations.py
 ```
 
-### 3. Using Make Commands
-
-Run all markdown linting:
-
-```bash
-make lint-markdown
-```
-
-Auto-fix markdown linting issues:
-
-```bash
-make lint-markdown-fix
-```
-
-Check all links:
-
-```bash
-make check-links
-```
-
-Run all checks:
-
-```bash
-make check-all
-```
-
-### 4. Pre-commit Hooks
-
-Install pre-commit hooks (runs automatically on `git commit`):
+### Pre-commit
 
 ```bash
 make install-pre-commit
-# or manually:
-pip3 install pre-commit
-pre-commit install
+make pre-commit          # all files
+make pre-commit-hook     # staged only
 ```
 
-Run pre-commit hooks on all files:
+Pre-commit runs markdownlint; nav, links, and citations are Make/CI gates.
 
-```bash
-make pre-commit
-# or manually:
-pre-commit run --all-files
-```
-
-Run pre-commit hooks on staged files only:
-
-```bash
-make pre-commit-hook
-# or manually:
-pre-commit run
-```
-
-## Quick Reference
+## Quick reference
 
 | Task | Command |
 | --- | --- |
-| Lint all markdown | `npx --yes markdownlint-cli "**/*.md" --ignore node_modules` |
-| Fix linting issues | `npx --yes markdownlint-cli "**/*.md" --ignore node_modules --fix` |
-| Check all links | `find . -name "*.md" -not -path "./node_modules/*" -exec npx --yes markdown-link-check --config .markdown-link-check.json {} \;` |
-| Install pre-commit | `make install-pre-commit` |
-| Run all checks | `make check-all` |
+| Lint | `make lint-markdown` |
+| Fix lint | `make lint-markdown-fix` |
+| Nav | `make check-nav` |
+| Links | `make check-links` |
+| Citations | `make check-citations` |
+| Everything | `make check-all` |
+| URL checker UI | `make run` |
+| Pre-commit (all) | `make pre-commit` |

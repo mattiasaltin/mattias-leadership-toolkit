@@ -1,9 +1,12 @@
 # 🔄 Continuous Integration and Delivery
 
 Continuous integration and delivery (CI/CD) are practices that enable teams to deliver software
-changes quickly and reliably. This section covers CI/CD principles and how leaders should
-organise feedback loops so releasability is a continuous property of the codebase, not a late
-ceremony.
+changes quickly and reliably. Leaders organise feedback loops so releasability is a continuous
+property of the codebase, not a late ceremony.
+
+**Start here:** Fowler’s Continuous Integration essay for the definition, then Humble & Farley’s
+*Continuous Delivery* for pipelines and organisational practice. Use Farley’s GOTO talk when you
+need a concrete pipeline mental model.
 
 ## Resources
 

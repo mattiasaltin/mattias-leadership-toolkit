@@ -1,7 +1,14 @@
 # 📈 Metrics and Measurement
 
-Metrics and measurement are essential for understanding and improving software delivery
-performance. This section covers key metrics and how to use them effectively.
+Delivery metrics are a leadership tool: they should improve decision quality and learning, not
+produce vanity scorecards. Prefer outcome-linked measures (DORA, SPACE) over individual
+productivity theatre.
+
+**Start here:** *Accelerate* / [DORA Research](https://dora.dev/research/) for the four key
+metrics, then Forsgren on SPACE. Use Farley when stakeholders push simplistic developer
+productivity rankings.
+
+## Resources
 
 📘 [Accelerate: The Science of Lean Software and
 DevOps](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez
@@ -10,7 +17,8 @@ Research-based insights into the metrics that drive high performance in software
 
 🎥 [The SPACE Framework Explained by Nicole Forsgren | Measure Developer
 Productivity](https://youtu.be/O2rbekHpG4Q?si=wI8rOHu-zMI1Ym1O) by Nicole Forsgren  
-Forsgren discusses the importance of measuring the right metrics to drive improvement and achieve business goals.
+Forsgren discusses measuring the right dimensions of developer productivity — satisfaction,
+performance, activity, communication, and efficiency — not a single score.
 
 📄 [DORA metrics](https://www.thoughtworks.com/radar/techniques/dora-metrics) by ThoughtWorks  
 Technology Radar blip on the Accelerate / DORA four key metrics. Prefer

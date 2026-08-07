@@ -5,6 +5,10 @@ capacity, WIP limits, dual-track habits, and resisting the urge to treat researc
 project phase. For discovery *methods* (interviews, OSTs, assumption tests), see
 [🔍 Product Discovery](../../product-leadership-resources/product-discovery.md).
 
+**Start here:** Cagan’s Dual-Track Agile for the operating-model view, then *Inspired* for how
+empowered trios keep both tracks alive. Use Haworth when rituals and backlog ownership are the
+real constraint.
+
 ## Resources
 
 📘 [Inspired: How To Create Products Customers
